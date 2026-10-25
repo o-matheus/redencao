@@ -16,7 +16,7 @@ Repositório central de estudos, resumos revisados e códigos práticos da **Eta
 | # | Curso | Diretório | Disponível no LMS? | Progresso |
 | :-: | :--- | :--- | :-: | :-: |
 | **a** | **Curso Introdutório** (Introdução à Plataforma EAD) | [`01-curso-introdutorio/`](./01-curso-introdutorio/) | Sim | `[x] 100%` |
-| **b** | **Lógica de Programação** | [`02-logica-de-programacao/`](./02-logica-de-programacao/) | Sim | `[ ] 0%` |
+| **b** | **Lógica de Programação** | [`02-logica-de-programacao/`](./02-logica-de-programacao/) | Sim | `[~] 60%` |
 | **c** | **Programação Python** | [`03-programacao-python/`](./03-programacao-python/) | Sim | `[ ] 0%` |
 | **d** | **Organização de Computadores** | [`04-organizacao-de-computadores/`](./04-organizacao-de-computadores/) | Sim | `[ ] 0%` |
 | **e** | **Banco de Dados** | [`05-banco-de-dados/`](./05-banco-de-dados/) | Sim | `[ ] 0%` |
