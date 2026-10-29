@@ -1,0 +1,1293 @@
+# Transcrição Oficial — Aula Inaugural da Residência em TIC 16 (BRISA - UNILAB)
+
+- Data da Gravação: 29/10/2026
+- Duração Total: 01:48:49
+- Modelo de Transcrição: Faster-Whisper (small / int8 / VAD)
+
+---
+
+[00:00 -> 00:11] E a todos e todos, sejam muito bem-vindos na Aura Inaugurável Programa 16, em parceria com a Trisa e a mesma.
+[00:11 -> 00:23] É grande satisfação darmos início a este momento tão importante para o congresso dentro da formação de opção da área de tecnologia, da informação e comunicação.
+[00:23 -> 00:27] Hoje, começam a nota para a trajetória de vocês.
+[00:27 -> 00:30] com a jornada que realmente aprendizavam,
+[00:30 -> 00:32] desde o futuro dito de comências,
+[00:32 -> 00:39] e na opção de preparação para os desafios
+[00:39 -> 00:41] e antes de seguirmos,
+[00:41 -> 00:44] queremos destacar um dado muito importante.
+[00:44 -> 00:49] O Cabrão recebeu 500
+[00:49 -> 00:56] das quais 250 candidatos foram ser relacionados.
+[00:56 -> 00:58] Esse número demonstra grande interesse
+[00:58 -> 01:00] pelas oportunidades de informação,
+[01:00 -> 01:03] de reclogir a informação.
+[01:03 -> 01:07] e evidencia a concorrência do processo seletivo.
+[01:07 -> 01:11] O Programa de Residência e TIC-16,
+[01:11 -> 01:13] Brisa Barra Manilami,
+[01:13 -> 01:16] tem como foco a formação de profissionais
+[01:16 -> 01:18] na tecnologia da informação,
+[01:18 -> 01:21] com a ênfase de programação avançada
+[01:21 -> 01:27] e no desenvolvimento de soluções para o tempo
+[01:27 -> 01:31] atomacado, na qual os residentes
+[01:31 -> 01:35] poderão ficar encontrados com os desafios reales de...
+[01:35 -> 01:39] Ao longo dessa fase, vocês terão a oportunidade
+[01:39 -> 01:40] de ampliar o conhecimento
+[01:40 -> 01:52] de experiências, trabalhar e equipe, e desde o coberto com competências importantes para a construção de suas carreiras e tropas,
+[01:52 -> 02:04] que estes sejam indícios de uma prajadoria maricada pela dedicação, pela criatividade, pela colaboração e pelo compromisso com a aprendizada.
+[02:04 -> 02:09] Queremos desejar muito bem-vindos em todos.
+[02:09 -> 02:16] Nesse momento, combinamos as autoridades e os regras das instituições parceiras
+[02:16 -> 02:20] para um buraco de honra desta solidariedade.
+[02:20 -> 02:28] Combinamos, então, a vice-reitora da União Brasileira,
+[02:28 -> 03:25] professora doutora Eliana e doutor Alguino Comentos das C6,
+[03:25 -> 04:14] e o dôndio Véu, de vez de Jarejo,
+[04:14 -> 04:20] montar a formação de novos profissionais na área de Rio.
+[04:20 -> 04:32] Queremos registrar e saudar também aqui os profissionais que fazem que o programa de residência entre ele e os desenhos, e desenhos que Isa vai congelar.
+[04:32 -> 04:36] Saudamos também os coordenadores do programa.
+[04:36 -> 04:48] Professor, doutor, André Ruiz da Costa Vendonça.
+[04:48 -> 05:12] E o professor doutoro Carles, quero combinar agora com curadeza o vice-presidente de Pesquisa Desenvolvimento e Inovação da Diploma do Desenbolvimento da Tecnologia e da Informação.
+[05:12 -> 05:56] O senhor recente, professora Língela Escreva,
+[05:56 -> 06:35] ex-deadeira, Rafael Olio,
+[06:35 -> 06:53] preguição para o desenvolvimento
+[06:53 -> 06:56] das iniciativas, pedimos então
+[06:56 -> 07:01] que o residenciente que 16
+[07:01 -> 07:03] imparçaria a estabilização
+[07:03 -> 07:16] e o aposentamento de
+[07:16 -> 07:18] seus parceiros a compartilharem
+[07:18 -> 07:20] suas considerações sobre
+[07:20 -> 07:22] a importância da formação
+[07:22 -> 07:35] e transição, e, primeiramente,
+[07:35 -> 07:41] reitora da unicação
+[07:41 -> 09:14] da pessoa, a doutora Elina
+[09:14 -> 09:16] Paseca, que é um dospre,
+[09:16 -> 09:19] que é representante do NCCI,
+[09:19 -> 09:40] que é de todos vocês, agradeço a Deus
+[09:40 -> 09:52] por ver o tempo que eu falei,
+[09:52 -> 09:56] e por todas as finanças, por muito tempo,
+[09:56 -> 10:03] a gente acaba acertando hoje,
+[10:03 -> 10:08] que é o soco de felicidade na América Latina,
+[10:08 -> 10:10] onde eu conheci o mundo,
+[10:10 -> 10:14] então eu não quero fazer isso,
+[10:14 -> 10:17] eu falo um vez esteado,
+[10:17 -> 10:20] e hoje eu já leviada de saber o Brasil como sério,
+[10:20 -> 10:46] Temos um espérico da educação, uma presidente que é preocupada com a educaça pública e que também tem a compreensão de que a universidade tem que estar diálogo com as fazeiras e pensar o futuro no presente.
+[10:46 -> 10:57] Então, agradeço muito a Seria Carriz da Universidade, a gente se colocar nesse lugar.
+[10:57 -> 11:04] Esse projeto já é um projeto de inscrição, porque ele tem mais de 500 inscrições,
+[11:04 -> 11:11] e a gente sabe que, desde o primeiro momento, não vamos até ter todas as inscriações,
+[11:11 -> 11:16] mas a gente já começa com um grande succeso que mostra esse canal para a universidade
+[11:16 -> 11:19] e o potencial para uma universidade comunal.
+[11:19 -> 11:30] de uma missão que havia os países africanos de língua portuguesa, o Masciso do Papyrinté,
+[11:30 -> 11:36] também São Francisco do Fondo e o Escovô do Caelão, ali, todo esse retorno,
+[11:36 -> 11:44] de estudos de Brasil e África, a pensar no futuro de uma reação aí dentro do campo
+[11:44 -> 11:53] da tecnologia, da informação, dentro do domingo da K.I., era a gente comentava
+[11:53 -> 11:56] que aumentaram o investimento na nossa empresa,
+[11:56 -> 12:00] e às vezes a Universidade ficou muito tempo com a gente na cara,
+[12:00 -> 12:08] na exigência das empresas, com o empreendedorismo,
+[12:08 -> 12:14] e é uma das últimas décadas que a Universidade precisa assim entender,
+[12:14 -> 12:18] precisa assim ter uma relação com o mundo real,
+[12:18 -> 12:22] com o mercado, com a paciência,
+[12:22 -> 12:30] A experiência do material, esse no máximo, está sempre em solução.
+[12:30 -> 12:40] Então, de pensar em uma sociedade anti-racista, recolhe, de pensar culturas, entendedores,
+[12:40 -> 12:48] culturas empresárias, empresárias que estão preocupadas, que reajudam que nós termos
+[12:48 -> 12:54] uma sociedade de respeito à ciência e de pensar no futuro, a revelar que a
+[12:54 -> 13:00] que a gente vai ouvir. Então eu tenho certeza de que essa transformação é uma azeria de uma brisa,
+[13:00 -> 13:04] já que já é uma parceira de algo que vem, com vocês,
+[13:04 -> 13:09] certamente uma parceireira de sucesso, muito feliz que ela agradecer a três vezes do curso,
+[13:09 -> 13:15] e sucesso. Mas sempre que o nosso projeto seja seu na Universidade Internacional,
+[13:15 -> 13:20] de pensar na sua relação com a ciência da tecnologia, com o pretedorismo,
+[13:20 -> 13:26] Concentrar com a brisa que sempre foca com melhorar a qualidade de vida das pessoas.
+[13:26 -> 13:32] Eu estudo dizer que sempre nós temos que ser boas pessoas, boas seres humanos.
+[13:32 -> 13:41] Boas seres humanas não gerar. Boas iguais, bons projetos, boos indígenas que normalmente vão ter uma sociedade no tenhão.
+[13:41 -> 13:42] Muito obrigada.
+[13:42 -> 13:57] vice-presidente de pesquisa de desenvolvimento e inovação da violência, sociedade para
+[13:57 -> 14:02] desenvolvimento da tecnologia da informação, o senhor Vicente Landinho Massercuini.
+[16:21 -> 16:27] O que está a ver, o que está, o risco é que o órgão está tendendo a justificação
+[16:27 -> 16:31] e o álcool está funcionando, então pode ser variado, tá?
+[16:31 -> 16:35] O ílcool não está tendo esse risco de desfeio.
+[16:35 -> 16:36] Feio.
+[16:36 -> 16:38] Desfeio de condenamento.
+[16:38 -> 16:40] Na lei de formato, tá.
+[16:40 -> 16:43] Na lei do formato de formatilismo.
+[16:43 -> 16:47] E o percentual do risco está a ser desfeiosamente,
+[16:47 -> 16:49] e desde o tempo de formação.
+[19:22 -> 19:31] Mas não é um atleta, não é uma atlete, mas um atetor, um atretor, e um atreio.
+[19:31 -> 19:33] Mas não tem um atraso, não tem uma atreia.
+[19:33 -> 19:35] Mas não há um atracão, não há uma atracção.
+[19:35 -> 19:37] Não há um trecho, não.
+[19:37 -> 19:39] Não há uma trecho.
+[19:39 -> 19:41] Não tem um trechado.
+[19:41 -> 19:43] Não tem uma trechada.
+[19:43 -> 19:45] Não tem.
+[19:45 -> 19:47] Não tem a trechadeira.
+[21:30 -> 21:34] o trabalho do seu pai está muito rápido e eu tenho uma acessibilidade com o Pé
+[21:34 -> 21:37] em relação ao heterotorismo e da alvação
+[21:37 -> 21:40] fez uma parceria muito boa para o meu lado
+[21:40 -> 21:43] deixando uns 90% de trabalhos em uma universidade
+[21:43 -> 21:46] e para realizar a universidade pelo programa
+[21:46 -> 21:51] a mensagem que eu tenho para vocês, que o site desse programa ele é único
+[21:51 -> 21:54] ele é o único e é uma oportunidade que você esteve a agarrar
+[21:54 -> 21:57] com muito incidência mesmo
+[21:57 -> 22:08] Eu digo muito isso, eu não sei se eu pego na presidência, eu falo do meu peito, o que não faz muito tempo, nós já estávamos acompanhando a comávia de ontem que eu tive na universidade
+[22:08 -> 22:15] e as oportunidades eram outras, hoje a gente vive novos tempos, tempo de oportunidades, tempo e desenvolvimento
+[22:15 -> 22:24] e na nossa época a gente vai ter uma oportunidade realmente distinta, e hoje vocês estão tendo a oportunidade de ir no mercado de trabalho todo o tempo e o profissional
+[22:24 -> 22:33] Agradecendo a parabéns a Rútenha Prisa pelo trabalho que vem fazendo com esse prédio de residência.
+[22:33 -> 22:40] E, no próximo dosco, continuo a ser claro que algo precisa de um anjo de progredo programado
+[22:40 -> 22:45] na nação de creditorismo é um adjudicado de novos aperto para o processo de acessar.
+[22:45 -> 22:47] Creditorismo e notação.
+[22:47 -> 22:58] Ovidão sem sequência, a senhora André, sabariando entre eles, Peó, global não,
+[22:58 -> 23:04] coordenadora de inovação tecnológica, coordenador do Número de Inovação Tecnológica da Milávia,
+[23:04 -> 23:09] para compartilhar as considerações sobre a inovaçao tecnológico e a articulação
+[23:09 -> 23:18] entre o conhecimento, pesquisa e desenvolvimento.
+[23:18 -> 23:23] para os dias todos, para descer do mesmo convite na visão de perto,
+[23:23 -> 23:25] para ter que também estar com louco.
+[23:25 -> 23:30] Eu acho que isso é uma oportunidade, não só para a doença,
+[23:30 -> 23:34] para nós assim, mas para os estudantes de uma maneira geral,
+[23:34 -> 23:40] os professores também, que são os que contarem e anos alunos,
+[23:40 -> 23:45] e eu acho que é super importante a gente ver o nome das inscrições,
+[23:45 -> 23:52] Seu último grupo fez umificativo de sinal e o projeto ele tem comercial, ele já tem um histórico de potencial
+[23:52 -> 23:57] e a clara e o potencial dele e o diferencial vai ser aqui, como assiste o Barberité.
+[23:57 -> 24:03] Então acho que isso é uma grande oportunidade para os compensais que temos dentro da universidade
+[24:03 -> 24:07] para a gente conseguir transparar as paredes da universidades.
+[24:07 -> 24:11] Eu sempre puxou falar pra ele no momento de uma gração,
+[24:11 -> 24:16] não adianta a gente fazer o que fazer pra ele estar neve a estado e ficar neve na cidade.
+[24:16 -> 24:21] A gente só tá utilizando o gelo combinante que precisa ter um fim pra isso.
+[24:21 -> 24:24] Então, a gente precisa capacitar os estudantes
+[24:24 -> 24:27] pra que eles são o que fazem aqui, que eles aprendem aqui,
+[24:27 -> 24:30] que eles consigam transparçar,
+[24:30 -> 24:33] e aí dá uma oportunidade também para a mercade da barra
+[24:33 -> 24:37] e o potencial dele serem o bicho das riteiras aí de mercado.
+[24:37 -> 24:43] Então, esse programa, esse projeto de residencias em DCS
+[24:43 -> 24:48] ela é muito importante para que a universidade, a universdade esteja presente
+[24:48 -> 24:55] e com potencial para a gente poder, para talvez mais mostrar o nosso potencial
+[24:55 -> 25:00] como estudantes, como professores, como profissionais, como região também
+[25:00 -> 25:04] que a região tem muito aterceiro, potencial de mais estudados internos
+[25:04 -> 25:07] Só que está ali presente o que sabe, né?
+[25:07 -> 25:12] E muitas das vezes eu vejo muitos projetos que tem aqui na universidade
+[25:12 -> 25:15] e as pessoas que acham que não é inovação.
+[25:15 -> 25:18] E precisam entender o que é inovação sim,
+[25:18 -> 25:23] que a gente precisa ter a cultura de inovações na universitagem.
+[25:23 -> 25:27] E a gente fazemos o diferencial dos nossos projetos.
+[25:27 -> 25:32] Começaram a pensar nas dificultades, nas programáticas reais
+[25:32 -> 25:35] e buscar as soluções dentro da universidade,
+[25:35 -> 25:38] porque assim a gente vai fazer o diga inicial, tá bom?
+[25:38 -> 25:41] E aí, só agradecer a alguma possibilidade,
+[25:41 -> 25:44] porque precisarem da formação de novação tecnológica,
+[25:44 -> 25:46] o número de novações tecnológicas,
+[25:46 -> 25:49] com a visão de impederismo e combinação de coisas,
+[25:49 -> 25:51] a lei que também é meio do que a transformação,
+[25:51 -> 25:53] considerando a universidade.
+[25:53 -> 25:55] Estamos aqui à disposição,
+[25:55 -> 25:58] este nós, porque eu também vejo,
+[25:58 -> 26:02] ele se identificar, estatar com os mais poderes estatados,
+[26:02 -> 26:07] pode começar com a dele, com a divisão de dinheiro e contribuição de empresas também,
+[26:07 -> 26:09] que a gente faz todo o investimento.
+[26:09 -> 26:13] O sacraio com quem está sempre junto com o novo nas capacitações.
+[26:13 -> 26:18] Na semana que tivemos filhamento, a gente teve a oportunidade de ver vários,
+[26:18 -> 26:23] grupos e edifes que tinham um potencial, um tempo potencial,
+[26:23 -> 26:25] que a fazer o diferencial também.
+[26:25 -> 26:30] Então, flexibilidade, estamos aqui à disposição e a agradecer por mais uma vez.
+[26:30 -> 26:42] Professor doutor Rodrigo Pereira, director, mulheres e coordenador terno que colocaram
+[26:42 -> 26:47] o programa de residency em Chico, C6, em parceria com a Luane
+[26:47 -> 26:51] para fazer o vídeo da palavra e apresentar as suas considerações.
+[26:51 -> 26:57] Bom dia, todos, prazeres.
+[26:57 -> 27:01] Se você me inveja de estar ocupado com os prazeros, eu tenho que agradecer a vocês,
+[27:01 -> 27:03] e os outros, agora, com a mesma cabeça,
+[27:03 -> 27:05] é só, então, assim,
+[27:05 -> 27:08] os números e as mapas de projetos, né?
+[27:08 -> 27:10] Os alunos, realmente, não são os alunas,
+[27:10 -> 27:13] mas, sabe, o pessoal aqui que gosta de um lado de chão de fábrica,
+[27:13 -> 27:15] de lá, a viagem vai acontecer.
+[27:15 -> 27:17] Então, assim...
+[27:17 -> 27:19] Eu só acredito que você não sei omitir
+[27:19 -> 27:21] bons nacionais,
+[27:21 -> 27:23] sem resolver problemas
+[27:23 -> 27:25] do mercado dramático.
+[27:25 -> 27:27] Então, não agir para você estar solvente aqui
+[27:27 -> 27:29] em fazer artigos que é importante
+[27:29 -> 27:35] Então, ele já tem que crer, ele diz que é a sua cara, o seu soco, a própria real, tá na empresa.
+[27:35 -> 27:38] Ele não precisa de um privado, não, ele se for formado aqui.
+[27:38 -> 27:43] Mas eu gosto de usar, por exemplo, esse sentido deles acontecer.
+[27:43 -> 27:46] É que a gente tem que sair dos muros da universidade.
+[27:46 -> 27:50] Então, que tem muitos alunos que não são valorados na inscrição.
+[27:50 -> 27:52] Então, sabe que isso é uma coisa que eu passei.
+[27:52 -> 27:55] Não tenho carinha pra você estudar e não saber buscar.
+[27:55 -> 27:57] Apesar do acordo da sociedade.
+[27:57 -> 28:02] Então sim, esse é o primeiro projeto da Dia Sintese,
+[28:02 -> 28:03] que nada de ganharia,
+[28:03 -> 28:06] com muito feliz por isso.
+[28:06 -> 28:09] Ela agradece a equipe e aos professores,
+[28:09 -> 28:12] que estão com a estabilha, que o esquestão coloca a mão,
+[28:12 -> 28:14] a asa, o coordenador, os outros.
+[28:14 -> 28:17] Então assim, nós estamos trabalhando aí de forma,
+[28:17 -> 28:18] assim, eu estou correndo,
+[28:18 -> 28:20] quando vai nas empresas,
+[28:20 -> 28:21] que tem a minha sensação,
+[28:21 -> 28:23] que ela tem várias mãos.
+[28:23 -> 28:29] Se você ainda está e vai conseguir resolver isso, então vamos quebrar esse paradigma.
+[28:29 -> 28:33] A gente dá a vocês e vão resolver os problemas.
+[28:33 -> 28:35] Então isso vai empregá-lo.
+[28:35 -> 28:39] Ao gostoso, você não pode voltar. Não.
+[28:39 -> 28:43] Porque em seu realidade, vocês vão ter conhecimento.
+[28:43 -> 28:50] O que é a adiante você ter o conhecimento que está encapsulado só para vocês?
+[28:50 -> 28:55] Então incentivo vocês fortemente, realmente, a se identificar esse curso.
+[28:55 -> 29:01] Aqui traz o meu problema de reais, de onde, né, o Conho, que eu já vou falar aqui, né?
+[29:01 -> 29:03] Aqui eu tenho uma coisa que vou falar, lembrando.
+[29:03 -> 29:05] Uma grasa surpresa da gente.
+[29:05 -> 29:09] Na empresa e mais recentes da luz, né.
+[29:09 -> 29:11] Tem um ex-alunho que foi contratado.
+[29:11 -> 29:16] O chefe dele falou quando a gente disse,
+[29:16 -> 29:18] quando ele voltou até comentar,
+[29:18 -> 29:20] que já é um dos maiores processos lá.
+[29:20 -> 29:22] A gente já tem a vivência prática,
+[29:22 -> 29:24] ele é algum, né de extinuição,
+[29:24 -> 29:26] e ele vivia esse valor parecido.
+[29:26 -> 29:30] E aí, a empresa acolheu a gente assim como o artigo.
+[29:30 -> 29:34] Então, pessoal, na hora de você incentivar bastante a professores,
+[29:34 -> 29:39] então, é importante que a professora esconde pra vocês, né?
+[29:39 -> 29:41] E aí na cabeça de vocês, eu pensei assim,
+[29:41 -> 29:44] qual é o problema real desse importante?
+[29:44 -> 29:46] Professora, eu tô falando isso porque...
+[29:46 -> 29:49] Não chega pra mim, já tem muitas pessoas,
+[29:49 -> 29:52] como é que eu vou escrever o artículo, né.
+[29:52 -> 29:54] Eu sou pesquisador, eu tenho que publicar,
+[29:54 -> 29:56] porque vai se falar com a minha carreira.
+[29:56 -> 30:02] publicar, eu só tenho que ser você para contorcionar e publicar
+[30:02 -> 30:05] mas também souber que soube qual é o problema da sociedade
+[30:05 -> 30:13] sem isso, não?
+[30:13 -> 30:15] que sejam resolvidos para os reais
+[30:15 -> 30:17] em realmente melhor a nossa sociedade
+[30:17 -> 30:20] e melhor o que eu assisto para tudo o que é que não me diz
+[30:20 -> 30:21] é uma preocupação da gente
+[30:21 -> 30:23] do nosso lado, vamos ver, né?
+[30:23 -> 30:25] os países lá, no ponto de vista, né
+[30:25 -> 30:27] porque se por chegar lá o moleque está lá
+[30:27 -> 30:29] no outro campo, será que vai ser doença?
+[30:29 -> 30:31] e no terceiro campo, se a gente morre
+[30:31 -> 30:32] que é uma questão
+[30:32 -> 30:33] que eu chego agora
+[30:33 -> 30:39] E vó de seus países ou não, é muito mais concluído lá, de alguma forma, que nem tem muito problema.
+[30:39 -> 30:44] Bom, agradecer a vocês por ter acreditado o projeto, isso é muito comum.
+[30:44 -> 30:48] Se você for, por exemplo, mais um sucesso, então vocês são os principais estreios.
+[30:48 -> 30:51] Precisa realmente ficar lá na empresa.
+[30:51 -> 30:54] A empresa, vamos ver, é uma coisa que eu já vou falar aqui.
+[30:54 -> 30:56] Já devem falar, óh, pode cobrar do dinheiro.
+[30:56 -> 30:59] Pode cobrar, tem mais alesarante.
+[30:59 -> 31:01] É que resolve um real.
+[31:01 -> 31:04] é só falar um pouco na noite, é bom ser...
+[31:04 -> 31:06] é bom falar em alunos férias, é uma brevinada...
+[31:06 -> 31:11] qual é a forma de...
+[31:11 -> 31:14] que não é, perdão...
+[31:14 -> 31:17] porque a gente quer que você seja resolvido,
+[31:17 -> 31:19] não é? recebeu um contrato e depois guarda de novo.
+[31:19 -> 31:21] A gente quer você seja um profissional
+[31:21 -> 31:23] e isso aí é importante.
+[31:23 -> 31:25] Tá bom? Tô falando dela na história,
+[31:25 -> 31:28] me agradecer até falar com a mãe.
+[31:28 -> 31:38] Obrigado pessoal, tá pronto?
+[31:59 -> 32:07] dentro e, de verdade, com mais intensidade depois da fralga do sono, no dia a dia.
+[32:07 -> 32:11] Eu queria começar com os dois componentes, o escondimento do horror,
+[32:11 -> 32:21] o esconderimento dos alvos, o estado de grande parceira do nosso,
+[32:21 -> 32:26] daqui a esse projeto de generação e atingência,
+[32:26 -> 32:33] são os traiamentos do oeste, como Vicente Contador para a sua fralda,
+[32:33 -> 32:39] é um projeto que já vem, como ele já é, ainda no final.
+[32:39 -> 32:49] Portanto, que o país entrava em certas reforças,
+[32:49 -> 32:53] principalmente enquanto a base de ciências turcológicas
+[32:53 -> 32:58] tem tensa em certes áreas, para o caso da sua positiva,
+[32:58 -> 33:04] é muito importante manter grandes projetos,
+[33:04 -> 33:09] manter suas execuções atravessando as escaturas,
+[33:09 -> 33:13] não se prender após cintos de gordura, mas vêm com produtivas de estado.
+[33:13 -> 33:19] No caso, tem palgado ou passores que eu jamais me senti
+[33:19 -> 33:24] em todas as iniciativas que me disseram se esta porgy é bem intervenida
+[33:24 -> 33:34] no setor de títulos, com o cuido de fortalecer as fortalecades nas últimas três décadas
+[33:34 -> 33:40] no Brasil e no Brasil se posiciona com uma passora e tem um setor
+[33:40 -> 33:49] como os subventores do seu último momento socioconferente.
+[33:49 -> 33:58] Revolução, a intensificação que depois de ficar por décadas restrita o deus dos pesquisadores,
+[33:58 -> 34:07] nas difusões mais avançadas, mais recentemente chegou durante o grupo causando muita apreensão
+[34:07 -> 34:12] em alguns e muita expectativa positiva e rouba-se principalmente após o sucesso
+[34:12 -> 34:23] e a agenda antiga, diante de um cenário como esse, nós começamos às vezes a exerger de outras
+[34:23 -> 34:36] grandes transportes de tecnologia, principalmente em coletores de plataformas de tecnologia.
+[34:36 -> 34:44] O Brasil também forou uma grande estratégia para condenar as transformações para o
+[34:44 -> 35:00] grupo brasileiro de infrafícios aqui, como ele já tem o consumo de futebol, o que
+[35:00 -> 35:39] Porque essa metáculo de residencia típica, ela inova-me e esse nó vai ler.
+[35:39 -> 35:44] O meu grupo de bandas me oferta e se acentura.
+[35:44 -> 36:04] O Brasil não amasta, por exemplo, de várias outras normas portáveis na restrição.
+[36:04 -> 36:10] Nós percebíamos que existia uma tendência,
+[36:10 -> 36:18] que aos poucos começa a ser aparentemente de dificuldade de inserção
+[36:18 -> 36:24] metade da válida entre jovens e gressos, de uma espelhosa.
+[36:24 -> 36:31] Percebíamos um certo desistimo entre muitos estudantes
+[36:31 -> 36:36] e permanecia profetal nas suas gradores,
+[36:36 -> 36:39] na caixa de evasão em alguns cursos nocoquantes.
+[36:39 -> 36:45] Não seja a missão crescita quando se resta dessa estipologia,
+[36:45 -> 36:51] em que existe uma formação alívio de graduação,
+[36:51 -> 36:58] quando formação são úticos a todos,
+[36:58 -> 37:01] mas nós entendemos que, se você quer,
+[37:01 -> 37:05] O alto daquilo é importante pesquisar coisas,
+[37:05 -> 37:10] talvez mais nofilo, mais encajado,
+[37:10 -> 37:14] entrando com aço os desafios do país.
+[37:14 -> 37:22] Precisamos de instalar a tua ação com modelos agóricos,
+[37:22 -> 37:25] outros estudantes.
+[37:25 -> 37:34] Exatamente a oportunidade de que é
+[37:34 -> 37:43] de abordar a gente de problemas com o desafio de fazer as suas coisas.
+[37:43 -> 37:48] Isso é uma parte importante da sua preocupação,
+[37:48 -> 37:53] Mas talvez isso pudesse ser dinamizado, por introduzindo o computador da informação,
+[37:53 -> 38:04] o termos testal e a interação de aprendizagem e prazer a gerar um coletivo mundial real.
+[38:04 -> 38:10] E o nome disso aqui é até, por exemplo, tentativa, que vamos assim,
+[38:10 -> 38:16] de fazer referência ao que gera o tradicional na abordagem de formação,
+[38:16 -> 38:27] para ir em lado de muito tempo de ensargar o que se gera a formação da ciência exata,
+[38:27 -> 38:49] para solidificar a interação com os seus produtos clientes
+[38:49 -> 38:53] descanse mais nas ciências humanas,
+[38:53 -> 39:05] por sobre a dialética e a interações com o caráter
+[39:05 -> 39:12] e com a sociedade mais como a formação de unidades.
+[39:12 -> 39:14] Olhando isso, nós pensamos,
+[39:14 -> 39:17] vamos começar a desenhar um projeto de louco
+[39:17 -> 39:20] para a vez que essas interesses possam ter uma coisa
+[39:20 -> 39:23] que você possa ver uma proposta
+[39:23 -> 39:26] no seu conforto dos gabinetes.
+[39:26 -> 39:36] As ilhas passam distantes da ponta, mas, evidentemente, tivemos a habilidade de saber que ele está na ponta
+[39:36 -> 39:43] que são os professores dos museus e são os pesquisadores dos institutos como o Instituto de Línguas.
+[39:43 -> 39:49] Poderiam fazer o que, numa proposta concebida do plano teórico,
+[39:49 -> 39:55] pudesse realmente lutar em algo com chances de sucesso.
+[39:55 -> 40:01] Mesmo que o bilhogo foi crescendo e hoje já alcança mais de 25 unidades da federação.
+[40:01 -> 40:09] Eu acho até que as artísticas que disseram de um dado já passaram por esse problema justificado.
+[40:09 -> 40:12] Volta de um sem-lúido de danos.
+[40:12 -> 40:14] Então, é um bilhoto robusto.
+[40:14 -> 40:21] Eu diria que hoje nós nos sentimos com bastante legitimidade, não com o sorvão.
+[40:21 -> 40:27] mas depois, em algum momento, começarmos os nossos colegas do MEC
+[40:27 -> 40:39] compartilhar experiências, colocarmos o seu modelo para que o parceiro
+[40:39 -> 40:45] possa ter oportunidade de passar por uma experiência similar, semelhante,
+[40:45 -> 40:54] mas rica, mais benção do que aqui vocês vão ter oportunidades de vida.
+[40:54 -> 41:00] E eu quero muito também, desculpa,
+[41:00 -> 41:08] Temos o sentido de que aproveitem essa oportunidade
+[41:08 -> 41:28] e é mais um caminho, mais uma iniciação,
+[41:28 -> 41:35] sienta a orientação herói,
+[41:35 -> 41:37] um docente que se transforma em um oriental,
+[41:37 -> 41:39] em um estrado controlado,
+[41:39 -> 41:41] e que já tinha que dar atenção a alguns
+[41:41 -> 41:43] à comunidade da graduação.
+[41:43 -> 41:49] Mais geralmente, replicando aquilo que era
+[41:49 -> 41:52] os problemas enfrentados do integrador
+[41:52 -> 41:53] e ensinado de algo.
+[41:53 -> 42:00] Mas para nós, aqui o mercado tem se trocar
+[42:00 -> 42:02] cada vez mais exigentes,
+[42:02 -> 42:09] mais pensas, mais ricas.
+[42:09 -> 42:21] com isso ganho vocês, ganho o país, ganhe a sociedade. Hoje, depois de quatro anos,
+[42:21 -> 42:54] depois de estar na conta, no meu caso, mais dez anos, nós temos um tipo tontais ao conservar,
+[42:54 -> 43:03] nós temos percebido e depoimentos de empresas que absorveu estudantes e crescentes,
+[43:03 -> 43:18] o mesmo de estudantes que deram continuação a sua formação com o xadão decorado e essas
+[43:18 -> 43:28] experiências só eles apreciam como não só a sua forma, mas para ele dar segurança e confiança
+[43:28 -> 43:38] aprendizados que eles estão obtendo em suas formações. Então vocês têm esse são
+[43:38 -> 43:45] privilegiado, eu diria, por ter essa oportunidade. Espero que em algum momento a gente
+[43:45 -> 43:51] Estou voltando ativamente por conta de que alguém que esteve ao meu lugar em uma receita
+[43:51 -> 43:55] humana no conhecimento, a qual você dizia, olha, já passaram com residencias não sem
+[43:55 -> 44:04] miúdicas, mas de um milhão de estudantes, porque o modelo flutificou e dando oportunidade
+[44:04 -> 44:10] para que mais estudantes possam fornecer ao seu organismo da teoria, tendo a chance
+[44:10 -> 44:19] de enfrentar problemas estranhos do mundo real e que podem ser os mais diversos setores
+[44:19 -> 44:20] empresários.
+[44:20 -> 44:28] Vocês podem se reformar, porque a flecha de setor é uma empresa na área de órgãos,
+[44:28 -> 44:34] da área de ação, de ações de trabalho, vocês vão ter duas surpresas de vida.
+[44:34 -> 44:42] A investigação do professor foi não repetida, então como de ficção científica
+[44:42 -> 44:48] como eu, então vocês imaginam que esse homem não vai trazer isso, que pôs surpresa
+[44:48 -> 44:53] para os estudantes e chegarem de inversão.
+[44:53 -> 45:32] Eu desejo que você arrepina a palavra e solte, mesmo no nafico cês, no final da inversão,
+[45:32 -> 45:44] mas isso não é meio diversidade nos apoios porque nós podemos entendermos
+[45:44 -> 45:57] sobre a nossa divertência e depois vai custar esse pedimétrico para o senhor inteiro.
+[45:57 -> 46:08] comentar ao seu depoimento sobre a contribuição para a formação das trilhas de formação dos seus supôndios com torno de sente.
+[46:08 -> 46:17] E além do mais, é bom pontuar que a parte da formação da capacitação,
+[46:17 -> 46:21] a vitada de empreendedores que a professora foi.
+[46:21 -> 46:38] Então, muitos dos estudantes poderão, eventualmente, ter a oportunidade de ter o primeiro contato com esse tempo essencial para quem tem o sonho de um dia a um dia empreender.
+[46:38 -> 46:48] E mesmo quem não empreender, vire fazer um profissional com muito mais sensibilidade para entender as necessidades dos recursos clientes.
+[46:48 -> 46:51] E quem não empreende ele, não é verdade.
+[46:51 -> 47:00] O personal também vai se degustar ao continuar seus pensados,
+[47:00 -> 47:06] ser os metodores e futuros enfrentadores ao pós-compresas,
+[47:06 -> 47:09] o pós–compreso e pós‑compresos em relação a uma desgrava de jornada.
+[47:10 -> 47:16] Eu desejo sucesso a todos e para aqueles estudantes dos países parceiros
+[47:16 -> 47:22] de uma outra empresa que quiser integrar nessa jornada
+[47:22 -> 47:39] e saiu daqui muito mais em tendência a tomar perto de problemas que eles sentirem de acordar
+[47:39 -> 47:50] dos seus projetos de prática, que podem estar apetendo, seja ser com o reformatismo,
+[47:50 -> 47:57] ou às vezes discussões de uma empresa social, na área que está hoje, por exemplo,
+[47:57 -> 47:59] para os seus próprios parentes.
+[47:59 -> 48:04] E essa experiência prática também poderá, de qualquer jeito,
+[48:04 -> 48:12] ser utilizada para você se retornar à sua terra mental.
+[48:12 -> 48:22] Sucesso a todos, é um prazer, e há muito tempo que eu acreditava o sonho, que na verdade tem
+[48:22 -> 48:51] a muito vida que eles fizeram, tão de uma única, que, ao menos eu pareci com quem ganhou muito oficial.
+[48:51 -> 49:52] A gente a todas, principalmente luta, partículas, equipados, porque estamos mais filhos, com a redação
+[49:52 -> 49:57] desse grande presidente, prazer ou pra ter um péssimo grande salto de pau,
+[49:57 -> 50:21] O governo metalúgico perdeu o seu verbo no trabalho e conduziu, com muitos anos,
+[50:21 -> 50:27] o uso de cartas metalúrgicos para vencer para o mundo.
+[50:27 -> 50:33] Se elege pela quarta vez, ele se divertir no grande país, que é o Brasil,
+[50:33 -> 50:38] país com uma população que tem quantas vezes milhões de elefantes.
+[50:38 -> 50:45] Então, é um fato histórico e repetitivo do mundo inteiro.
+[50:45 -> 50:51] Esse sonho e ar preso, em casa da nossa presidente do México,
+[50:51 -> 50:55] e ao se referir, primeiro dia, na segunda-feira,
+[50:55 -> 50:58] ela fez uma conferência,
+[50:58 -> 51:01] e ela começou a fazer doelo,
+[51:01 -> 51:04] porque ficou uma marca no diálogo,
+[51:04 -> 51:07] o mundo inteiro estava olhando,
+[51:07 -> 51:11] porque aqui, se imaginou,
+[51:11 -> 51:15] o Império pudesse colocar o seu tacão
+[51:15 -> 51:17] e a sua bota
+[51:17 -> 51:26] para renovar o estilo que o Alonso Zatou causou uma tragédia aos nossos copos do ponto de vista na história,
+[51:26 -> 51:32] as nossas nações nativas foram quase que desimatas sem por cento,
+[51:32 -> 51:43] e que causou a tragédio mundial com a escravidão que trouxe para o Brasil milhões de habitandos
+[51:43 -> 51:50] para trabalhar com o escravo para os senhores de higiene nas capitanias hereditárias,
+[51:50 -> 51:58] Se imaginava, ou se imagina no mundo, se estabelecer um retrocesso dessa obra.
+[51:58 -> 52:08] Mas, prazer, doosópica, de que é possível fazer e retroceder a rota da história.
+[52:08 -> 52:15] Não consegue tocá-la para trás, não é de primamente dificuldade.
+[52:15 -> 52:20] Mas ela gira para ti antes. E nós giramos, nós vencemos.
+[52:20 -> 52:27] A vitória nossa ajuda também o mundo a compreender que é possível você fazer um projeto mais
+[52:27 -> 52:37] avançado, um projeto político, econômico e social que é leve, sarra, civil e nacional.
+[52:37 -> 52:41] O nosso povo que ajuda o mundo nessa projetão.
+[52:41 -> 52:45] Eu considero como coisa que tem essa história.
+[52:45 -> 52:56] E a marca, acho que é muito importante, é um verbo em consciência do papel da importância
+[52:56 -> 53:02] da produção científica, que aposta na produção científico, que inveja na produção
+[53:02 -> 53:12] científica e inveja da formação de mérguladores e que faz investimento grande na inovação
+[53:12 -> 53:13] tecnológica.
+[53:13 -> 53:21] Essa consciência é muito importante para um projeto do país, para um projecto de nação.
+[53:21 -> 53:29] Se você não tem essa consciência dos seus dirigentes e na própria elite econômica e social,
+[53:29 -> 53:36] você não consegue tocar esse projeto mais ousado de manter a sua independência,
+[53:36 -> 53:48] e manter a sua soberania, e não é possível soberania se você não investe fortemente na condição científica intercológica.
+[53:48 -> 53:59] E esse debate, esse projeto que eu posso, eu não permito discutir, quando a gente vê o primeiro exemplo nesse sentido de Estado Ceará,
+[53:59 -> 54:05] daquela discussão que terminou, que estava presente, o abril também,
+[54:05 -> 54:09] o recuo do EFCE, o professor Balvin, o grande parceiro de Mócio,
+[54:09 -> 54:18] e ali a gente que diante de um projeto, que era um projeto nosso,
+[54:18 -> 54:21] o Instituto Federal, o que nós vamos fazer,
+[54:21 -> 54:27] justamente com o EFCI, lá com a área da Secretaria de Personação Digital,
+[54:27 -> 54:33] como está o abril, e que já tem uma história do Médico Pedro da Secretaria.
+[54:33 -> 54:38] E a gente que era preciso, não puiaram o projeto.
+[54:38 -> 54:42] Vai ver a inscrição Ceará, se a gente não puder assistir a lá,
+[54:42 -> 54:45] ele pode, vai ver esse Maranhão, o nosso Piauí.
+[54:45 -> 54:46] E foi entrou o gente.
+[54:46 -> 54:51] Porque ele terminou quase todo o projeto nacional, muito importante.
+[54:51 -> 54:56] É um projeto de desistimento avançado e materializado.
+[54:56 -> 54:58] Isso foi um salto.
+[54:58 -> 55:03] E já tem ali que a gente começou a discutir como é que a
+[55:03 -> 55:06] gente poderia envolver ao outro lado.
+[55:06 -> 55:07] Um conto de quê?
+[55:07 -> 55:10] Um contro dessa história do outro lado,
+[55:10 -> 55:13] onde a gente está em reedição, porque é o primeiro,
+[55:13 -> 55:16] isso é o passo do Brasil ou do Estado escravo.
+[55:16 -> 55:17] Por isso que está aqui.
+[55:17 -> 55:20] Uma coisa que ajudou por isso é que nesse lugar,
+[55:20 -> 55:22] teve muitas tentativas de tirar de mim.
+[55:22 -> 55:24] Isso vai ser aqui em reedição,
+[55:24 -> 55:32] por esse simbolismo mais toco, e a relação mostra com os países africanos, especialmente
+[55:32 -> 55:36] do Línguas Pozubiesa, mas não só africanos, porque nós estamos na Ásia,
+[55:36 -> 55:40] é muito moleste, é muito pailar por isso.
+[55:40 -> 55:45] E essa iniciativa, que você está aqui na vida, que a gente cresceu,
+[55:45 -> 55:51] parece isso e isso, ela foi uma coisa muito importante,
+[55:51 -> 56:00] que a gente pode oferecer um projeto avançado dentro de lá e atinge o Brasil em todos os países.
+[56:00 -> 56:07] É uma grande conquista, uma marca efetivamente desse projeto.
+[56:07 -> 56:17] Dentro dessa ideia, você veja como é a questão da superinguiar e da independência.
+[56:17 -> 56:28] e mais busco interferir hoje nas comunidades dos países, são as empresas de autista e
+[56:28 -> 56:37] tecnologia que estão concentradas em poucos países, notadamente nos estrelas de frente.
+[56:37 -> 56:46] As chamadas Big Techs, que é o PIGL, estão a ver as grandes empresas de tecnologia seteadas
+[56:46 -> 56:54] a vida. Entre elas, as empresas de tecnologia da informação mais sofisticadas do nosso
+[56:54 -> 56:58] termo. A gente conhece mais do termo, mas tem mais, eu não tenho como ver a dúvida
+[56:58 -> 57:04] dos latos indígenas, mas não tem que conhecer mais do término. É a meta, a meta controla
+[57:04 -> 57:13] Facebook, Instagram e WhatsApp. Nós nos comuniquemos no Brasil e me serviremos
+[57:13 -> 57:25] O Instituto Estrangeiro, os seus algoritmos, o seu programa de inteligência artificial,
+[57:25 -> 57:33] ela é uma empresa deles que captura as nossas informações, que capturam os nossos sentimentos,
+[57:33 -> 57:39] os nossos desejos, que são capturados todo dia por essas empresas.
+[57:39 -> 57:44] Para que elas vindam o seu produto e a sua marca para nós.
+[57:44 -> 57:51] queriam só vender uma dúvida mágica. Eles queriam e desejam que o defeito, a sorrelta,
+[57:51 -> 57:59] interviria diretamente na eleição de cada país. Então, para ter soberania, meu Deus,
+[57:59 -> 58:08] eu tenho que enfrentá-los, enfrentámos. Mas nós devemos desenvolver da nossa tecnologia.
+[58:08 -> 58:14] Nós devemos resolver a nossa tecnologia, nós devem desenvolver as nossas empresas,
+[58:14 -> 58:22] Sejam privadas, sejam estatais, nós temos que produzir o microchip, nós
+[58:22 -> 58:28] temos que produzi e agrega valor aos minerais críticos aqui no nosso país.
+[58:28 -> 58:32] Nós só fazemos isso por domínio da tecnologia.
+[58:32 -> 58:40] Para ter uma empresa, que às vezes brinco, porque com o PIX a gente manda dinheiro pra
+[58:40 -> 58:45] lá e não quer dar um outro, você é de mandar um dinheiro só pra lá, na verdade?
+[58:45 -> 58:52] Se eu posso fazer isso, por que que esse PIX já não foi de tomar, não foi porque os cadastros
+[58:52 -> 59:00] vão te centrar, mas ele não se senta principalmente pra ele, e o PIX fica de consciência.
+[59:00 -> 59:09] Eu sei lá, o índio, não tem que ter pra ter o ímbio, tem que ser o ídio.
+[59:09 -> 59:12] Nós contratamos três cadastras do índium, perigado.
+[59:44 -> 59:48] de facilidade, de desenvolver as nossas.
+[59:48 -> 59:56] Quem sabe, antes do mundo preparado daqui, para ter os bobs de capacidades diferentes.
+[59:56 -> 01:00:04] A gente vai ter que saber, vai tendo de bobs e produtos capazes de transformar em uma empresa
+[01:00:04 -> 01:00:12] que responda a esses desafios nossos e não nos deixe nas mãos de companhias alienígenas
+[01:00:12 -> 01:00:20] porque elas submetem os nossos interesses de vermelha ordem, criam narrativas, elas criam
+[01:00:20 -> 01:00:27] nijás para o país, tudo que você imaginar, eles são capazes de fazer hoje com a velocidade
+[01:00:27 -> 01:00:38] de formação e com as condições de produção de meio de comunicação, que mudam, que
+[01:00:38 -> 01:00:45] Verem direto na nossa cabeça e que cheguem ao ponto da gente considerar que eles mandem
+[01:00:45 -> 01:00:51] a gente colocar o país na pera de um aviso e mandem que a gente menos empurra o nosso
+[01:00:51 -> 01:00:52] país.
+[01:00:52 -> 01:01:03] E a gente entra comecindo que o melhor é empurrar o país para o aviso.
+[01:01:03 -> 01:01:13] Estou com programas mandando pouso de solicitar e de nos preparar.
+[01:01:13 -> 01:01:17] que é essa a grande preparação que nós estamos fazendo.
+[01:01:17 -> 01:01:23] Nessa parceria, essa parcerie aqui já envolve o Ministério da Sesta Ecologia,
+[01:01:23 -> 01:01:26] a software que se vai no Ministério de Ecológica,
+[01:01:26 -> 01:01:31] a brisa que vai estar comprograma e executa o programa na conta com o do Lab,
+[01:01:31 -> 01:01:35] a que é muito importante fazer a presença de Cebrae,
+[01:01:35 -> 01:01:40] porque é uma relação com empresas e pequenas empresas,
+[01:01:40 -> 01:01:43] Eu vou criar um livro sério de empreendedorismo.
+[01:01:43 -> 01:01:45] Dá uma hospedada, já tem.
+[01:01:45 -> 01:01:47] A gente sebrae.
+[01:01:47 -> 01:01:51] Já tem o Ministério da Amigo de Limpeza.
+[01:01:51 -> 01:01:52] Isso já existe.
+[01:01:52 -> 01:01:54] A gente tem que ligar.
+[01:01:54 -> 01:01:59] Se a gente pega aqui do perdeiro,
+[01:01:59 -> 01:02:00] mesmo se não é uma nossa,
+[01:02:00 -> 01:02:01] então é ótimo.
+[01:02:01 -> 01:02:04] Se a a gente pegar como de professores,
+[01:02:04 -> 01:02:05] que vão estar,
+[01:02:05 -> 01:02:08] até ser o comandante genetístico.
+[01:02:08 -> 01:02:10] Complicamente está no programa.
+[01:02:10 -> 01:02:11] Mas deve ser a nossa correla,
+[01:02:11 -> 01:02:12] se a gente não é o Ministro,
+[01:02:12 -> 01:02:13] então vai ser a nosso comandantes,
+[01:02:13 -> 01:02:14] que tem esse programa.
+[01:02:14 -> 01:02:24] O que a gente pega todo isso e reúne os estudantes, os professores, a gente pode transformar
+[01:02:24 -> 01:02:25] no que o público.
+[01:02:25 -> 01:02:34] Quando a gente fala o seguinte, age 90, por exemplo, da pesquisa de nosso país, realiza
+[01:02:34 -> 01:02:40] dentro das universidades, e especialmente da universidade pública.
+[01:02:40 -> 01:02:47] Então a pesquiza está sendo feita na universidade, a tecnologia está sendo desenvolvida dentro
+[01:02:47 -> 01:02:48] da universidades.
+[01:02:48 -> 01:02:51] Onde é que a gente vai fazer a inovação?
+[01:02:51 -> 01:02:53] Fora, professor!
+[01:02:53 -> 01:02:58] Onde a gente irá empreender para fazer na cena as empresas de base até que ela já é lançada?
+[01:02:58 -> 01:03:00] Fora professor?
+[01:03:00 -> 01:03:02] Não é possível.
+[01:03:02 -> 01:03:08] As grandes empresas, elas vão surgir de dentro do professor.
+[01:03:08 -> 01:03:09] E nós não plantamos.
+[01:03:09 -> 01:03:12] Assim, o Brasil está acostumado a responder esse problema.
+[01:03:12 -> 01:03:16] Esse método que eu desafio, nós estamos acostumados a responder.
+[01:03:16 -> 01:03:19] Sempre que o problema é colocar na nossa frente.
+[01:03:19 -> 01:03:21] E ele está sendo colocado agora.
+[01:03:21 -> 01:03:23] Eu não quero expulsar o veículo.
+[01:03:23 -> 01:03:31] Eu não quero desfistar o Estado, eu não quero disfistá-lo, eu quero a equipeza, que vai permitir presos que vai ser igual na empresa.
+[01:03:31 -> 01:03:37] Quando teve a questão do Petróleo do Brasil, que a gente fez, criamos uma empresa melhor do que a deles.
+[01:03:37 -> 01:03:42] E essa empresa tem o maior centro de pesquisa também do mundo, ou também da América Latina.
+[01:03:42 -> 01:03:51] Do México e da Patagonia, a maior, maior e pra indivíduo empresa é o Centres de Perdense.
+[01:03:51 -> 01:04:04] Na área do grato colocar no desafio, nessa área de telecomunicações nós também respondemos a esses desafios.
+[01:04:04 -> 01:04:07] Então por favor, colocar da nossas mãos.
+[01:04:07 -> 01:04:14] Vamos produzir com a Brisa e com o Lab, um programa lançado de tecnologia.
+[01:04:14 -> 01:04:21] Quem sabe, daqui vão nas cenas empresas e vão competir com essas prime techs e superá-las
+[01:04:21 -> 01:04:28] para que a gente possa fortalecer a nossa soberania e contribuir com as soberaninhas
+[01:04:28 -> 01:04:33] dos nossos países, parceiros não de lábios, quanto a uma, um jeito de ouvir a egressa,
+[01:04:33 -> 01:04:38] vai no anda aqui na nossa universidade, um capo verde, Cognitive Salt, lá em São
+[01:04:38 -> 01:04:43] Tomé e Príncipe, e nós fazemos um projeto aqui do MCTI junto com o São Tomé Príncipe
+[01:04:43 -> 01:04:48] e Cognive Salt, por exemplo, para passar o bom de área estratégica que é a
+[01:04:48 -> 01:04:53] de transferência mental e profissional. Como eu sou bico, com a grande parceria já
+[01:04:53 -> 01:04:58] do outro lado da África, o importante para nós, eu acho que é muito significativo esse
+[01:04:58 -> 01:05:02] momento que nós estamos vivendo aqui, não do lado. Eu espero que a gente tenha esta
+[01:05:02 -> 01:05:08] primeira turma e que a próxima turma seja maior, vai ter 50 lembranças, a gente tem
+[01:05:08 -> 01:05:12] talvez a gente sem lembrança, porque não é só o Brasil, são vários parceiros
+[01:05:12 -> 01:05:17] internacionais, são um vários países. A gente vai contar com muitos ímpiros
+[01:05:17 -> 01:05:22] passeiras, às vezes a primeira porta não dá certo, mas na segunda, você vai em todo um
+[01:05:22 -> 01:05:28] regresso desse programa que vai dizer para a empresa que vai ser positiva para a
+[01:05:28 -> 01:05:33] empresa, mas que tem assim um espaço grandioso para uma grande vitória em
+[01:05:33 -> 01:05:39] da ULAB e dos países para ser da ULLAB, e para ser do Brasil nesse programa
+[01:05:39 -> 01:05:44] de desenvolvimento de tecnologia avançada na área competitiva. Então para
+[01:05:44 -> 01:05:52] Apesar de abraço sucesso aos alunos, a equipe de professores, sucesso vermelhado e para o projeto que abrindo está desenvolvendo com todos vocês.
+[01:05:52 -> 01:05:54] Um abraço ao Peleus e ao Pardinho.
+[01:07:23 -> 01:07:29] Então, vamos continuar a nossa programação, seguiremos com a apresentação dos próximos
+[01:07:29 -> 01:07:36] convés em deixar o inaugural Programa de Residência em 2016 em parceria com a Brisa Milano.
+[01:07:36 -> 01:07:42] Combinamos agora o senhor Paulo Rojeira Coinha, coordenador catagógico da Brisa Sociedade
+[01:07:42 -> 01:07:52] para o desenvolvimento da tecnologia da informação.
+[01:07:52 -> 01:08:09] Eu tenho uma vida mais tecnológica, sofísica do que a dação, graças a gente, que é perfeita, né?
+[01:08:09 -> 01:08:15] No começo da computação de Brasil, aí alguém vai visitar, na década de 70,
+[01:08:15 -> 01:08:21] No tempo dos tempos, pensamos estar no tempo dos computações,
+[01:08:21 -> 01:08:25] mas pensamos que a área de computação ia ir
+[01:08:25 -> 01:08:32] entre a área e o tempo da graduação difícil para dentro,
+[01:08:32 -> 01:08:35] foi a disputação do administrado, a vitra,
+[01:08:35 -> 01:08:39] foi o trabalhador da Rússia, foi o realizador do naquilo-quilo.
+[01:08:39 -> 01:08:42] Só tem aí uma vila, que é a vila de computação,
+[01:08:42 -> 01:08:47] que o professor, que os outros trabalhadores começaram a cantar,
+[01:08:47 -> 01:08:51] no Brasil, e a gente, vamos,
+[01:08:51 -> 01:08:53] soltado em uma guiazada,
+[01:08:53 -> 01:08:55] que não tem nada a ver com isso,
+[01:08:55 -> 01:08:57] que é um egoretado.
+[01:08:57 -> 01:08:59] Então, são empresários,
+[01:08:59 -> 01:09:01] que não são policiales,
+[01:09:01 -> 01:09:03] que abram informática, programadora,
+[01:09:03 -> 01:09:05] analista de computadora.
+[01:09:05 -> 01:09:07] É, se você tem os tecnologias,
+[01:09:07 -> 01:09:09] vai de córpia no seu rosto
+[01:09:09 -> 01:09:11] para a gente ver.
+[01:09:11 -> 01:09:13] A gente vai coer todo o alasado,
+[01:09:13 -> 01:09:15] e aí você vai cober.
+[01:09:15 -> 01:09:17] Temos bastante coisa para contar com vocês
+[01:09:17 -> 01:09:20] que a construção desses programas
+[01:09:20 -> 01:09:23] e o conjunto de diversas ideologias
+[01:09:23 -> 01:09:27] foi bem interessante que ele foi colocado dentro de um gelatino
+[01:09:27 -> 01:09:29] de maneira muito intensa
+[01:09:29 -> 01:09:31] e ressuscitado por um propósito de gente.
+[01:09:31 -> 01:09:33] Foi um propóvito de orgulho
+[01:09:33 -> 01:09:35] para o que você tem que fazer
+[01:09:35 -> 01:09:36] desse programa.
+[01:09:36 -> 01:09:38] A gente pode ter um projeto
+[01:09:38 -> 01:09:41] e ter atenção no que a gente vai te expressar hoje
+[01:09:41 -> 01:09:44] Hoje, o que vai ser o problema do dia a dia de hoje?
+[01:09:44 -> 01:09:47] A sua fase do dia-a-dia, a fase do delamento,
+[01:09:47 -> 01:09:49] é a fase de que o melhor.
+[01:09:49 -> 01:09:51] O que lhe diz o nivelamento da primeira fase?
+[01:09:51 -> 01:09:54] O que lembra que no ano de hoje,
+[01:09:54 -> 01:09:57] percebeu uma especificidade que vai fazer mais de gente,
+[01:09:57 -> 01:09:58] mais de tempo.
+[01:09:58 -> 01:10:01] Só para a universidade, só para estar sendo especifica de tudo.
+[01:10:01 -> 01:10:03] Então, nesse programa, você explica as inscrições,
+[01:10:03 -> 01:10:05] então, mais pouco do que vai ter,
+[01:10:05 -> 01:10:06] mais tempo.
+[01:10:06 -> 01:10:08] Então, mais um pouco de engenheira,
+[01:10:08 -> 01:10:12] 5 pontos de pessoa de ter ganhado o sofrimento.
+[01:10:12 -> 01:10:16] Ele só tem que ver pra isso, pra fazer a gente ir embora, pra esta área,
+[01:10:16 -> 01:10:19] comentar o nosso sujo de gente e profissionais, o que é isso?
+[01:10:19 -> 01:10:22] Tá? O que eu acho que o Alonso está em dúvida?
+[01:10:22 -> 01:10:26] Você não é de um vetado, do abeixo, da icôneros.
+[01:10:26 -> 01:10:28] Tem uma série de coisas que a gente não sabe.
+[01:10:28 -> 01:10:33] Vocês tem que ter a oportunidade de resolver problemas concretos com ele.
+[01:10:33 -> 01:10:38] De repente, esse problema que você resolve, resolve aquele problema àquela empresa,
+[01:10:38 -> 01:10:41] Mas ele foi uma parcela, teve o problema ontem e fez os quarentena também.
+[01:10:41 -> 01:10:45] E aqui ele faleceu com o começo de uma grande empresa,
+[01:10:45 -> 01:10:47] quando criou até uma militéria.
+[01:10:47 -> 01:10:49] Se você não conheceu, você sabe,
+[01:10:49 -> 01:10:51] mas quando fez o que foi criado,
+[01:10:51 -> 01:10:53] porque o começo do que foi ligado na universidade,
+[01:10:53 -> 01:10:56] era o que fez, por causa de um problema sério,
+[01:10:56 -> 01:10:57] como é que ocorra aquelas domingueiras,
+[01:10:57 -> 01:10:59] por causa do que fez RAC?
+[01:10:59 -> 01:11:02] Conheço todo o seu time e não fez nenhum problema.
+[01:11:02 -> 01:11:04] Não sabia fazer regras com as minhas.
+[01:11:04 -> 01:11:06] Então, que não fez em muito.
+[01:11:06 -> 01:11:08] E o sucesso dele, que fez em pouco, era brasileiro.
+[01:11:08 -> 01:11:11] e hoje é o Brasil e a Bahia, a situação.
+[01:11:11 -> 01:11:12] Nosso é o nosso Facebook,
+[01:11:12 -> 01:11:14] o que você sabe aí.
+[01:11:14 -> 01:11:18] Além disso, o que ele também criou, o Instagram,
+[01:11:18 -> 01:11:19] foi o brasileiro,
+[01:11:19 -> 01:11:20] e fez o Instagram do senhor,
+[01:11:20 -> 01:11:22] estava com o brasileirão,
+[01:11:22 -> 01:11:24] porque foi medido, ele pilotou,
+[01:11:24 -> 01:11:25] ele pilotava,
+[01:11:25 -> 01:11:26] ele pilotaria de outra tecnologia,
+[01:11:26 -> 01:11:27] na vossa praquete,
+[01:11:27 -> 01:11:29] e hoje ele é coreano,
+[01:11:29 -> 01:11:30] é um dos dois únicos,
+[01:11:30 -> 01:11:32] é a Isola, mais no Brasil,
+[01:11:32 -> 01:11:35] e ele pilota um negócio que ninguém imaginava,
+[01:11:35 -> 01:11:37] na época que ia valer esse tamanho.
+[01:11:37 -> 01:11:42] Então você é de oportunidade de criar uma coisa que pode se faturar e não refletir com isso.
+[01:11:42 -> 01:11:43] Mas qual é o direito?
+[01:11:43 -> 01:11:46] Você pode estar para trás da MUNO.
+[01:11:46 -> 01:11:47] Vai estar para atrás da você.
+[01:11:47 -> 01:11:49] Você fica aí, fica aí na base.
+[01:11:49 -> 01:11:52] Você tem um pouco de oportunidades de cair.
+[01:11:52 -> 01:11:58] Você nasce aqui, você casa com o Guerrero ou com o homem do seu mercado.
+[01:11:58 -> 01:12:02] Ou você ataca com o bebê.
+[01:12:02 -> 01:12:03] E aí você naquilo?
+[01:12:03 -> 01:12:15] Você pode ter que ficar rindo e não nascer o índio, porque está todo com um óbvio ou com um treino.
+[01:12:15 -> 01:12:16] Que nem um emprego.
+[01:12:16 -> 01:12:18] Aí é a chance que você tem que ficar indo.
+[01:12:18 -> 01:12:21] Não é emprego que ele ficar indo, mas outra é presa.
+[01:12:21 -> 01:12:23] Você trabalha com o treino e o treinho cair.
+[01:12:23 -> 01:12:26] Então, pode trabalhar com o seu emprego e com o que você cair?
+[01:12:26 -> 01:12:29] Se você conseguir achar qualquer emprego, não é?
+[01:12:29 -> 01:12:31] Vamos passar por aqui?
+[01:12:31 -> 01:12:37] Ah, a representação, abre aí todo mundo aí.
+[01:12:37 -> 01:12:40] Estou grávula, está lá aí.
+[01:12:40 -> 01:12:47] Lá com sua presença, com a conta.
+[01:12:47 -> 01:12:49] Deixe-me falar enquanto você está com a presença
+[01:12:49 -> 01:12:52] porque eu estava com uma curiosidade que vocês devem saber.
+[01:12:52 -> 01:12:55] A gente tem no Brasil um histórico de mudelação e invenção
+[01:12:55 -> 01:12:58] porque a gente conhece, conhece o santo Fumão,
+[01:12:58 -> 01:13:01] o de Pedro Fondo Amião.
+[01:13:01 -> 01:13:03] Até para a disputação também,
+[01:13:03 -> 01:13:05] e a gente sabe que o Brasil é um único povo,
+[01:13:05 -> 01:13:09] a gente tem que ter que ter uma chance de avisar,
+[01:13:09 -> 01:13:12] e isso é um ecologo,
+[01:13:12 -> 01:13:14] e o Brasil tem que ver como é de avó.
+[01:13:14 -> 01:13:20] O abenço do rádio foi inventado por um brasileiro,
+[01:13:20 -> 01:13:21] e foi marcôni.
+[01:13:21 -> 01:13:23] Antes de marcônio, o Estado de Brasileira
+[01:13:23 -> 01:13:26] podia transformir a transformação no mundo.
+[01:13:26 -> 01:13:29] Sabendo que o marco de inscrição era um abençoe
+[01:13:29 -> 01:13:30] brasileiro?
+[01:13:30 -> 01:13:34] Um abenencheiro que colocou as bestas
+[01:13:34 -> 01:13:36] naquela hora da maluca que tinha ficado.
+[01:13:36 -> 01:13:39] mas ele venceu na raquita e escolheu para ver sobre as ideias
+[01:13:39 -> 01:13:44] A identificação de chamar na telefone, porque é que como você recebe no telefone
+[01:13:44 -> 01:13:48] é uma respeita ligada para você, e o pessoal nas ideias
+[01:13:48 -> 01:13:56] para dar síndio, para maquina, coisas para estudar
+[01:13:56 -> 01:14:01] por uma série de ideias, coisas interessantísticas que foram inventadas por as ideais
+[01:14:01 -> 01:14:06] ele tem sabe o que é que eu vou voltar e coisar, apresenta
+[01:14:06 -> 01:14:09] e eu não vou avançar a boca
+[01:14:09 -> 01:14:13] Bem, como já falaram, os objetivos desse curso
+[01:14:13 -> 01:14:15] é a formagem profissional,
+[01:14:15 -> 01:14:18] implementar a formação de você
+[01:14:18 -> 01:14:20] para formar uma metade dele.
+[01:14:20 -> 01:14:22] Por que implementar formação?
+[01:14:22 -> 01:14:24] Vocês aprendem na universidade
+[01:14:24 -> 01:14:26] uma grande importância de teorias
+[01:14:26 -> 01:14:28] importantes, como as do científico,
+[01:14:28 -> 01:14:29] certo?
+[01:14:29 -> 01:14:31] Então vocês fazem para trabalhar com ele.
+[01:14:31 -> 01:14:33] Trabalhar em uma empresa implica o que você sabe.
+[01:14:33 -> 01:14:34] Trabalha em grupo.
+[01:14:34 -> 01:14:36] Em grupos que você pode concordar
+[01:14:36 -> 01:14:37] que fica no seu lado.
+[01:14:37 -> 01:14:38] Já tem que trabalhar com isso.
+[01:14:38 -> 01:14:41] Como você concorda os inimigos.
+[01:14:41 -> 01:14:44] Vai ter a aprender a
+[01:14:44 -> 01:14:50] não tem parado, uma coletionária DE é complicado.
+[01:14:50 -> 01:14:52] Se você prometeu que vai entregar daqui a 30 dias,
+[01:14:52 -> 01:14:54] você tem que entregar 30 dias.
+[01:14:54 -> 01:14:57] Bom, isso não.
+[01:14:57 -> 01:14:58] O que eles chamam?
+[01:14:58 -> 01:15:00] Saber se comunicar.
+[01:15:00 -> 01:15:02] Você pode ser excedente profissional,
+[01:15:02 -> 01:15:04] mas se você não tiver falado com o projeto,
+[01:15:04 -> 01:15:08] você não vai saber que você excede profissão.
+[01:15:08 -> 01:15:10] Uma coisa que você tem, que não aprende muito.
+[01:15:10 -> 01:15:12] Isso vai chamar de soft skills.
+[01:15:12 -> 01:15:15] No princípio que pareça as rehas nas habilidades,
+[01:15:15 -> 01:15:18] as soft skills, são as mais levantadas do emprego,
+[01:15:18 -> 01:15:20] menos que a tecnologia
+[01:15:20 -> 01:15:22] que é a tecnologia você vai ter que aprender
+[01:15:22 -> 01:15:24] para que você aprendeu
+[01:15:24 -> 01:15:26] de tecnologia na escola
+[01:15:26 -> 01:15:28] a capacidade, aprendeu hábito
+[01:15:28 -> 01:15:30] aprendeu vantos dados fósfios
+[01:15:30 -> 01:15:32] etc... se eu achar que é uma empresa
+[01:15:32 -> 01:15:34] eu já tinha até aperto
+[01:15:34 -> 01:15:36] agora você vai ver que isso é que eu aprendeu
+[01:15:36 -> 01:15:40] a falar com essas tecnologias
+[01:15:40 -> 01:15:42] agora só que os fios
+[01:15:42 -> 01:15:44] que eu vou falar com ele
+[01:15:44 -> 01:15:46] ele mesmo não acha isso
+[01:15:46 -> 01:15:48] e você não aprende na capacidade
+[01:15:48 -> 01:15:52] Agora, como se envolver com vocês mais do que a conhecimento aglórico,
+[01:15:52 -> 01:15:54] a habilidade é trabalhar com empresas.
+[01:15:54 -> 01:15:56] Por isso, como eu vou fazer o projeto,
+[01:15:56 -> 01:15:58] eu preciso que vocês pudessem ter tudo o mesmo.
+[01:15:58 -> 01:16:00] Por todo o nível que você tem dentro de vocês.
+[01:16:00 -> 01:16:02] Tem que ser responsável,
+[01:16:02 -> 01:16:03] tem que publicar,
+[01:16:03 -> 01:16:05] tem que saber negociar,
+[01:16:05 -> 01:16:06] tem que sabermos como unitar,
+[01:16:06 -> 01:16:09] tem que trabalhar em tudo o que você não vai conseguir.
+[01:16:09 -> 01:16:11] Então, eu tenho que trabalhar
+[01:16:11 -> 01:16:12] em qualquer projeto,
+[01:16:12 -> 01:16:14] eu tenho de trabalhar em projetos que nós vamos definir para vocês
+[01:16:14 -> 01:16:22] se você é contratado na empresa, se você não é contratada na empresa que você quer,
+[01:16:22 -> 01:16:29] é contratar, é contratá-la, no grupo você vai trabalhar com ele, e ela tem um esporte,
+[01:16:29 -> 01:16:35] um esporto pra válido, então você vai fazer tal coisa, você vai ver, então nós
+[01:16:35 -> 01:16:42] vamos trabalhar muito só com isso, mais com a tecnologia, mas eu não vou aprender
+[01:16:42 -> 01:16:52] É uma forma extremamente derrossada, porque a gente é uma mantra, mas a mantra é se vira.
+[01:16:52 -> 01:16:58] Se eu pedir pra você agora, vai ter uma asiata com a oposidade, vou fazer um computador monológico,
+[01:16:58 -> 01:17:03] em 30 segundos você vai ter que fazer um comportador monógico.
+[01:17:03 -> 01:17:08] Então cara, às vezes eu vou ter 30 segundos um comportamento de tecnologia, se viram!
+[01:17:08 -> 01:17:11] Mas eu não sou um comportado monológica, se viram!
+[01:17:11 -> 01:17:15] E os detalhes são uma coisa que eu não acredito nisso.
+[01:17:15 -> 01:17:17] É difícil.
+[01:17:17 -> 01:17:20] Para aprender a se comunicar direito,
+[01:17:20 -> 01:17:22] aprender a fazer uma retação de um texto,
+[01:17:22 -> 01:17:24] se não se lembrando muito de um objetivo,
+[01:17:24 -> 01:17:29] de um determinado objetivo.
+[01:17:29 -> 01:17:30] Legal?
+[01:17:30 -> 01:17:31] Esses são os objetivos.
+[01:17:31 -> 01:17:33] Eles conversam as tecnologias de outras pessoas
+[01:17:33 -> 01:17:36] como isso aí, conversam aqui rapidamente
+[01:17:36 -> 01:17:38] e vão apresentar como é agora
+[01:17:38 -> 01:17:40] essa parte de IADI é
+[01:17:40 -> 01:17:42] só uma coisa nesse sentido complexo.
+[01:17:42 -> 01:17:43] Não sai?
+[01:17:43 -> 01:17:58] O que é o que é uma delas de programação, o que que é um sistema de delas entre nojuros?
+[01:17:58 -> 01:18:03] O que a gente teve quatro anos de interpretação, três anos de emladação de tempo?
+[01:18:03 -> 01:18:05] O que faz aí?
+[01:18:05 -> 01:18:16] Esse programa já rozou, como você já contou, de várias cidades, já que temos 15 cidades
+[01:18:16 -> 01:18:19] em jaduíteiro, desde o 20 de julho.
+[01:18:19 -> 01:18:25] Quando desde o artista da Joré, até o Rio Grande, os trechos juntos da Jurgane,
+[01:18:25 -> 01:18:27] os trecho tudo no Rio Grande do Sul, entendeu?
+[01:18:27 -> 01:18:29] O Rio Grande dos Sul, Rio Grande no Sul, é muito grande.
+[01:18:29 -> 01:18:33] Passando com várias parcerias aí, para as diversidades,
+[01:18:33 -> 01:18:36] como as instituições que tiveram.
+[01:18:36 -> 01:18:43] Então, cada cidade dessa, nós fizemos duas turmas.
+[01:18:43 -> 01:18:48] Cada turma formou 50 alunos, 50 alunes, 100 colheres.
+[01:18:48 -> 01:18:50] 500 alunas, por exemplo.
+[01:18:50 -> 01:18:53] Você não curta aí uma comédia no ar, não é?
+[01:18:53 -> 01:18:57] Uma parte dele, a parte do projeto que hoje tem,
+[01:18:57 -> 01:19:00] que é uma oportunidade, um negócio, um exemplo,
+[01:19:00 -> 01:19:05] uma parte nos desenvolveu produtos para as empresas parceiras e as empresas contratarem
+[01:19:05 -> 01:19:10] parte daqui para trabalhar nossas empresas, que é o produto que é melhor para nós de
+[01:19:10 -> 01:19:18] um produto que feita e contratar, como você vê, nós estamos trabalhando aqui na sua
+[01:19:18 -> 01:19:24] etapa agora, nós somos trabalhando com vocês, o Ema, a Universidade de Norocanilí,
+[01:19:55 -> 01:20:03] Então, as nossas merdas, aqui, o tomate dos centros de alunos, sempre, você merda, na gente tem tomate que faz mais mais.
+[01:20:03 -> 01:20:07] Em cada fruto, uma primeira com uma centro, uma segunda com a centro de aluna tem 200,
+[01:20:07 -> 01:20:13] para o seu tomate tem 40, 250, 250 e 600 alunros no morro.
+[01:20:13 -> 01:20:16] Então, porque quando é que o aluno for, o que é que é o aluno?
+[01:20:16 -> 01:20:20] Não se tem a ver, tem isso, não é? Porque eu tenho que fazer um aluno, eu não se tenho a ver.
+[01:20:20 -> 01:20:28] Então, ao começo a gente é legal ficar pedido, mas pelo menos os centros de ferro, os centro de ferros chegam ao local.
+[01:20:28 -> 01:20:37] Os centros da presença ao mundo. Essas são as fibras básicas e as patrobras das fibras típicas são fundamentais.
+[01:20:37 -> 01:20:43] Mas em uma fase que é fase de projeto, estão 50 alunos, 20 alunas.
+[01:20:43 -> 01:20:46] A gente espera que faça um reforme pelo menos 45,
+[01:20:46 -> 01:20:49] eu sou chegado em 49, 48,
+[01:20:49 -> 01:20:51] um uso dos sequenos,
+[01:20:51 -> 01:20:55] então a nossa parte dos sucessos é de simbólico.
+[01:20:55 -> 01:20:57] Começamos agora.
+[01:20:57 -> 01:20:58] Projeto de piragólicos.
+[01:20:58 -> 01:21:00] O que é esse custo?
+[01:21:00 -> 01:21:03] Primeiro custo que tem a dois vezes de liberdade
+[01:21:03 -> 01:21:05] para terminar a terminologia.
+[01:21:05 -> 01:21:07] Ele não sabe o que é que eu estou conversando.
+[01:21:07 -> 01:21:10] A nossa mãe vem bem com esse custos.
+[01:21:10 -> 01:21:12] Essa quase de AD.
+[01:21:12 -> 01:21:19] São quatro cifrinas acínculas, que vocês fazem no ritmo que vocês quiserem, na ordem que quiser.
+[01:21:19 -> 01:21:22] Não tem condesoura, tem alma.
+[01:21:22 -> 01:21:24] Não tem não material froso?
+[01:21:24 -> 01:21:27] Vocês estão estudando o ritmo de vocês no ritmos que vocês.
+[01:21:27 -> 01:21:33] Ah, mas eu estou bem estudado na faculdade, eu estou nem em rádio.
+[01:21:33 -> 01:21:36] Se vira, cara, se quiser fazer, se vira.
+[01:21:36 -> 01:21:39] Então, mano, tá?
+[01:21:39 -> 01:21:42] Então, são quatro ciprinas, é pesado.
+[01:21:42 -> 01:21:45] que tem que ser mais de 1 ou 3 horas por dia para executar.
+[01:21:45 -> 01:21:48] Quem é de computação, não olhar aquele rei,
+[01:21:48 -> 01:21:50] porque você tem que passar uma semana. Ótimo?
+[01:21:50 -> 01:21:53] Fácil.
+[01:21:53 -> 01:21:56] Tem gente que vai fazer logo um primeiro...
+[01:21:56 -> 01:22:00] 2, 0, 0 na vez, porque o outro não deixa para o último, não tem problema.
+[01:22:00 -> 01:22:03] Fáfico do jeito que você achar é menor.
+[01:22:03 -> 01:22:07] Lembra? Não é? Você tem que envolver uma habilidade responsável de idade.
+[01:22:07 -> 01:22:09] Não tenta só um tempo.
+[01:22:09 -> 01:22:10] Os primeiros vão para o mesmo tempo.
+[01:22:10 -> 01:22:28] Vão? Vão se vir, já foi simples, seis primeiras são obrigatórias, não esqueçam de fazer essa, faço primeiro essa, não porque estão desiguando, tem que ser obrigatório, isso é isso, se voltar uma você não passa para o vetar, você vai ter que ter isso, já fica pronto,
+[01:22:28 -> 01:22:31] e contou uma obrigatória que não passa a ser uma participação.
+[01:22:32 -> 01:22:34] Os nossos obrigatórios passam logo.
+[01:22:34 -> 01:22:36] Não esqueceram de se acessar e se esquecer.
+[01:22:36 -> 01:22:38] Chegando e dizendo, ah!
+[01:22:38 -> 01:22:40] Meu Deus do céu!
+[01:22:40 -> 01:22:43] Tá?
+[01:22:43 -> 01:22:45] E depois dessa fase intervina
+[01:22:45 -> 01:22:47] como um processo de evaliação.
+[01:22:47 -> 01:22:49] Primeiro deles é uma prova online.
+[01:22:51 -> 01:22:53] Para todos os que terem até que o ano fez
+[01:22:53 -> 01:22:55] quando as vezes se inclinam,
+[01:22:55 -> 01:22:57] seja obrigatório,
+[01:22:57 -> 01:23:04] E aí é muito bem executar, derrota o sucesso, porque ele não chega até aqui.
+[01:23:04 -> 01:23:08] E quem tem a fusão de ser uma pessoa?
+[01:23:08 -> 01:23:15] Aí ele selejona a ser melhor na resposta do chefe da TV.
+[01:23:15 -> 01:23:17] E chama para fazer uma prova presencial.
+[01:23:17 -> 01:23:19] Aí é para dar pé.
+[01:23:19 -> 01:23:23] A prova mais, o pareto é a questão de fazer em 1 hora.
+[01:23:23 -> 01:23:29] É quando a chefe de dificultado tem mais tempo do sucesso que a gente tem que escolher na feita.
+[01:23:29 -> 01:23:35] E por fazer muita conjunta no dedo de 3 metros, vai lembrar como fazer a prova.
+[01:23:35 -> 01:23:38] Não precisa fazer as 40, mas você precisa ter a prova mesma.
+[01:23:38 -> 01:23:41] Que isso é mais bom que o que vai ser chamado para estar com a prevenção.
+[01:23:41 -> 01:23:45] Aí está para prevenciar, já é 15 questões.
+[01:23:45 -> 01:23:48] Em uma hora, para dar aí a coisa perto.
+[01:23:48 -> 01:23:50] Aí você tem que conseguir fazer nada.
+[01:23:50 -> 01:23:53] Para ser prevencial, aqui na hora de funcionar.
+[01:23:53 -> 01:23:57] Para ter uns 400 melhores partículas.
+[01:23:57 -> 01:24:04] Se esse tem a prova presencial, a gente recebe esse problema, aí vai estar com o projeto.
+[01:24:04 -> 01:24:10] Se foi você convidado para participar, tem que confirmar a participação,
+[01:24:10 -> 01:24:12] alguns não vão ter respeito.
+[01:24:12 -> 01:24:16] Se você tem a luz, você acha que tem mais que esse Espírito da vida.
+[01:24:16 -> 01:24:18] Esse nada é só falta.
+[01:24:18 -> 01:24:20] Tem que ter a luz tudo em Espíritos.
+[01:24:20 -> 01:24:23] Será que ele vai me fazer a prova universal aqui?
+[01:24:23 -> 01:24:26] Então tem alguns que fazem a prova, faz tudo,
+[01:24:26 -> 01:24:31] e coisa assim, se você não está comprando um pouco, pode beneficar o projeto para ficar em plato a gente
+[01:24:31 -> 01:24:35] e o projeto a gente vai chamando a gente de cliente tera, ok?
+[01:24:35 -> 01:24:41] Então vejo que eu não passe na primeira, chamar tera e ver que tem chance de ser chamado para conhecer o projeto
+[01:24:41 -> 01:24:47] Bem, aí é a parte de diversão, projeto, o projeto é o seguinte
+[01:24:47 -> 01:24:52] nós já estamos começando no empresa local, nós trazemos clientes no projeto
+[01:24:52 -> 01:24:57] O problema que a empresa tem é que o problema real não trabalha ao cadeio, não trabalhe aqui
+[01:24:57 -> 01:25:03] É o óleo, é o problema realmente, o problema dela, o produto novo que a gente vai dar pra lançar
+[01:25:03 -> 01:25:05] Ou o negócio novo que ela tá fazendo
+[01:25:05 -> 01:25:11] Porque a gente conhece ao fundo que ela está fazendo o problema bem legal pra gente desenvolver
+[01:25:11 -> 01:25:16] E nós vamos organizar os 50 alunos em grupos de 5 alunros cada
+[01:25:16 -> 01:25:18] E é de modo novo, novo
+[01:25:18 -> 01:25:23] Então, ele já dá a ver o que é justo, não é o que você pode ver, o que a gente é justificado com você,
+[01:25:23 -> 01:25:28] o que ele já fez, o conhecimento, o reconhecimento informar, que essa é a área de atuação,
+[01:25:28 -> 01:25:32] que a unidade de contas, a grupos, tem, os grupos têm o mesmo poder de produzir, o mesmo
+[01:25:32 -> 01:25:37] poder de resolver o seu problema, mas está tendendo um forte suprato, um suprado.
+[01:25:37 -> 01:25:39] E isso é o enteiro jeito.
+[01:25:39 -> 01:25:44] Então tem jeito, a gente não deixa todo o nome der sozinho em cada grupo, você tem duas ou três,
+[01:25:44 -> 01:25:50] na vez do PCD, no mais com PCD do grupo, mas sempre tem gente diferente do grupo.
+[01:25:50 -> 01:25:56] Me fala sobre as retocas, qual engenharia, que é maravilhosa a mágica,
+[01:25:56 -> 01:26:00] tem dificuldade, tem universidade.
+[01:26:00 -> 01:26:05] Esse grupo é sempre um tema de projeto, nós vamos nos dar os nossos temas para cada grupo.
+[01:26:05 -> 01:26:10] E aí, na segunda vez, a primeira unitividade de vocês,
+[01:26:10 -> 01:26:16] Você viu que a semana de um bordo, a semana da preparação, é uma semana inteira com a agenda,
+[01:26:16 -> 01:26:20] um edital acolhado na data, é obrigatório a fazer isso.
+[01:26:20 -> 01:26:26] Nessa semana, você só conheceu o grupo, você já conheceu um projeto,
+[01:26:26 -> 01:26:30] você tem a hora de ir para o conhecimento, você tem o horário de escudo,
+[01:26:30 -> 01:26:34] ele tem o registro de engenharia de projeto de inventorismo.
+[01:26:34 -> 01:26:38] É uma semana de integratividade, quatro horas, um dia, semana inteiro.
+[01:26:38 -> 01:26:46] e na sexta-feira vocês vão produzir as únicas empresas que produzeram o seu projeto para especificar melhor o seu
+[01:26:46 -> 01:26:49] projeto. E aí o qual o projeto?
+[01:26:49 -> 01:26:52] O promisso de você é para fazer imersão e é um concluiço sério.
+[01:26:52 -> 01:26:57] Tem uma reunião por semana, de uma hora, com um orientador.
+[01:26:57 -> 01:26:59] Preciso obrigatório.
+[01:26:59 -> 01:27:02] É tão obrigatória que para a gente provar o que eles estão fazendo aqui,
+[01:27:02 -> 01:27:08] Vim na porta, vim vim, vinte e sete, vinha na porta e manda tudo no pé.
+[01:27:08 -> 01:27:11] O que é isso? O que que é que passa para a etapa de versão?
+[01:27:11 -> 01:27:13] Recebe uma bolsa de 1.000 reais.
+[01:27:13 -> 01:27:17] 50% do que você pode.
+[01:27:17 -> 01:27:19] E vão ganhar um notebook.
+[01:27:19 -> 01:27:22] No princípio de computar, o que que passa?
+[01:27:22 -> 01:27:27] Então eu inseri que eu vou precisar da doação do computamento para que eu faça o projeto.
+[01:27:27 -> 01:27:32] Então para que, né? Eu investi mesmo para Tranny, mesmo para a Cana, para vocês.
+[01:27:32 -> 01:27:36] Mas tem que participar, tem que fazer isso, tem de participar de vocês, tem
+[01:27:36 -> 01:27:39] de participar, têm de fazer isso.
+[01:27:39 -> 01:27:44] Já porque eu pego, pego e pego.
+[01:27:44 -> 01:27:46] Eu pego mais de uma vez.
+[01:27:46 -> 01:27:52] Eu não tinha, Zéinho entrou, o ICF foi perdido, tudo mas tinha
+[01:27:52 -> 01:27:59] 100 graus. Então, o que você vai fazer é isso.
+[01:27:59 -> 01:28:03] Esse compromisso que você não tem duas plancas, começou o
+[01:28:03 -> 01:28:06] O primeiro é o projeto do segundo mês para uma banca.
+[01:28:06 -> 01:28:09] A primeira parte do projeto é a parte de...
+[01:28:09 -> 01:28:12] O que a gente chama de projeto de trepelital grídeo,
+[01:28:12 -> 01:28:17] que é o de idealizar a solução que vocês vão fazer com o cliente.
+[01:28:17 -> 01:28:20] Então, no final do segundo meio, o que você pode ter uma banqueta variável.
+[01:28:20 -> 01:28:23] Então, você dá o protótipo, navegar na solução,
+[01:28:23 -> 01:28:27] o modelo de dados, um tal entendimento que vocês entendem
+[01:28:27 -> 01:28:30] sobre o problema que eu tomo na próxima vez que vocês conversam.
+[01:28:30 -> 01:28:34] A banca dá um novo e um óptico para melhorar o momento de descoberto da hora de desenvolver
+[01:28:34 -> 01:28:35] o nosso projeto.
+[01:28:35 -> 01:28:39] E tudo que a gente pode, não fica verdade, o governo, o doutor fica navegado.
+[01:28:39 -> 01:28:44] As telas aprovadas por clientes, desde o que tem de ver, desde que o que quer, não
+[01:28:44 -> 01:28:45] tem como.
+[01:28:45 -> 01:28:46] Não tem que ter as telas na aprovada.
+[01:28:46 -> 01:28:51] Aí vocês têm quatro meses para repetir, naquele nível a gente tem que repetir.
+[01:28:51 -> 01:28:52] A gente se promificar.
+[01:28:52 -> 01:28:57] Então aí você tem quatro meses pra codificar com o sinal de a banca, que não pode
+[01:28:57 -> 01:29:04] E aí o orienta como vocês vão brincar, minhaquilo, se guarda pelo meu espirito, claro, etc.
+[01:29:04 -> 01:29:09] E se percebe como parede com o que você não tem pensado, que você tem que seguir com o ritmo,
+[01:29:09 -> 01:29:12] e ali você tomando o ritmos, certo?
+[01:29:12 -> 01:29:16] Mas que outro fosse contratado pelo espiritoso, certo.
+[01:29:16 -> 01:29:19] Então a oportunidade é muito boa para os seus atletas.
+[01:29:19 -> 01:29:23] Bem, então, resolvido o nosso inseto até agora, né?
+[01:29:23 -> 01:29:29] E agora, com o Enfim de Tego Espírito, vocês são os centros de dinheiro na capacidade da etapa de estabilamento.
+[01:29:29 -> 01:29:39] Entram a cova, o 100% da cova online, saem os 50% da etapas de projéto, de missão.
+[01:29:39 -> 01:29:45] E aí, se você tem tanto na etapa do estabilimento, tem a etapa da missão, você serve certificar.
+[01:29:45 -> 01:29:47] É que é passável, tá?
+[01:29:47 -> 01:29:56] Eu não tinha falado que as nossas diferenciais, a colação e a sua distrito,
+[01:29:56 -> 01:29:58] teve que vocês vão entrar em projetos.
+[01:29:58 -> 01:30:02] Todo o curso que se fizeram agora na parte de desenvolvimento,
+[01:30:02 -> 01:30:07] a gente trabalha com o pai, com a memória de programação, com o espaço, com essa tranquila de trabalhar,
+[01:30:07 -> 01:30:12] e mais de comenta para quem não é informático investindo agora.
+[01:30:12 -> 01:30:17] Só que na hora em que você vai trabalhar na empresa, na empresa de empresa,
+[01:30:17 -> 01:30:20] você vai trabalhando na tecnologia, está em medo.
+[01:30:20 -> 01:30:22] ela usa C mais mais, C é chá,
+[01:30:23 -> 01:30:24] C é a cabeça,
+[01:30:24 -> 01:30:26] chá é o espirito,
+[01:30:26 -> 01:30:28] a problema se fica,
+[01:30:28 -> 01:30:29] chá.
+[01:30:29 -> 01:30:31] Não, mas eu não sei, se pira, cara!
+[01:30:34 -> 01:30:35] Eu mantra,
+[01:30:35 -> 01:30:36] se piras.
+[01:30:38 -> 01:30:40] Então, vai ter que ensinhar para aprender.
+[01:30:40 -> 01:30:41] Esses dois beiros, na verdade,
+[01:30:41 -> 01:30:43] vão prevenir então o crime,
+[01:30:43 -> 01:30:44] e a problema vai entender,
+[01:30:44 -> 01:30:45] vai poder entender mesmo.
+[01:30:45 -> 01:30:47] Ainda vai dar coisa, tá?
+[01:30:48 -> 01:30:50] Ah, mas, eu posso pedir as minhas professores?
+[01:30:50 -> 01:30:51] Pode.
+[01:30:51 -> 01:30:55] E por isso que eu venho, eu não vou conseguir ajudar, mas você pode.
+[01:30:55 -> 01:30:57] O que está fazendo, o saco?
+[01:30:57 -> 01:30:59] Vídeo!
+[01:30:59 -> 01:31:01] Não, cara, é para o primeiro. Vem cá para cá, meu!
+[01:31:01 -> 01:31:03] Eu estou só aqui para fazer isso aqui para que eu faça.
+[01:31:03 -> 01:31:05] Ele vai ter que ajudar.
+[01:31:05 -> 01:31:07] Se vira...
+[01:31:07 -> 01:31:12] Bem, o mercado, não só a gente usa problemas das empresas locais,
+[01:31:12 -> 01:31:15] mas a gente está fazendo professores de vocais,
+[01:31:15 -> 01:31:17] de prajearas locales,
+[01:31:17 -> 01:31:21] nós vamos lá aqui, não sei, nós vamos falar com pessoas a mesma língua,
+[01:31:21 -> 01:31:23] se é de rir e fortes, tá?
+[01:31:23 -> 01:31:31] Não tem um, a cultura do local acham que os países, os alunos, os países projeitos e internacionais,
+[01:31:31 -> 01:31:36] aproveitam essa propriedade, se pode crer em frente, eu vou tentar montar um grupo
+[01:31:36 -> 01:31:39] com alunas internacionares de mesmo país,
+[01:31:39 -> 01:31:43] e de repente vocês podem voltar pra lá, levando um negócio.
+[01:31:43 -> 01:31:48] Lembra? O resultado desse trabalho é de vocês,
+[01:31:48 -> 01:32:00] Me lembro da hora em vocês, vocês podem fazer, reproduzirem a oportunidade, vocês são todos, são vocês, a Brisa, a Universidade e a empresa que a gente conhece agora, o que eu digo?
+[01:32:00 -> 01:32:05] Então, se você pode sair daqui para um negócio, a ter uma empresa no país de vocês,
+[01:32:05 -> 01:32:10] de vez em que você passeia com o brasileiro, porque ele já amava tudo, mas ele já estava intervastilado.
+[01:32:10 -> 01:32:17] Então, aproveita essa oportunidade.
+[01:32:17 -> 01:32:22] Bem, no ponto de ordenação da Igona para vocês, a gente daqui a pouco vai ser divulgado o horário,
+[01:32:22 -> 01:32:26] já foi, né, por causa do apedimento, porque isso não é por favor.
+[01:32:26 -> 01:32:34] Então, é, dedico o período de tempo, sempre assiste a lá, qual é a direção pessoal.
+[01:32:34 -> 01:32:39] Eu não gosto de correr isso, então é o motivo das coisas que acontecem, é isso, é dirigido.
+[01:32:39 -> 01:32:43] Você sai de um horário que eu digo, tá, pega ele e eu cá.
+[01:32:43 -> 01:32:46] e as quatro maiores mortes de vítimas.
+[01:32:46 -> 01:32:48] E o que é que é trapar a minha jornada?
+[01:32:48 -> 01:32:50] Então, é que o horário do dia é exército,
+[01:32:50 -> 01:32:52] é esse que é o horario que eu tenho que estudar.
+[01:32:52 -> 01:32:53] É que eu estou a estudar mais.
+[01:32:53 -> 01:32:54] O que é estudar?
+[01:32:54 -> 01:32:56] O que tem que estudá-lo?
+[01:32:56 -> 01:32:57] Cada disciplina que tem lá, cada matéria,
+[01:32:57 -> 01:33:00] tem um texto, um texto.
+[01:33:00 -> 01:33:02] Está bem escrito, já passou tudo.
+[01:33:02 -> 01:33:03] O que eu pode usar, já?
+[01:33:03 -> 01:33:05] Desculpe também, já visto, tem que correr.
+[01:33:05 -> 01:33:07] Mas, é...
+[01:33:07 -> 01:33:09] que eu vou falar um pouco para os grupos,
+[01:33:09 -> 01:33:10] tem um vídeo,
+[01:33:10 -> 01:33:12] e tem exercício de identificação.
+[01:33:12 -> 01:33:14] faz com que esse prozeiro vai responder.
+[01:33:14 -> 01:33:16] Porque esse é fácil, isso tem que assistir,
+[01:33:16 -> 01:33:18] esse tem que acertar o dia da ouvir,
+[01:33:18 -> 01:33:21] tem que escutar o dia, tem que responder as questões.
+[01:33:21 -> 01:33:23] Tem que acercar 50% das questões,
+[01:33:23 -> 01:33:25] é uma acertada.
+[01:33:25 -> 01:33:27] Mas de novo, o que você pode fazer é ônibus,
+[01:33:27 -> 01:33:29] se você fizer 5 vezes a 100% em prática,
+[01:33:29 -> 01:33:32] o que vai ter que é total.
+[01:33:32 -> 01:33:35] Mas de nuevo, se você usar muito a prioridade do material,
+[01:33:35 -> 01:33:40] de novo de 5 vezes é o que pode fazer.
+[01:33:40 -> 01:33:43] Então, intera 200% dele.
+[01:33:43 -> 01:33:50] É só assim que é considerado terminado a disciplina, presta atenção mesmo, é necessário
+[01:33:50 -> 01:33:56] fazer questão, não esquecer do meu rio e a disciplinar a disciplinada, isso é comum.
+[01:33:56 -> 01:34:00] Mas obrigatório é obrigatória, não é o que eu falei, não sei, não sou.
+[01:34:00 -> 01:34:06] As outras, oito, como um ponto, e é uma taxa que é ação para entrar no final,
+[01:34:06 -> 01:34:13] é a nota da prova, para evitar fome, a número de disciplinas que você usou,
+[01:34:13 -> 01:34:17] 20 pontos, que seria 8 subindo para 20 pontos.
+[01:34:17 -> 01:34:20] Tem ainda 10 pontos que tem aí na região,
+[01:34:20 -> 01:34:26] então, no ideal, tem a cidade que está subindo,
+[01:34:26 -> 01:34:27] no mesmo programa.
+[01:34:27 -> 01:34:28] Por isso, porquê?
+[01:34:28 -> 01:34:29] Tem 40 pontos que a gente mora.
+[01:34:29 -> 01:34:30] Aí, essa catagem, então,
+[01:34:30 -> 01:34:32] que está vaga de um lugar de fone,
+[01:34:32 -> 01:34:33] então, que vai estar todo total.
+[01:34:33 -> 01:34:35] Então, tem que verigir o que a pessoa tem.
+[01:34:35 -> 01:34:37] Então, a presidência é o mesmo.
+[01:34:37 -> 01:34:38] Faça o dinheiro no sentido.
+[01:34:38 -> 01:34:39] Olhe, dá uma marido,
+[01:34:39 -> 01:34:40] não confusão,
+[01:34:40 -> 01:34:43] se a comida foi terminada.
+[01:34:43 -> 01:34:50] Mas eu quero estudar para fundo essa disciplina, não perca tempo para fora, você tem que fazer
+[01:34:50 -> 01:34:57] quatro disciplina já, vai logo, deixa eu vou estudar na fase de projeto, para que você
+[01:34:57 -> 01:34:59] possa estudar a próxima disciplina hoje, tá?
+[01:34:59 -> 01:35:03] Então, o que ele está fazendo, não é estudando, né?
+[01:35:03 -> 01:35:08] A futura, é a partida, que você pode esquecer, pra que você vende na mão e esquece
+[01:35:08 -> 01:35:11] nada.
+[01:35:11 -> 01:35:15] ele vai trabalhar aqui no Brasil, ele vai exercer a programação, você vê
+[01:35:15 -> 01:35:19] quem aqui já programa para ele?
+[01:35:19 -> 01:35:21] Bem, para quem não programa?
+[01:35:21 -> 01:35:24] Para que programa vai poder comprovar com ele?
+[01:35:24 -> 01:35:25] Para quem não programa assim?
+[01:35:25 -> 01:35:26] Para fazer programação?
+[01:35:26 -> 01:35:30] Provação, é que ele é acadêmico, ele é para acadêmica
+[01:35:30 -> 01:35:32] O mesmo que ele programa?
+[01:35:32 -> 01:35:33] O mesmo?
+[01:35:40 -> 01:35:42] Quem está aqui e vai para a academia, você não sabe assim
+[01:35:42 -> 01:35:48] Você vai fazer a academia, você se inscreve, mas aí conversa, você vai se incluir na força.
+[01:35:48 -> 01:35:54] Eu só vou fazer a porra, porque eu paguei três meses dessa tarde, porque a gente fica aqui, no ano de academia.
+[01:35:54 -> 01:36:01] O primeiro mês você vai sobre repórter, o segundo mês você tem que ir pro outro, mas você vai ir lá e vai.
+[01:36:01 -> 01:36:06] O terceiro mês aí, quando aquela porra da academia fecha no tatalho, como que pode?
+[01:36:06 -> 01:36:09] O que você vai fazer?
+[01:36:09 -> 01:36:12] Bicinha, programar a mesma porra.
+[01:36:12 -> 01:36:14] Quando é o primeiro programa de você?
+[01:36:14 -> 01:36:15] Renow World
+[01:36:15 -> 01:36:19] Já tem um ano e um mês pra sair lá
+[01:36:19 -> 01:36:21] Você já acha que não sabe, tem competir pra quê?
+[01:36:21 -> 01:36:23] Aí o segundo é Renow world people
+[01:36:23 -> 01:36:25] Aí não tem nada
+[01:36:27 -> 01:36:29] Então, você não vê que procuração é isso
+[01:36:29 -> 01:36:31] Não desista
+[01:36:31 -> 01:36:33] Na hora que você se pegar e estar a ter repito
+[01:36:33 -> 01:36:36] Sabe um clipe na cabeça e passa a programar
+[01:36:36 -> 01:36:38] Vai sair com a namorada, com a Namorada
+[01:36:38 -> 01:36:39] Só pode ser cheio de um pouco de tal roupa
+[01:36:39 -> 01:36:41] Mas se não for ver, eu vou gostar de um silêncio
+[01:36:41 -> 01:36:46] e o restante é 200 gramas, mas não problema a sua vida.
+[01:36:47 -> 01:36:49] Então, pera aí, não param.
+[01:36:53 -> 01:36:56] Bem, quem, a cor, que perde a aprovação significa?
+[01:36:56 -> 01:36:58] Ele passa na prova, entendeu?
+[01:36:58 -> 01:37:00] Não tem um nótulo de corte difícil,
+[01:37:00 -> 01:37:02] você passa assim para 5, para 100,
+[01:37:02 -> 01:37:05] a nota de cortes é tudo ano.
+[01:37:05 -> 01:37:07] Na fase, a etapa dele, pela meta,
+[01:37:07 -> 01:37:09] é 50% da maior moda.
+[01:37:09 -> 01:37:11] Se você pega a maior modação,
+[01:37:11 -> 01:37:16] Tem que ir no 50% mais alto do que o 50% da nova opção, tá?
+[01:37:16 -> 01:37:21] Acima de 50% na nova opação, tá igual a mais alto, ok?
+[01:37:21 -> 01:37:24] Então descobri que é o que era o mais alto que eu já pensava.
+[01:37:24 -> 01:37:26] Ele já levou mais alto.
+[01:37:26 -> 01:37:29] Não, o rio que eu fiz todo mundo.
+[01:37:29 -> 01:37:34] Na fase de pressão, a regra mais alta, 75% tá?
+[01:37:34 -> 01:37:39] O mesmo jeito a gente conseguiu trovar o 50, 49, 48.
+[01:37:39 -> 01:37:48] de quem foi reclamação na avaliação, principalmente os colegas que ele também foi reclamando.
+[01:37:48 -> 01:37:56] E aí não os custos, nesses custos souberam fazer o predital.
+[01:37:56 -> 01:38:02] Portes de confirmação dos nossos pais, dos nossos computadores, da quantidade em que ele é livre.
+[01:38:02 -> 01:38:05] Isso aí são obrigatórias, né? É só fazer e fazer o óbvio.
+[01:38:05 -> 01:38:08] Esse é de computação, isso não existe em meio óbio.
+[01:38:08 -> 01:38:12] Ele não é a facação que é, a facção do óbrio, de esquerdo.
+[01:38:12 -> 01:38:20] Depois do somão, no respondeiro de cada um, se for ver a aplicação do raio, o fundamento
+[01:38:20 -> 01:38:25] que já é o momento de usar, o que é que dá, está aí, que é o sintético, a aplicação
+[01:38:25 -> 01:38:31] que está com a aplicações com o IA, a introdução de prensações, o IOT, está
+[01:38:31 -> 01:38:37] em direção a internet de spreia. A introdução do IOT é visita a gente de IA que é
+[01:39:12 -> 01:39:15] O que você está fazendo aqui?
+[01:39:15 -> 01:39:17] Só se tu não tem o melhorinho de portas?
+[01:39:17 -> 01:39:21] O que eu estou fazendo?
+[01:39:21 -> 01:39:25] Eu tenho que fazer o que eu quero fazer aqui.
+[01:39:25 -> 01:39:27] Quer fazer o quê?
+[01:39:27 -> 01:39:29] Eu tenho de fazer o qual?
+[01:39:29 -> 01:39:31] Ah, então estou.
+[01:39:31 -> 01:39:33] O que é o que você quer fazer aqui?
+[01:39:33 -> 01:39:37] É, eu estou falando com você.
+[01:39:37 -> 01:39:39] Você vai lutar com a gente, certo?
+[01:39:39 -> 01:39:41] Você vai ter que lutar, sabe?
+[01:39:41 -> 01:39:43] Não, eu vou lutar para a gente não.
+[01:39:43 -> 01:39:45] Eu vou lhe lutar pra a gente.
+[01:39:45 -> 01:39:47] É...
+[01:39:47 -> 01:39:49] No nosso tempo,
+[01:39:49 -> 01:39:50] estar tendo na coca,
+[01:39:50 -> 01:39:52] tanto na prova,
+[01:39:52 -> 01:39:53] na fase de vendamento,
+[01:39:53 -> 01:39:55] mas na diversão a gente quer ver de coca.
+[01:39:55 -> 01:39:56] Tá?
+[01:39:56 -> 01:39:58] No tempo aí, 20% para o 10%,
+[01:39:58 -> 01:40:00] 20% pra dedos,
+[01:40:00 -> 01:40:02] 20% a artes de dedos no bolo,
+[01:40:02 -> 01:40:05] 10% pra olhúrgica
+[01:40:05 -> 01:40:07] dos países que não conseguem,
+[01:40:07 -> 01:40:09] 5% pra precedência,
+[01:40:09 -> 01:40:11] 5% para mais de 45 anos,
+[01:40:11 -> 01:40:14] ou 10% para dedos do corpo.
+[01:40:14 -> 01:40:20] Tá bom.
+[01:40:20 -> 01:40:24] Cada aluno vai ser meu parede, uma moça, um ensaio e um ato-cubo
+[01:40:24 -> 01:40:27] e, compromisso de vocês, velho,
+[01:40:27 -> 01:40:33] participar de uma reunião presencial por uma vez por semana de coreano todo.
+[01:40:33 -> 01:40:39] Solta o ovo, coloque o risco, que vocês não falem.
+[01:40:39 -> 01:40:42] Ah, mas, é, o colímpio,
+[01:40:42 -> 01:40:50] nós vamos testar que óbvio tem que ter isso, mas não falo.
+[01:40:50 -> 01:40:52] O ruído, o tolês, tudo bem,
+[01:40:52 -> 01:40:54] vai com a testada, o mesmo, o sério,
+[01:40:54 -> 01:40:55] a gente é mais linducado,
+[01:40:55 -> 01:40:58] quer dizer quando vai acertar o local do local
+[01:40:58 -> 01:41:03] e fazer se eles estão recebendo uma bolsa para fazer isso
+[01:41:03 -> 01:41:04] com todos os salários do empresa.
+[01:41:04 -> 01:41:06] Na empresa que se salvou,
+[01:41:06 -> 01:41:08] de uma banda que você façava na porca mesmo,
+[01:41:08 -> 01:41:11] vai agar para pegar essa aqueira.
+[01:41:11 -> 01:41:15] Tem a primeira semana que o doutor,
+[01:41:15 -> 01:41:18] quer dizer, ele precisa de um reserva de urinamento,
+[01:41:18 -> 01:41:20] de urino profundo, para pegar a porca também.
+[01:41:20 -> 01:41:23] Então, já veja lá a data na tradicional,
+[01:41:23 -> 01:41:25] já exerga a geração do conselho,
+[01:41:25 -> 01:41:27] para acertá-la e ver se está com o convívio.
+[01:41:27 -> 01:41:33] Aí eu olho no escuto, conversa com os conversores, o risco da pescava, o presença, tudo mais, tá?
+[01:41:33 -> 01:41:40] É, do trabalho, o negocia, a certeza, o deponho, o horário, a fotografia, o filmecer, o negócio.
+[01:41:40 -> 01:41:43] É o próximo tempo.
+[01:41:43 -> 01:41:45] Ah, que tomasse isso.
+[01:41:49 -> 01:41:54] Se vocês não se afadeavam, eu que...
+[01:41:54 -> 01:41:58] As duas afadeações, a afadeção, em três mesões.
+[01:41:58 -> 01:42:01] O que é esse projeto?
+[01:42:01 -> 01:42:03] Quando a gente trabalha com o projeto de uma banda,
+[01:42:03 -> 01:42:05] que é o prêmio que a gente fez hoje com a banda,
+[01:42:05 -> 01:42:07] que amaria um projeto para vocês,
+[01:42:07 -> 01:42:09] mas esse quarto, que é a ideia de quebrar a ideia.
+[01:42:09 -> 01:42:11] O que não varia sempre, porque a gente já perdia a banda
+[01:42:11 -> 01:42:13] a nota da banda, que ela é a nota para todo o grupo.
+[01:42:15 -> 01:42:17] Aí tem a nota do orientador,
+[01:42:17 -> 01:42:19] o orientador para a variável,
+[01:42:19 -> 01:42:22] só que escute.
+[01:42:22 -> 01:42:24] Então, mesmo se vocês sabem,
+[01:42:24 -> 01:42:26] de toda essa reunião,
+[01:42:26 -> 01:42:28] e como que se fez com vocês,
+[01:42:28 -> 01:42:31] se você está analisando o que é que você tem de ideia, o que você é lento ou não,
+[01:42:31 -> 01:42:37] se você comece a se comunicar, se você cumpre o que eu cometi de fazer naquela semana,
+[01:42:37 -> 01:42:44] se você respeita os seus colegas, se tem opinião, dá a chance de outro prazer o que ele tem de discutir,
+[01:42:44 -> 01:42:49] você quer que eu lavo com ele de chachar ele pra frente, é na boca, entende?
+[01:42:49 -> 01:42:55] Então, o teu orientador vai acabar adiante de você e tu mantes o suporte, é uma nota.
+[01:42:55 -> 01:42:59] A outra é ser a nota, é que os seus comlegas alagem em você.
+[01:42:59 -> 01:43:03] Então, cada um de nós, uma pessoa de grupo, trabalha só nos outros quartos anteriores.
+[01:43:03 -> 01:43:06] O trabalho é um corpo que, quando é que ajudou o grupo a crescer,
+[01:43:06 -> 01:43:08] ajudou a resolver o problema.
+[01:43:08 -> 01:43:13] Ajuda você a crescerem com o problema de grupo.
+[01:43:13 -> 01:43:16] Então, essas três novas.
+[01:43:16 -> 01:43:19] Eu passo um poderado para chegar no final,
+[01:43:19 -> 01:43:22] e aí eu quero dar uma conta de uma proteção.
+[01:43:22 -> 01:43:26] Eu vou fazer até hoje, porque eu fiquei renovado por todos os projetos.
+[01:43:26 -> 01:43:30] Eu souber renovado com toda uma proteja nova,
+[01:43:30 -> 01:43:35] Então, no momento da sua normalidade, o que é barco é o barco na blusa.
+[01:43:35 -> 01:43:37] É barco, é ele.
+[01:43:37 -> 01:43:41] Se qual é o problema da primeira hora de ação, da segunda vez?
+[01:43:41 -> 01:43:43] A gente se sentiu.
+[01:43:43 -> 01:43:45] Se for, a gente não se permitiu.
+[01:43:45 -> 01:43:49] Mas quem é aprovado, não ganha a prova de cura.
+[01:43:49 -> 01:43:50] E Deus recebe o caso.
+[01:43:50 -> 01:43:51] Bom?
+[01:43:51 -> 01:43:52] No leito?
+[01:43:52 -> 01:43:54] E qual é a humanidade?
+[01:43:54 -> 01:43:55] Civil?
+[01:43:55 -> 01:43:57] Legal?
+[01:43:57 -> 01:43:58] Doble?
+[01:43:58 -> 01:44:06] Que é acordado?
+[01:44:06 -> 01:44:11] O objeto.
+[01:44:11 -> 01:44:13] O que é isso?
+[01:44:13 -> 01:44:15] O senhor já já entendeu o que a gente poderia dizer.
+[01:44:15 -> 01:44:19] O senhor não sabe o que isso é.
+[01:44:19 -> 01:44:31] O senhor tem que dar a ver se é a outra raça da polícia.
+[01:44:31 -> 01:44:33] O senhor sabe que a polícia é a única.
+[01:44:33 -> 01:44:37] A segunda é que a senhora tem que fazer isso.
+[01:44:37 -> 01:44:43] E o senhor tem a ver o que é o senhor.
+[01:44:43 -> 01:44:45] Bem, o senhor sabe o quão de lutas.
+[01:44:45 -> 01:44:47] O senhor vai ter que marcar as lutas que está ajudada.
+[01:44:47 -> 01:44:49] O senhor que não é.
+[01:44:49 -> 01:44:51] O senhor deve marcar a luta assim lá.
+[01:44:51 -> 01:44:53] Você sabe o que é uma idade, né?
+[01:44:53 -> 01:44:55] Aí você já tem essa técnica de fureco.
+[01:44:55 -> 01:44:59] Agora é justo a expulsão da minha fureca.
+[01:44:59 -> 01:45:01] É...
+[01:45:01 -> 01:45:05] Você pergunta se eu vou envolver com esse método, todas as 14?
+[01:45:05 -> 01:45:08] E...
+[01:45:08 -> 01:45:10] Pessoas que vão...
+[01:45:10 -> 01:45:12] Que não vão mais dessas coisas juntos.
+[01:45:12 -> 01:45:15] Como que não vai?
+[01:45:15 -> 01:45:17] Ou se você chama o gano de dados
+[01:45:17 -> 01:45:19] pra tal...
+[01:45:19 -> 01:45:21] Você tem que saber um pouco esse método.
+[01:45:21 -> 01:45:24] Então, isso não é tão fácil, não é?
+[01:45:24 -> 01:45:25] Não é?
+[01:45:25 -> 01:45:26] Tá bem.
+[01:45:26 -> 01:45:29] E assim por exemplo, a gente não está respondendo nem a mim.
+[01:45:29 -> 01:45:32] Mas a gente se preocupa com as minhas coisas do maluco.
+[01:45:32 -> 01:45:35] As minhas áreas mecânicas, as minha colônicas,
+[01:45:35 -> 01:45:38] as minas fórticas, as fórtuas da universidade,
+[01:45:38 -> 01:45:41] os homens, as operativas, esses carros,
+[01:45:41 -> 01:45:46] tem que ter um projeto, um projeto da região.
+[01:45:46 -> 01:45:48] A região que eu faço é de fortaleza para cá,
+[01:45:48 -> 01:45:50] E o que é isso?
+[01:45:50 -> 01:46:00] Mas, pergunte-me, o que isso era para a gente fazer?
+[01:46:00 -> 01:46:03] Quer saber como é que é a gente ver o que você sabe?
+[01:46:03 -> 01:46:11] É, vocês não vão para o artigo, antes de a gente marcar, o quê que foi selecionado?
+[01:46:11 -> 01:46:14] Vamos mandar um selecionador, um peixezinho.
+[01:46:14 -> 01:46:17] Um selecionário que é derragado e um piscino.
+[01:46:17 -> 01:46:21] Um seleçonário que está no estado da Fábio.
+[01:46:21 -> 01:46:26] Ele tem que fazer escupir e escupitar a pessoa.
+[01:46:26 -> 01:46:34] E é ele que monta o último que tem, é um índio, é o novo, mas não quer dizer que tem a ser um ídio,
+[01:46:34 -> 01:46:36] mas não tem o que ter feito um írdio.
+[01:46:36 -> 01:46:40] O outro índico foi o novo.
+[01:46:40 -> 01:46:43] Então, ali, isso aí foi um adoramento, pelo menos.
+[01:46:43 -> 01:46:47] Então, a gente não coloca uma mulher só sem índios no novo.
+[01:46:47 -> 01:46:49] Ou seja, no novo marco.
+[01:46:49 -> 01:46:52] A gente não vai ter que existir muito conhecimento.
+[01:46:52 -> 01:46:57] A gente tem um grupo que trabalha até quarenta e um, já é um grupo de escorta de engenharia,
+[01:46:57 -> 01:47:02] que distribui a estrutura de funções interogêneas, de construção,
+[01:47:02 -> 01:47:07] e que tem uma capacidade de remoção do projeto.
+[01:47:07 -> 01:47:10] No ano de que o projeto, por exemplo, porque tem um projeto,
+[01:47:10 -> 01:47:14] que a gente distribui o ano de um projeto para o teléfono,
+[01:47:14 -> 01:47:18] que tem um ponto de voltaio, que volve com esse teléfone,
+[01:47:18 -> 01:47:23] Você está voltando a esse projeto como tudo que tem ocultado é telefone, tá?
+[01:47:23 -> 01:47:26] Mas é, é essa a formação, já foi um caso de tudo que é completo.
+[01:47:26 -> 01:47:35] Mas é para dar mais utilidade, um beijo?
+[01:47:35 -> 01:47:36] Um beijo.
+[01:47:36 -> 01:47:37] É uma muita vida, não é?
+[01:47:37 -> 01:47:38] Sim.
+[01:47:38 -> 01:47:43] Então, gente, obrigada, desculpe as brincadeiras e obrigada e boa tarde por você.
+[01:47:43 -> 01:47:44] Tchau.
+[01:47:44 -> 01:47:48] Obrigada.
+[01:47:48 -> 01:47:58] Obrigado.
+[01:48:00 -> 01:48:02] Gente, é rápido, gente.
+[01:48:02 -> 01:48:08] Não chegando ao final da sua unidade de aventura, da aula inaugural do Programa Mídio Descentivo,
+[01:48:08 -> 01:48:15] quero agradecer as autoridades presentes, aos representantes das instituições parceiras,
+[01:48:15 -> 01:48:22] a equipe organizadora e a crôs que contribuíam para a realização deixa aos alunos
+[01:48:22 -> 01:48:27] desejamos um ancrajante de muita pensado, crescimento e realização.
+[01:48:27 -> 01:48:32] E vocês encontrem esta experiência, oportunidades para desenvolver suas habilidades
+[01:48:32 -> 01:48:38] ou partilhar conhecimentos e contribuir com soluções tecnológicas relevantes para a sociedade.
+[01:48:38 -> 01:48:41] E só para finalizar, qual é o mantra?
+[01:48:41 -> 01:48:47] Similir!
+[01:48:47 -> 01:48:49] E deseja uma boa-feira a todos os excelentes...

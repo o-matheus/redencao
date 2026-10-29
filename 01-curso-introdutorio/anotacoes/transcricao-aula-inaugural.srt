@@ -1,0 +1,5140 @@
+1
+00:00:00,000 --> 00:00:11,849
+E a todos e todos, sejam muito bem-vindos na Aura Inaugurável Programa 16, em parceria com a Trisa e a mesma.
+
+2
+00:00:11,849 --> 00:00:23,000
+É grande satisfação darmos início a este momento tão importante para o congresso dentro da formação de opção da área de tecnologia, da informação e comunicação.
+
+3
+00:00:23,000 --> 00:00:27,000
+Hoje, começam a nota para a trajetória de vocês.
+
+4
+00:00:27,000 --> 00:00:30,160
+com a jornada que realmente aprendizavam,
+
+5
+00:00:30,160 --> 00:00:32,950
+desde o futuro dito de comências,
+
+6
+00:00:32,950 --> 00:00:39,100
+e na opção de preparação para os desafios
+
+7
+00:00:39,100 --> 00:00:41,100
+e antes de seguirmos,
+
+8
+00:00:41,100 --> 00:00:44,759
+queremos destacar um dado muito importante.
+
+9
+00:00:44,759 --> 00:00:49,560
+O Cabrão recebeu 500
+
+10
+00:00:49,560 --> 00:00:56,170
+das quais 250 candidatos foram ser relacionados.
+
+11
+00:00:56,170 --> 00:00:58,740
+Esse número demonstra grande interesse
+
+12
+00:00:58,740 --> 00:01:00,740
+pelas oportunidades de informação,
+
+13
+00:01:00,740 --> 00:01:03,600
+de reclogir a informação.
+
+14
+00:01:03,600 --> 00:01:07,420
+e evidencia a concorrência do processo seletivo.
+
+15
+00:01:07,420 --> 00:01:11,299
+O Programa de Residência e TIC-16,
+
+16
+00:01:11,299 --> 00:01:13,140
+Brisa Barra Manilami,
+
+17
+00:01:13,140 --> 00:01:16,219
+tem como foco a formação de profissionais
+
+18
+00:01:16,219 --> 00:01:18,920
+na tecnologia da informação,
+
+19
+00:01:18,920 --> 00:01:21,599
+com a ênfase de programação avançada
+
+20
+00:01:21,599 --> 00:01:27,780
+e no desenvolvimento de soluções para o tempo
+
+21
+00:01:27,780 --> 00:01:31,090
+atomacado, na qual os residentes
+
+22
+00:01:31,090 --> 00:01:35,659
+poderão ficar encontrados com os desafios reales de...
+
+23
+00:01:35,659 --> 00:01:39,310
+Ao longo dessa fase, vocês terão a oportunidade
+
+24
+00:01:39,310 --> 00:01:40,950
+de ampliar o conhecimento
+
+25
+00:01:40,950 --> 00:01:52,750
+de experiências, trabalhar e equipe, e desde o coberto com competências importantes para a construção de suas carreiras e tropas,
+
+26
+00:01:52,750 --> 00:02:04,469
+que estes sejam indícios de uma prajadoria maricada pela dedicação, pela criatividade, pela colaboração e pelo compromisso com a aprendizada.
+
+27
+00:02:04,469 --> 00:02:09,500
+Queremos desejar muito bem-vindos em todos.
+
+28
+00:02:09,500 --> 00:02:16,120
+Nesse momento, combinamos as autoridades e os regras das instituições parceiras
+
+29
+00:02:16,120 --> 00:02:20,259
+para um buraco de honra desta solidariedade.
+
+30
+00:02:20,259 --> 00:02:28,849
+Combinamos, então, a vice-reitora da União Brasileira,
+
+31
+00:02:28,849 --> 00:03:25,379
+professora doutora Eliana e doutor Alguino Comentos das C6,
+
+32
+00:03:25,379 --> 00:04:14,659
+e o dôndio Véu, de vez de Jarejo,
+
+33
+00:04:14,659 --> 00:04:20,569
+montar a formação de novos profissionais na área de Rio.
+
+34
+00:04:20,569 --> 00:04:32,310
+Queremos registrar e saudar também aqui os profissionais que fazem que o programa de residência entre ele e os desenhos, e desenhos que Isa vai congelar.
+
+35
+00:04:32,310 --> 00:04:36,079
+Saudamos também os coordenadores do programa.
+
+36
+00:04:36,079 --> 00:04:48,120
+Professor, doutor, André Ruiz da Costa Vendonça.
+
+37
+00:04:48,120 --> 00:05:12,779
+E o professor doutoro Carles, quero combinar agora com curadeza o vice-presidente de Pesquisa Desenvolvimento e Inovação da Diploma do Desenbolvimento da Tecnologia e da Informação.
+
+38
+00:05:12,779 --> 00:05:56,029
+O senhor recente, professora Língela Escreva,
+
+39
+00:05:56,029 --> 00:06:35,790
+ex-deadeira, Rafael Olio,
+
+40
+00:06:35,790 --> 00:06:53,949
+preguição para o desenvolvimento
+
+41
+00:06:53,949 --> 00:06:56,589
+das iniciativas, pedimos então
+
+42
+00:06:56,589 --> 00:07:01,629
+que o residenciente que 16
+
+43
+00:07:01,629 --> 00:07:03,629
+imparçaria a estabilização
+
+44
+00:07:03,629 --> 00:07:16,160
+e o aposentamento de
+
+45
+00:07:16,160 --> 00:07:18,160
+seus parceiros a compartilharem
+
+46
+00:07:18,160 --> 00:07:20,160
+suas considerações sobre
+
+47
+00:07:20,160 --> 00:07:22,160
+a importância da formação
+
+48
+00:07:22,160 --> 00:07:35,490
+e transição, e, primeiramente,
+
+49
+00:07:35,490 --> 00:07:41,870
+reitora da unicação
+
+50
+00:07:41,870 --> 00:09:14,429
+da pessoa, a doutora Elina
+
+51
+00:09:14,429 --> 00:09:16,429
+Paseca, que é um dospre,
+
+52
+00:09:16,429 --> 00:09:19,529
+que é representante do NCCI,
+
+53
+00:09:19,529 --> 00:09:40,090
+que é de todos vocês, agradeço a Deus
+
+54
+00:09:40,090 --> 00:09:52,740
+por ver o tempo que eu falei,
+
+55
+00:09:52,740 --> 00:09:56,480
+e por todas as finanças, por muito tempo,
+
+56
+00:09:56,480 --> 00:10:03,059
+a gente acaba acertando hoje,
+
+57
+00:10:03,059 --> 00:10:08,700
+que é o soco de felicidade na América Latina,
+
+58
+00:10:08,700 --> 00:10:10,700
+onde eu conheci o mundo,
+
+59
+00:10:10,700 --> 00:10:14,049
+então eu não quero fazer isso,
+
+60
+00:10:14,049 --> 00:10:17,139
+eu falo um vez esteado,
+
+61
+00:10:17,139 --> 00:10:20,620
+e hoje eu já leviada de saber o Brasil como sério,
+
+62
+00:10:20,620 --> 00:10:46,139
+Temos um espérico da educação, uma presidente que é preocupada com a educaça pública e que também tem a compreensão de que a universidade tem que estar diálogo com as fazeiras e pensar o futuro no presente.
+
+63
+00:10:46,139 --> 00:10:57,100
+Então, agradeço muito a Seria Carriz da Universidade, a gente se colocar nesse lugar.
+
+64
+00:10:57,100 --> 00:11:04,580
+Esse projeto já é um projeto de inscrição, porque ele tem mais de 500 inscrições,
+
+65
+00:11:04,580 --> 00:11:11,500
+e a gente sabe que, desde o primeiro momento, não vamos até ter todas as inscriações,
+
+66
+00:11:11,500 --> 00:11:16,980
+mas a gente já começa com um grande succeso que mostra esse canal para a universidade
+
+67
+00:11:16,980 --> 00:11:19,980
+e o potencial para uma universidade comunal.
+
+68
+00:11:19,980 --> 00:11:30,120
+de uma missão que havia os países africanos de língua portuguesa, o Masciso do Papyrinté,
+
+69
+00:11:30,120 --> 00:11:36,220
+também São Francisco do Fondo e o Escovô do Caelão, ali, todo esse retorno,
+
+70
+00:11:36,220 --> 00:11:44,220
+de estudos de Brasil e África, a pensar no futuro de uma reação aí dentro do campo
+
+71
+00:11:44,220 --> 00:11:53,399
+da tecnologia, da informação, dentro do domingo da K.I., era a gente comentava
+
+72
+00:11:53,399 --> 00:11:56,399
+que aumentaram o investimento na nossa empresa,
+
+73
+00:11:56,399 --> 00:12:00,399
+e às vezes a Universidade ficou muito tempo com a gente na cara,
+
+74
+00:12:00,399 --> 00:12:08,399
+na exigência das empresas, com o empreendedorismo,
+
+75
+00:12:08,399 --> 00:12:14,519
+e é uma das últimas décadas que a Universidade precisa assim entender,
+
+76
+00:12:14,519 --> 00:12:18,549
+precisa assim ter uma relação com o mundo real,
+
+77
+00:12:18,549 --> 00:12:22,090
+com o mercado, com a paciência,
+
+78
+00:12:22,090 --> 00:12:30,610
+A experiência do material, esse no máximo, está sempre em solução.
+
+79
+00:12:30,610 --> 00:12:40,740
+Então, de pensar em uma sociedade anti-racista, recolhe, de pensar culturas, entendedores,
+
+80
+00:12:40,740 --> 00:12:48,139
+culturas empresárias, empresárias que estão preocupadas, que reajudam que nós termos
+
+81
+00:12:48,139 --> 00:12:54,240
+uma sociedade de respeito à ciência e de pensar no futuro, a revelar que a
+
+82
+00:12:54,240 --> 00:13:00,399
+que a gente vai ouvir. Então eu tenho certeza de que essa transformação é uma azeria de uma brisa,
+
+83
+00:13:00,399 --> 00:13:04,179
+já que já é uma parceira de algo que vem, com vocês,
+
+84
+00:13:04,179 --> 00:13:09,519
+certamente uma parceireira de sucesso, muito feliz que ela agradecer a três vezes do curso,
+
+85
+00:13:09,519 --> 00:13:15,919
+e sucesso. Mas sempre que o nosso projeto seja seu na Universidade Internacional,
+
+86
+00:13:15,919 --> 00:13:20,720
+de pensar na sua relação com a ciência da tecnologia, com o pretedorismo,
+
+87
+00:13:20,720 --> 00:13:26,860
+Concentrar com a brisa que sempre foca com melhorar a qualidade de vida das pessoas.
+
+88
+00:13:26,860 --> 00:13:32,820
+Eu estudo dizer que sempre nós temos que ser boas pessoas, boas seres humanos.
+
+89
+00:13:32,820 --> 00:13:41,720
+Boas seres humanas não gerar. Boas iguais, bons projetos, boos indígenas que normalmente vão ter uma sociedade no tenhão.
+
+90
+00:13:41,720 --> 00:13:42,720
+Muito obrigada.
+
+91
+00:13:42,720 --> 00:13:57,159
+vice-presidente de pesquisa de desenvolvimento e inovação da violência, sociedade para
+
+92
+00:13:57,159 --> 00:14:02,779
+desenvolvimento da tecnologia da informação, o senhor Vicente Landinho Massercuini.
+
+93
+00:16:21,720 --> 00:16:27,720
+O que está a ver, o que está, o risco é que o órgão está tendendo a justificação
+
+94
+00:16:27,720 --> 00:16:31,720
+e o álcool está funcionando, então pode ser variado, tá?
+
+95
+00:16:31,720 --> 00:16:35,720
+O ílcool não está tendo esse risco de desfeio.
+
+96
+00:16:35,720 --> 00:16:36,720
+Feio.
+
+97
+00:16:36,720 --> 00:16:38,720
+Desfeio de condenamento.
+
+98
+00:16:38,720 --> 00:16:40,720
+Na lei de formato, tá.
+
+99
+00:16:40,720 --> 00:16:43,720
+Na lei do formato de formatilismo.
+
+100
+00:16:43,720 --> 00:16:47,720
+E o percentual do risco está a ser desfeiosamente,
+
+101
+00:16:47,720 --> 00:16:49,720
+e desde o tempo de formação.
+
+102
+00:19:22,279 --> 00:19:31,079
+Mas não é um atleta, não é uma atlete, mas um atetor, um atretor, e um atreio.
+
+103
+00:19:31,079 --> 00:19:33,079
+Mas não tem um atraso, não tem uma atreia.
+
+104
+00:19:33,079 --> 00:19:35,079
+Mas não há um atracão, não há uma atracção.
+
+105
+00:19:35,079 --> 00:19:37,079
+Não há um trecho, não.
+
+106
+00:19:37,079 --> 00:19:39,079
+Não há uma trecho.
+
+107
+00:19:39,079 --> 00:19:41,079
+Não tem um trechado.
+
+108
+00:19:41,079 --> 00:19:43,079
+Não tem uma trechada.
+
+109
+00:19:43,079 --> 00:19:45,079
+Não tem.
+
+110
+00:19:45,079 --> 00:19:47,400
+Não tem a trechadeira.
+
+111
+00:21:30,589 --> 00:21:34,829
+o trabalho do seu pai está muito rápido e eu tenho uma acessibilidade com o Pé
+
+112
+00:21:34,829 --> 00:21:37,710
+em relação ao heterotorismo e da alvação
+
+113
+00:21:37,710 --> 00:21:40,269
+fez uma parceria muito boa para o meu lado
+
+114
+00:21:40,269 --> 00:21:43,390
+deixando uns 90% de trabalhos em uma universidade
+
+115
+00:21:43,390 --> 00:21:46,750
+e para realizar a universidade pelo programa
+
+116
+00:21:46,750 --> 00:21:51,549
+a mensagem que eu tenho para vocês, que o site desse programa ele é único
+
+117
+00:21:51,549 --> 00:21:54,910
+ele é o único e é uma oportunidade que você esteve a agarrar
+
+118
+00:21:54,910 --> 00:21:57,950
+com muito incidência mesmo
+
+119
+00:21:57,950 --> 00:22:08,109
+Eu digo muito isso, eu não sei se eu pego na presidência, eu falo do meu peito, o que não faz muito tempo, nós já estávamos acompanhando a comávia de ontem que eu tive na universidade
+
+120
+00:22:08,109 --> 00:22:15,109
+e as oportunidades eram outras, hoje a gente vive novos tempos, tempo de oportunidades, tempo e desenvolvimento
+
+121
+00:22:15,109 --> 00:22:24,109
+e na nossa época a gente vai ter uma oportunidade realmente distinta, e hoje vocês estão tendo a oportunidade de ir no mercado de trabalho todo o tempo e o profissional
+
+122
+00:22:24,109 --> 00:22:33,109
+Agradecendo a parabéns a Rútenha Prisa pelo trabalho que vem fazendo com esse prédio de residência.
+
+123
+00:22:33,109 --> 00:22:40,109
+E, no próximo dosco, continuo a ser claro que algo precisa de um anjo de progredo programado
+
+124
+00:22:40,109 --> 00:22:45,109
+na nação de creditorismo é um adjudicado de novos aperto para o processo de acessar.
+
+125
+00:22:45,109 --> 00:22:47,109
+Creditorismo e notação.
+
+126
+00:22:47,109 --> 00:22:58,200
+Ovidão sem sequência, a senhora André, sabariando entre eles, Peó, global não,
+
+127
+00:22:58,200 --> 00:23:04,400
+coordenadora de inovação tecnológica, coordenador do Número de Inovação Tecnológica da Milávia,
+
+128
+00:23:04,400 --> 00:23:09,799
+para compartilhar as considerações sobre a inovaçao tecnológico e a articulação
+
+129
+00:23:09,799 --> 00:23:18,450
+entre o conhecimento, pesquisa e desenvolvimento.
+
+130
+00:23:18,450 --> 00:23:23,450
+para os dias todos, para descer do mesmo convite na visão de perto,
+
+131
+00:23:23,450 --> 00:23:25,450
+para ter que também estar com louco.
+
+132
+00:23:25,450 --> 00:23:30,450
+Eu acho que isso é uma oportunidade, não só para a doença,
+
+133
+00:23:30,450 --> 00:23:34,450
+para nós assim, mas para os estudantes de uma maneira geral,
+
+134
+00:23:34,450 --> 00:23:40,450
+os professores também, que são os que contarem e anos alunos,
+
+135
+00:23:40,450 --> 00:23:45,450
+e eu acho que é super importante a gente ver o nome das inscrições,
+
+136
+00:23:45,450 --> 00:23:52,450
+Seu último grupo fez umificativo de sinal e o projeto ele tem comercial, ele já tem um histórico de potencial
+
+137
+00:23:52,450 --> 00:23:57,450
+e a clara e o potencial dele e o diferencial vai ser aqui, como assiste o Barberité.
+
+138
+00:23:57,450 --> 00:24:03,450
+Então acho que isso é uma grande oportunidade para os compensais que temos dentro da universidade
+
+139
+00:24:03,450 --> 00:24:07,450
+para a gente conseguir transparar as paredes da universidades.
+
+140
+00:24:07,450 --> 00:24:11,049
+Eu sempre puxou falar pra ele no momento de uma gração,
+
+141
+00:24:11,049 --> 00:24:16,569
+não adianta a gente fazer o que fazer pra ele estar neve a estado e ficar neve na cidade.
+
+142
+00:24:16,569 --> 00:24:21,470
+A gente só tá utilizando o gelo combinante que precisa ter um fim pra isso.
+
+143
+00:24:21,470 --> 00:24:24,670
+Então, a gente precisa capacitar os estudantes
+
+144
+00:24:24,670 --> 00:24:27,970
+pra que eles são o que fazem aqui, que eles aprendem aqui,
+
+145
+00:24:27,970 --> 00:24:30,069
+que eles consigam transparçar,
+
+146
+00:24:30,069 --> 00:24:33,470
+e aí dá uma oportunidade também para a mercade da barra
+
+147
+00:24:33,470 --> 00:24:37,769
+e o potencial dele serem o bicho das riteiras aí de mercado.
+
+148
+00:24:37,769 --> 00:24:43,170
+Então, esse programa, esse projeto de residencias em DCS
+
+149
+00:24:43,170 --> 00:24:48,970
+ela é muito importante para que a universidade, a universdade esteja presente
+
+150
+00:24:48,970 --> 00:24:55,069
+e com potencial para a gente poder, para talvez mais mostrar o nosso potencial
+
+151
+00:24:55,069 --> 00:25:00,170
+como estudantes, como professores, como profissionais, como região também
+
+152
+00:25:00,170 --> 00:25:04,769
+que a região tem muito aterceiro, potencial de mais estudados internos
+
+153
+00:25:04,769 --> 00:25:07,809
+Só que está ali presente o que sabe, né?
+
+154
+00:25:07,809 --> 00:25:12,650
+E muitas das vezes eu vejo muitos projetos que tem aqui na universidade
+
+155
+00:25:12,650 --> 00:25:15,450
+e as pessoas que acham que não é inovação.
+
+156
+00:25:15,450 --> 00:25:18,490
+E precisam entender o que é inovação sim,
+
+157
+00:25:18,490 --> 00:25:23,369
+que a gente precisa ter a cultura de inovações na universitagem.
+
+158
+00:25:23,369 --> 00:25:27,049
+E a gente fazemos o diferencial dos nossos projetos.
+
+159
+00:25:27,049 --> 00:25:32,490
+Começaram a pensar nas dificultades, nas programáticas reais
+
+160
+00:25:32,490 --> 00:25:35,490
+e buscar as soluções dentro da universidade,
+
+161
+00:25:35,490 --> 00:25:38,490
+porque assim a gente vai fazer o diga inicial, tá bom?
+
+162
+00:25:38,490 --> 00:25:41,490
+E aí, só agradecer a alguma possibilidade,
+
+163
+00:25:41,490 --> 00:25:44,490
+porque precisarem da formação de novação tecnológica,
+
+164
+00:25:44,490 --> 00:25:46,490
+o número de novações tecnológicas,
+
+165
+00:25:46,490 --> 00:25:49,490
+com a visão de impederismo e combinação de coisas,
+
+166
+00:25:49,490 --> 00:25:51,490
+a lei que também é meio do que a transformação,
+
+167
+00:25:51,490 --> 00:25:53,490
+considerando a universidade.
+
+168
+00:25:53,490 --> 00:25:55,490
+Estamos aqui à disposição,
+
+169
+00:25:55,490 --> 00:25:58,490
+este nós, porque eu também vejo,
+
+170
+00:25:58,490 --> 00:26:02,490
+ele se identificar, estatar com os mais poderes estatados,
+
+171
+00:26:02,490 --> 00:26:07,490
+pode começar com a dele, com a divisão de dinheiro e contribuição de empresas também,
+
+172
+00:26:07,490 --> 00:26:09,490
+que a gente faz todo o investimento.
+
+173
+00:26:09,490 --> 00:26:13,490
+O sacraio com quem está sempre junto com o novo nas capacitações.
+
+174
+00:26:13,490 --> 00:26:18,490
+Na semana que tivemos filhamento, a gente teve a oportunidade de ver vários,
+
+175
+00:26:18,490 --> 00:26:23,490
+grupos e edifes que tinham um potencial, um tempo potencial,
+
+176
+00:26:23,490 --> 00:26:25,490
+que a fazer o diferencial também.
+
+177
+00:26:25,490 --> 00:26:30,490
+Então, flexibilidade, estamos aqui à disposição e a agradecer por mais uma vez.
+
+178
+00:26:30,490 --> 00:26:42,470
+Professor doutor Rodrigo Pereira, director, mulheres e coordenador terno que colocaram
+
+179
+00:26:42,470 --> 00:26:47,470
+o programa de residency em Chico, C6, em parceria com a Luane
+
+180
+00:26:47,470 --> 00:26:51,470
+para fazer o vídeo da palavra e apresentar as suas considerações.
+
+181
+00:26:51,470 --> 00:26:57,220
+Bom dia, todos, prazeres.
+
+182
+00:26:57,220 --> 00:27:01,309
+Se você me inveja de estar ocupado com os prazeros, eu tenho que agradecer a vocês,
+
+183
+00:27:01,309 --> 00:27:03,309
+e os outros, agora, com a mesma cabeça,
+
+184
+00:27:03,309 --> 00:27:05,309
+é só, então, assim,
+
+185
+00:27:05,309 --> 00:27:08,309
+os números e as mapas de projetos, né?
+
+186
+00:27:08,309 --> 00:27:10,309
+Os alunos, realmente, não são os alunas,
+
+187
+00:27:10,309 --> 00:27:13,309
+mas, sabe, o pessoal aqui que gosta de um lado de chão de fábrica,
+
+188
+00:27:13,309 --> 00:27:15,309
+de lá, a viagem vai acontecer.
+
+189
+00:27:15,309 --> 00:27:17,309
+Então, assim...
+
+190
+00:27:17,309 --> 00:27:19,309
+Eu só acredito que você não sei omitir
+
+191
+00:27:19,309 --> 00:27:21,309
+bons nacionais,
+
+192
+00:27:21,309 --> 00:27:23,309
+sem resolver problemas
+
+193
+00:27:23,309 --> 00:27:25,309
+do mercado dramático.
+
+194
+00:27:25,309 --> 00:27:27,309
+Então, não agir para você estar solvente aqui
+
+195
+00:27:27,309 --> 00:27:29,309
+em fazer artigos que é importante
+
+196
+00:27:29,309 --> 00:27:35,309
+Então, ele já tem que crer, ele diz que é a sua cara, o seu soco, a própria real, tá na empresa.
+
+197
+00:27:35,309 --> 00:27:38,309
+Ele não precisa de um privado, não, ele se for formado aqui.
+
+198
+00:27:38,309 --> 00:27:43,789
+Mas eu gosto de usar, por exemplo, esse sentido deles acontecer.
+
+199
+00:27:43,789 --> 00:27:46,789
+É que a gente tem que sair dos muros da universidade.
+
+200
+00:27:46,789 --> 00:27:50,789
+Então, que tem muitos alunos que não são valorados na inscrição.
+
+201
+00:27:50,789 --> 00:27:52,789
+Então, sabe que isso é uma coisa que eu passei.
+
+202
+00:27:52,789 --> 00:27:55,789
+Não tenho carinha pra você estudar e não saber buscar.
+
+203
+00:27:55,789 --> 00:27:57,789
+Apesar do acordo da sociedade.
+
+204
+00:27:57,789 --> 00:28:02,089
+Então sim, esse é o primeiro projeto da Dia Sintese,
+
+205
+00:28:02,089 --> 00:28:03,589
+que nada de ganharia,
+
+206
+00:28:03,589 --> 00:28:06,589
+com muito feliz por isso.
+
+207
+00:28:06,589 --> 00:28:09,089
+Ela agradece a equipe e aos professores,
+
+208
+00:28:09,089 --> 00:28:12,089
+que estão com a estabilha, que o esquestão coloca a mão,
+
+209
+00:28:12,089 --> 00:28:14,589
+a asa, o coordenador, os outros.
+
+210
+00:28:14,589 --> 00:28:17,589
+Então assim, nós estamos trabalhando aí de forma,
+
+211
+00:28:17,589 --> 00:28:18,789
+assim, eu estou correndo,
+
+212
+00:28:18,789 --> 00:28:20,490
+quando vai nas empresas,
+
+213
+00:28:20,490 --> 00:28:21,589
+que tem a minha sensação,
+
+214
+00:28:21,589 --> 00:28:23,089
+que ela tem várias mãos.
+
+215
+00:28:23,089 --> 00:28:29,720
+Se você ainda está e vai conseguir resolver isso, então vamos quebrar esse paradigma.
+
+216
+00:28:29,720 --> 00:28:33,910
+A gente dá a vocês e vão resolver os problemas.
+
+217
+00:28:33,910 --> 00:28:35,910
+Então isso vai empregá-lo.
+
+218
+00:28:35,910 --> 00:28:39,910
+Ao gostoso, você não pode voltar. Não.
+
+219
+00:28:39,910 --> 00:28:43,910
+Porque em seu realidade, vocês vão ter conhecimento.
+
+220
+00:28:43,910 --> 00:28:50,380
+O que é a adiante você ter o conhecimento que está encapsulado só para vocês?
+
+221
+00:28:50,380 --> 00:28:55,380
+Então incentivo vocês fortemente, realmente, a se identificar esse curso.
+
+222
+00:28:55,380 --> 00:29:01,509
+Aqui traz o meu problema de reais, de onde, né, o Conho, que eu já vou falar aqui, né?
+
+223
+00:29:01,509 --> 00:29:03,509
+Aqui eu tenho uma coisa que vou falar, lembrando.
+
+224
+00:29:03,509 --> 00:29:05,509
+Uma grasa surpresa da gente.
+
+225
+00:29:05,509 --> 00:29:09,049
+Na empresa e mais recentes da luz, né.
+
+226
+00:29:09,049 --> 00:29:11,049
+Tem um ex-alunho que foi contratado.
+
+227
+00:29:11,049 --> 00:29:16,599
+O chefe dele falou quando a gente disse,
+
+228
+00:29:16,599 --> 00:29:18,599
+quando ele voltou até comentar,
+
+229
+00:29:18,599 --> 00:29:20,599
+que já é um dos maiores processos lá.
+
+230
+00:29:20,599 --> 00:29:22,599
+A gente já tem a vivência prática,
+
+231
+00:29:22,599 --> 00:29:24,599
+ele é algum, né de extinuição,
+
+232
+00:29:24,599 --> 00:29:26,599
+e ele vivia esse valor parecido.
+
+233
+00:29:26,599 --> 00:29:30,089
+E aí, a empresa acolheu a gente assim como o artigo.
+
+234
+00:29:30,089 --> 00:29:34,650
+Então, pessoal, na hora de você incentivar bastante a professores,
+
+235
+00:29:34,650 --> 00:29:39,150
+então, é importante que a professora esconde pra vocês, né?
+
+236
+00:29:39,150 --> 00:29:41,450
+E aí na cabeça de vocês, eu pensei assim,
+
+237
+00:29:41,450 --> 00:29:44,349
+qual é o problema real desse importante?
+
+238
+00:29:44,349 --> 00:29:46,849
+Professora, eu tô falando isso porque...
+
+239
+00:29:46,849 --> 00:29:49,640
+Não chega pra mim, já tem muitas pessoas,
+
+240
+00:29:49,640 --> 00:29:52,430
+como é que eu vou escrever o artículo, né.
+
+241
+00:29:52,430 --> 00:29:54,630
+Eu sou pesquisador, eu tenho que publicar,
+
+242
+00:29:54,630 --> 00:29:56,329
+porque vai se falar com a minha carreira.
+
+243
+00:29:56,329 --> 00:30:02,019
+publicar, eu só tenho que ser você para contorcionar e publicar
+
+244
+00:30:02,019 --> 00:30:05,519
+mas também souber que soube qual é o problema da sociedade
+
+245
+00:30:05,519 --> 00:30:13,140
+sem isso, não?
+
+246
+00:30:13,140 --> 00:30:15,140
+que sejam resolvidos para os reais
+
+247
+00:30:15,140 --> 00:30:17,640
+em realmente melhor a nossa sociedade
+
+248
+00:30:17,640 --> 00:30:20,140
+e melhor o que eu assisto para tudo o que é que não me diz
+
+249
+00:30:20,140 --> 00:30:21,640
+é uma preocupação da gente
+
+250
+00:30:21,640 --> 00:30:23,640
+do nosso lado, vamos ver, né?
+
+251
+00:30:23,640 --> 00:30:25,640
+os países lá, no ponto de vista, né
+
+252
+00:30:25,640 --> 00:30:27,640
+porque se por chegar lá o moleque está lá
+
+253
+00:30:27,640 --> 00:30:29,640
+no outro campo, será que vai ser doença?
+
+254
+00:30:29,640 --> 00:30:31,640
+e no terceiro campo, se a gente morre
+
+255
+00:30:31,640 --> 00:30:32,640
+que é uma questão
+
+256
+00:30:32,640 --> 00:30:33,640
+que eu chego agora
+
+257
+00:30:33,640 --> 00:30:39,960
+E vó de seus países ou não, é muito mais concluído lá, de alguma forma, que nem tem muito problema.
+
+258
+00:30:39,960 --> 00:30:44,500
+Bom, agradecer a vocês por ter acreditado o projeto, isso é muito comum.
+
+259
+00:30:44,500 --> 00:30:48,720
+Se você for, por exemplo, mais um sucesso, então vocês são os principais estreios.
+
+260
+00:30:48,720 --> 00:30:51,720
+Precisa realmente ficar lá na empresa.
+
+261
+00:30:51,720 --> 00:30:54,720
+A empresa, vamos ver, é uma coisa que eu já vou falar aqui.
+
+262
+00:30:54,720 --> 00:30:56,720
+Já devem falar, óh, pode cobrar do dinheiro.
+
+263
+00:30:56,720 --> 00:30:59,170
+Pode cobrar, tem mais alesarante.
+
+264
+00:30:59,170 --> 00:31:01,170
+É que resolve um real.
+
+265
+00:31:01,170 --> 00:31:04,740
+é só falar um pouco na noite, é bom ser...
+
+266
+00:31:04,740 --> 00:31:06,740
+é bom falar em alunos férias, é uma brevinada...
+
+267
+00:31:06,740 --> 00:31:11,400
+qual é a forma de...
+
+268
+00:31:11,400 --> 00:31:14,319
+que não é, perdão...
+
+269
+00:31:14,319 --> 00:31:17,380
+porque a gente quer que você seja resolvido,
+
+270
+00:31:17,380 --> 00:31:19,380
+não é? recebeu um contrato e depois guarda de novo.
+
+271
+00:31:19,380 --> 00:31:21,380
+A gente quer você seja um profissional
+
+272
+00:31:21,380 --> 00:31:23,990
+e isso aí é importante.
+
+273
+00:31:23,990 --> 00:31:25,990
+Tá bom? Tô falando dela na história,
+
+274
+00:31:25,990 --> 00:31:28,720
+me agradecer até falar com a mãe.
+
+275
+00:31:28,720 --> 00:31:38,559
+Obrigado pessoal, tá pronto?
+
+276
+00:31:59,910 --> 00:32:07,710
+dentro e, de verdade, com mais intensidade depois da fralga do sono, no dia a dia.
+
+277
+00:32:07,710 --> 00:32:11,890
+Eu queria começar com os dois componentes, o escondimento do horror,
+
+278
+00:32:11,890 --> 00:32:21,599
+o esconderimento dos alvos, o estado de grande parceira do nosso,
+
+279
+00:32:21,599 --> 00:32:26,880
+daqui a esse projeto de generação e atingência,
+
+280
+00:32:26,880 --> 00:32:33,910
+são os traiamentos do oeste, como Vicente Contador para a sua fralda,
+
+281
+00:32:33,910 --> 00:32:39,539
+é um projeto que já vem, como ele já é, ainda no final.
+
+282
+00:32:39,539 --> 00:32:49,039
+Portanto, que o país entrava em certas reforças,
+
+283
+00:32:49,039 --> 00:32:53,950
+principalmente enquanto a base de ciências turcológicas
+
+284
+00:32:53,950 --> 00:32:58,670
+tem tensa em certes áreas, para o caso da sua positiva,
+
+285
+00:32:58,670 --> 00:33:04,200
+é muito importante manter grandes projetos,
+
+286
+00:33:04,200 --> 00:33:09,259
+manter suas execuções atravessando as escaturas,
+
+287
+00:33:09,259 --> 00:33:13,599
+não se prender após cintos de gordura, mas vêm com produtivas de estado.
+
+288
+00:33:13,599 --> 00:33:19,869
+No caso, tem palgado ou passores que eu jamais me senti
+
+289
+00:33:19,869 --> 00:33:24,690
+em todas as iniciativas que me disseram se esta porgy é bem intervenida
+
+290
+00:33:24,690 --> 00:33:34,539
+no setor de títulos, com o cuido de fortalecer as fortalecades nas últimas três décadas
+
+291
+00:33:34,539 --> 00:33:40,940
+no Brasil e no Brasil se posiciona com uma passora e tem um setor
+
+292
+00:33:40,940 --> 00:33:49,160
+como os subventores do seu último momento socioconferente.
+
+293
+00:33:49,160 --> 00:33:58,339
+Revolução, a intensificação que depois de ficar por décadas restrita o deus dos pesquisadores,
+
+294
+00:33:58,339 --> 00:34:07,160
+nas difusões mais avançadas, mais recentemente chegou durante o grupo causando muita apreensão
+
+295
+00:34:07,160 --> 00:34:12,719
+em alguns e muita expectativa positiva e rouba-se principalmente após o sucesso
+
+296
+00:34:12,719 --> 00:34:23,719
+e a agenda antiga, diante de um cenário como esse, nós começamos às vezes a exerger de outras
+
+297
+00:34:23,719 --> 00:34:36,690
+grandes transportes de tecnologia, principalmente em coletores de plataformas de tecnologia.
+
+298
+00:34:36,690 --> 00:34:44,079
+O Brasil também forou uma grande estratégia para condenar as transformações para o
+
+299
+00:34:44,079 --> 00:35:00,699
+grupo brasileiro de infrafícios aqui, como ele já tem o consumo de futebol, o que
+
+300
+00:35:00,699 --> 00:35:39,510
+Porque essa metáculo de residencia típica, ela inova-me e esse nó vai ler.
+
+301
+00:35:39,510 --> 00:35:44,239
+O meu grupo de bandas me oferta e se acentura.
+
+302
+00:35:44,239 --> 00:36:04,960
+O Brasil não amasta, por exemplo, de várias outras normas portáveis na restrição.
+
+303
+00:36:04,960 --> 00:36:10,269
+Nós percebíamos que existia uma tendência,
+
+304
+00:36:10,269 --> 00:36:18,530
+que aos poucos começa a ser aparentemente de dificuldade de inserção
+
+305
+00:36:18,530 --> 00:36:24,000
+metade da válida entre jovens e gressos, de uma espelhosa.
+
+306
+00:36:24,000 --> 00:36:31,809
+Percebíamos um certo desistimo entre muitos estudantes
+
+307
+00:36:31,809 --> 00:36:36,119
+e permanecia profetal nas suas gradores,
+
+308
+00:36:36,119 --> 00:36:39,119
+na caixa de evasão em alguns cursos nocoquantes.
+
+309
+00:36:39,119 --> 00:36:45,070
+Não seja a missão crescita quando se resta dessa estipologia,
+
+310
+00:36:45,070 --> 00:36:51,690
+em que existe uma formação alívio de graduação,
+
+311
+00:36:51,690 --> 00:36:58,179
+quando formação são úticos a todos,
+
+312
+00:36:58,179 --> 00:37:01,139
+mas nós entendemos que, se você quer,
+
+313
+00:37:01,139 --> 00:37:05,460
+O alto daquilo é importante pesquisar coisas,
+
+314
+00:37:05,460 --> 00:37:10,130
+talvez mais nofilo, mais encajado,
+
+315
+00:37:10,130 --> 00:37:14,539
+entrando com aço os desafios do país.
+
+316
+00:37:14,539 --> 00:37:22,159
+Precisamos de instalar a tua ação com modelos agóricos,
+
+317
+00:37:22,159 --> 00:37:25,190
+outros estudantes.
+
+318
+00:37:25,190 --> 00:37:34,579
+Exatamente a oportunidade de que é
+
+319
+00:37:34,579 --> 00:37:43,820
+de abordar a gente de problemas com o desafio de fazer as suas coisas.
+
+320
+00:37:43,820 --> 00:37:48,010
+Isso é uma parte importante da sua preocupação,
+
+321
+00:37:48,010 --> 00:37:53,670
+Mas talvez isso pudesse ser dinamizado, por introduzindo o computador da informação,
+
+322
+00:37:53,670 --> 00:38:04,190
+o termos testal e a interação de aprendizagem e prazer a gerar um coletivo mundial real.
+
+323
+00:38:04,190 --> 00:38:10,809
+E o nome disso aqui é até, por exemplo, tentativa, que vamos assim,
+
+324
+00:38:10,809 --> 00:38:16,429
+de fazer referência ao que gera o tradicional na abordagem de formação,
+
+325
+00:38:16,429 --> 00:38:27,920
+para ir em lado de muito tempo de ensargar o que se gera a formação da ciência exata,
+
+326
+00:38:27,920 --> 00:38:49,090
+para solidificar a interação com os seus produtos clientes
+
+327
+00:38:49,090 --> 00:38:53,190
+descanse mais nas ciências humanas,
+
+328
+00:38:53,190 --> 00:39:05,039
+por sobre a dialética e a interações com o caráter
+
+329
+00:39:05,039 --> 00:39:12,760
+e com a sociedade mais como a formação de unidades.
+
+330
+00:39:12,760 --> 00:39:14,260
+Olhando isso, nós pensamos,
+
+331
+00:39:14,260 --> 00:39:17,260
+vamos começar a desenhar um projeto de louco
+
+332
+00:39:17,260 --> 00:39:20,260
+para a vez que essas interesses possam ter uma coisa
+
+333
+00:39:20,260 --> 00:39:23,329
+que você possa ver uma proposta
+
+334
+00:39:23,329 --> 00:39:26,710
+no seu conforto dos gabinetes.
+
+335
+00:39:26,710 --> 00:39:36,780
+As ilhas passam distantes da ponta, mas, evidentemente, tivemos a habilidade de saber que ele está na ponta
+
+336
+00:39:36,780 --> 00:39:43,079
+que são os professores dos museus e são os pesquisadores dos institutos como o Instituto de Línguas.
+
+337
+00:39:43,079 --> 00:39:49,780
+Poderiam fazer o que, numa proposta concebida do plano teórico,
+
+338
+00:39:49,780 --> 00:39:55,679
+pudesse realmente lutar em algo com chances de sucesso.
+
+339
+00:39:55,679 --> 00:40:01,840
+Mesmo que o bilhogo foi crescendo e hoje já alcança mais de 25 unidades da federação.
+
+340
+00:40:01,840 --> 00:40:09,059
+Eu acho até que as artísticas que disseram de um dado já passaram por esse problema justificado.
+
+341
+00:40:09,059 --> 00:40:12,639
+Volta de um sem-lúido de danos.
+
+342
+00:40:12,639 --> 00:40:14,900
+Então, é um bilhoto robusto.
+
+343
+00:40:14,900 --> 00:40:21,179
+Eu diria que hoje nós nos sentimos com bastante legitimidade, não com o sorvão.
+
+344
+00:40:21,179 --> 00:40:27,300
+mas depois, em algum momento, começarmos os nossos colegas do MEC
+
+345
+00:40:27,300 --> 00:40:39,409
+compartilhar experiências, colocarmos o seu modelo para que o parceiro
+
+346
+00:40:39,409 --> 00:40:45,329
+possa ter oportunidade de passar por uma experiência similar, semelhante,
+
+347
+00:40:45,329 --> 00:40:54,599
+mas rica, mais benção do que aqui vocês vão ter oportunidades de vida.
+
+348
+00:40:54,599 --> 00:41:00,969
+E eu quero muito também, desculpa,
+
+349
+00:41:00,969 --> 00:41:08,170
+Temos o sentido de que aproveitem essa oportunidade
+
+350
+00:41:08,170 --> 00:41:28,519
+e é mais um caminho, mais uma iniciação,
+
+351
+00:41:28,519 --> 00:41:35,110
+sienta a orientação herói,
+
+352
+00:41:35,110 --> 00:41:37,960
+um docente que se transforma em um oriental,
+
+353
+00:41:37,960 --> 00:41:39,480
+em um estrado controlado,
+
+354
+00:41:39,480 --> 00:41:41,800
+e que já tinha que dar atenção a alguns
+
+355
+00:41:41,800 --> 00:41:43,400
+à comunidade da graduação.
+
+356
+00:41:43,400 --> 00:41:49,530
+Mais geralmente, replicando aquilo que era
+
+357
+00:41:49,530 --> 00:41:52,329
+os problemas enfrentados do integrador
+
+358
+00:41:52,329 --> 00:41:53,860
+e ensinado de algo.
+
+359
+00:41:53,860 --> 00:42:00,489
+Mas para nós, aqui o mercado tem se trocar
+
+360
+00:42:00,489 --> 00:42:02,250
+cada vez mais exigentes,
+
+361
+00:42:02,250 --> 00:42:09,400
+mais pensas, mais ricas.
+
+362
+00:42:09,400 --> 00:42:21,309
+com isso ganho vocês, ganho o país, ganhe a sociedade. Hoje, depois de quatro anos,
+
+363
+00:42:21,309 --> 00:42:54,420
+depois de estar na conta, no meu caso, mais dez anos, nós temos um tipo tontais ao conservar,
+
+364
+00:42:54,420 --> 00:43:03,519
+nós temos percebido e depoimentos de empresas que absorveu estudantes e crescentes,
+
+365
+00:43:03,519 --> 00:43:18,289
+o mesmo de estudantes que deram continuação a sua formação com o xadão decorado e essas
+
+366
+00:43:18,289 --> 00:43:28,840
+experiências só eles apreciam como não só a sua forma, mas para ele dar segurança e confiança
+
+367
+00:43:28,840 --> 00:43:38,630
+aprendizados que eles estão obtendo em suas formações. Então vocês têm esse são
+
+368
+00:43:38,630 --> 00:43:45,280
+privilegiado, eu diria, por ter essa oportunidade. Espero que em algum momento a gente
+
+369
+00:43:45,280 --> 00:43:51,739
+Estou voltando ativamente por conta de que alguém que esteve ao meu lugar em uma receita
+
+370
+00:43:51,739 --> 00:43:55,579
+humana no conhecimento, a qual você dizia, olha, já passaram com residencias não sem
+
+371
+00:43:55,579 --> 00:44:04,269
+miúdicas, mas de um milhão de estudantes, porque o modelo flutificou e dando oportunidade
+
+372
+00:44:04,269 --> 00:44:10,510
+para que mais estudantes possam fornecer ao seu organismo da teoria, tendo a chance
+
+373
+00:44:10,510 --> 00:44:19,179
+de enfrentar problemas estranhos do mundo real e que podem ser os mais diversos setores
+
+374
+00:44:19,179 --> 00:44:20,179
+empresários.
+
+375
+00:44:20,179 --> 00:44:28,329
+Vocês podem se reformar, porque a flecha de setor é uma empresa na área de órgãos,
+
+376
+00:44:28,329 --> 00:44:34,469
+da área de ação, de ações de trabalho, vocês vão ter duas surpresas de vida.
+
+377
+00:44:34,469 --> 00:44:42,289
+A investigação do professor foi não repetida, então como de ficção científica
+
+378
+00:44:42,289 --> 00:44:48,289
+como eu, então vocês imaginam que esse homem não vai trazer isso, que pôs surpresa
+
+379
+00:44:48,289 --> 00:44:53,789
+para os estudantes e chegarem de inversão.
+
+380
+00:44:53,789 --> 00:45:32,309
+Eu desejo que você arrepina a palavra e solte, mesmo no nafico cês, no final da inversão,
+
+381
+00:45:32,309 --> 00:45:44,420
+mas isso não é meio diversidade nos apoios porque nós podemos entendermos
+
+382
+00:45:44,420 --> 00:45:57,139
+sobre a nossa divertência e depois vai custar esse pedimétrico para o senhor inteiro.
+
+383
+00:45:57,139 --> 00:46:08,239
+comentar ao seu depoimento sobre a contribuição para a formação das trilhas de formação dos seus supôndios com torno de sente.
+
+384
+00:46:08,239 --> 00:46:17,210
+E além do mais, é bom pontuar que a parte da formação da capacitação,
+
+385
+00:46:17,210 --> 00:46:21,239
+a vitada de empreendedores que a professora foi.
+
+386
+00:46:21,239 --> 00:46:38,170
+Então, muitos dos estudantes poderão, eventualmente, ter a oportunidade de ter o primeiro contato com esse tempo essencial para quem tem o sonho de um dia a um dia empreender.
+
+387
+00:46:38,170 --> 00:46:48,230
+E mesmo quem não empreender, vire fazer um profissional com muito mais sensibilidade para entender as necessidades dos recursos clientes.
+
+388
+00:46:48,230 --> 00:46:51,730
+E quem não empreende ele, não é verdade.
+
+389
+00:46:51,730 --> 00:47:00,960
+O personal também vai se degustar ao continuar seus pensados,
+
+390
+00:47:00,960 --> 00:47:06,550
+ser os metodores e futuros enfrentadores ao pós-compresas,
+
+391
+00:47:06,550 --> 00:47:09,969
+o pós–compreso e pós‑compresos em relação a uma desgrava de jornada.
+
+392
+00:47:10,190 --> 00:47:16,190
+Eu desejo sucesso a todos e para aqueles estudantes dos países parceiros
+
+393
+00:47:16,190 --> 00:47:22,440
+de uma outra empresa que quiser integrar nessa jornada
+
+394
+00:47:22,440 --> 00:47:39,900
+e saiu daqui muito mais em tendência a tomar perto de problemas que eles sentirem de acordar
+
+395
+00:47:39,900 --> 00:47:50,440
+dos seus projetos de prática, que podem estar apetendo, seja ser com o reformatismo,
+
+396
+00:47:50,440 --> 00:47:57,559
+ou às vezes discussões de uma empresa social, na área que está hoje, por exemplo,
+
+397
+00:47:57,559 --> 00:47:59,320
+para os seus próprios parentes.
+
+398
+00:47:59,320 --> 00:48:04,590
+E essa experiência prática também poderá, de qualquer jeito,
+
+399
+00:48:04,590 --> 00:48:12,500
+ser utilizada para você se retornar à sua terra mental.
+
+400
+00:48:12,500 --> 00:48:22,360
+Sucesso a todos, é um prazer, e há muito tempo que eu acreditava o sonho, que na verdade tem
+
+401
+00:48:22,360 --> 00:48:51,139
+a muito vida que eles fizeram, tão de uma única, que, ao menos eu pareci com quem ganhou muito oficial.
+
+402
+00:48:51,139 --> 00:49:52,539
+A gente a todas, principalmente luta, partículas, equipados, porque estamos mais filhos, com a redação
+
+403
+00:49:52,539 --> 00:49:57,719
+desse grande presidente, prazer ou pra ter um péssimo grande salto de pau,
+
+404
+00:49:57,719 --> 00:50:21,980
+O governo metalúgico perdeu o seu verbo no trabalho e conduziu, com muitos anos,
+
+405
+00:50:21,980 --> 00:50:27,239
+o uso de cartas metalúrgicos para vencer para o mundo.
+
+406
+00:50:27,239 --> 00:50:33,849
+Se elege pela quarta vez, ele se divertir no grande país, que é o Brasil,
+
+407
+00:50:33,849 --> 00:50:38,719
+país com uma população que tem quantas vezes milhões de elefantes.
+
+408
+00:50:38,719 --> 00:50:45,539
+Então, é um fato histórico e repetitivo do mundo inteiro.
+
+409
+00:50:45,539 --> 00:50:51,489
+Esse sonho e ar preso, em casa da nossa presidente do México,
+
+410
+00:50:51,489 --> 00:50:55,389
+e ao se referir, primeiro dia, na segunda-feira,
+
+411
+00:50:55,389 --> 00:50:58,489
+ela fez uma conferência,
+
+412
+00:50:58,489 --> 00:51:01,679
+e ela começou a fazer doelo,
+
+413
+00:51:01,679 --> 00:51:04,539
+porque ficou uma marca no diálogo,
+
+414
+00:51:04,539 --> 00:51:07,280
+o mundo inteiro estava olhando,
+
+415
+00:51:07,280 --> 00:51:11,420
+porque aqui, se imaginou,
+
+416
+00:51:11,420 --> 00:51:15,320
+o Império pudesse colocar o seu tacão
+
+417
+00:51:15,320 --> 00:51:17,599
+e a sua bota
+
+418
+00:51:17,599 --> 00:51:26,739
+para renovar o estilo que o Alonso Zatou causou uma tragédia aos nossos copos do ponto de vista na história,
+
+419
+00:51:26,739 --> 00:51:32,340
+as nossas nações nativas foram quase que desimatas sem por cento,
+
+420
+00:51:32,340 --> 00:51:43,139
+e que causou a tragédio mundial com a escravidão que trouxe para o Brasil milhões de habitandos
+
+421
+00:51:43,139 --> 00:51:50,289
+para trabalhar com o escravo para os senhores de higiene nas capitanias hereditárias,
+
+422
+00:51:50,289 --> 00:51:58,760
+Se imaginava, ou se imagina no mundo, se estabelecer um retrocesso dessa obra.
+
+423
+00:51:58,760 --> 00:52:08,519
+Mas, prazer, doosópica, de que é possível fazer e retroceder a rota da história.
+
+424
+00:52:08,519 --> 00:52:15,119
+Não consegue tocá-la para trás, não é de primamente dificuldade.
+
+425
+00:52:15,119 --> 00:52:20,349
+Mas ela gira para ti antes. E nós giramos, nós vencemos.
+
+426
+00:52:20,349 --> 00:52:27,829
+A vitória nossa ajuda também o mundo a compreender que é possível você fazer um projeto mais
+
+427
+00:52:27,829 --> 00:52:37,389
+avançado, um projeto político, econômico e social que é leve, sarra, civil e nacional.
+
+428
+00:52:37,389 --> 00:52:41,480
+O nosso povo que ajuda o mundo nessa projetão.
+
+429
+00:52:41,480 --> 00:52:45,440
+Eu considero como coisa que tem essa história.
+
+430
+00:52:45,440 --> 00:52:56,780
+E a marca, acho que é muito importante, é um verbo em consciência do papel da importância
+
+431
+00:52:56,780 --> 00:53:02,780
+da produção científica, que aposta na produção científico, que inveja na produção
+
+432
+00:53:02,780 --> 00:53:12,869
+científica e inveja da formação de mérguladores e que faz investimento grande na inovação
+
+433
+00:53:12,869 --> 00:53:13,869
+tecnológica.
+
+434
+00:53:13,869 --> 00:53:21,090
+Essa consciência é muito importante para um projeto do país, para um projecto de nação.
+
+435
+00:53:21,090 --> 00:53:29,639
+Se você não tem essa consciência dos seus dirigentes e na própria elite econômica e social,
+
+436
+00:53:29,639 --> 00:53:36,639
+você não consegue tocar esse projeto mais ousado de manter a sua independência,
+
+437
+00:53:36,639 --> 00:53:48,670
+e manter a sua soberania, e não é possível soberania se você não investe fortemente na condição científica intercológica.
+
+438
+00:53:48,670 --> 00:53:59,280
+E esse debate, esse projeto que eu posso, eu não permito discutir, quando a gente vê o primeiro exemplo nesse sentido de Estado Ceará,
+
+439
+00:53:59,280 --> 00:54:05,420
+daquela discussão que terminou, que estava presente, o abril também,
+
+440
+00:54:05,420 --> 00:54:09,780
+o recuo do EFCE, o professor Balvin, o grande parceiro de Mócio,
+
+441
+00:54:09,780 --> 00:54:18,750
+e ali a gente que diante de um projeto, que era um projeto nosso,
+
+442
+00:54:18,750 --> 00:54:21,630
+o Instituto Federal, o que nós vamos fazer,
+
+443
+00:54:21,630 --> 00:54:27,349
+justamente com o EFCI, lá com a área da Secretaria de Personação Digital,
+
+444
+00:54:27,349 --> 00:54:33,349
+como está o abril, e que já tem uma história do Médico Pedro da Secretaria.
+
+445
+00:54:33,349 --> 00:54:38,019
+E a gente que era preciso, não puiaram o projeto.
+
+446
+00:54:38,019 --> 00:54:42,019
+Vai ver a inscrição Ceará, se a gente não puder assistir a lá,
+
+447
+00:54:42,019 --> 00:54:45,340
+ele pode, vai ver esse Maranhão, o nosso Piauí.
+
+448
+00:54:45,340 --> 00:54:46,340
+E foi entrou o gente.
+
+449
+00:54:46,340 --> 00:54:51,340
+Porque ele terminou quase todo o projeto nacional, muito importante.
+
+450
+00:54:51,340 --> 00:54:56,340
+É um projeto de desistimento avançado e materializado.
+
+451
+00:54:56,340 --> 00:54:58,469
+Isso foi um salto.
+
+452
+00:54:58,469 --> 00:55:03,599
+E já tem ali que a gente começou a discutir como é que a
+
+453
+00:55:03,599 --> 00:55:06,360
+gente poderia envolver ao outro lado.
+
+454
+00:55:06,360 --> 00:55:07,360
+Um conto de quê?
+
+455
+00:55:07,360 --> 00:55:10,360
+Um contro dessa história do outro lado,
+
+456
+00:55:10,360 --> 00:55:13,619
+onde a gente está em reedição, porque é o primeiro,
+
+457
+00:55:13,619 --> 00:55:16,619
+isso é o passo do Brasil ou do Estado escravo.
+
+458
+00:55:16,619 --> 00:55:17,619
+Por isso que está aqui.
+
+459
+00:55:17,619 --> 00:55:20,619
+Uma coisa que ajudou por isso é que nesse lugar,
+
+460
+00:55:20,619 --> 00:55:22,619
+teve muitas tentativas de tirar de mim.
+
+461
+00:55:22,619 --> 00:55:24,619
+Isso vai ser aqui em reedição,
+
+462
+00:55:24,619 --> 00:55:32,340
+por esse simbolismo mais toco, e a relação mostra com os países africanos, especialmente
+
+463
+00:55:32,340 --> 00:55:36,139
+do Línguas Pozubiesa, mas não só africanos, porque nós estamos na Ásia,
+
+464
+00:55:36,139 --> 00:55:40,570
+é muito moleste, é muito pailar por isso.
+
+465
+00:55:40,570 --> 00:55:45,690
+E essa iniciativa, que você está aqui na vida, que a gente cresceu,
+
+466
+00:55:45,690 --> 00:55:51,559
+parece isso e isso, ela foi uma coisa muito importante,
+
+467
+00:55:51,559 --> 00:56:00,559
+que a gente pode oferecer um projeto avançado dentro de lá e atinge o Brasil em todos os países.
+
+468
+00:56:00,559 --> 00:56:07,559
+É uma grande conquista, uma marca efetivamente desse projeto.
+
+469
+00:56:07,559 --> 00:56:17,409
+Dentro dessa ideia, você veja como é a questão da superinguiar e da independência.
+
+470
+00:56:17,409 --> 00:56:28,929
+e mais busco interferir hoje nas comunidades dos países, são as empresas de autista e
+
+471
+00:56:28,929 --> 00:56:37,940
+tecnologia que estão concentradas em poucos países, notadamente nos estrelas de frente.
+
+472
+00:56:37,940 --> 00:56:46,800
+As chamadas Big Techs, que é o PIGL, estão a ver as grandes empresas de tecnologia seteadas
+
+473
+00:56:46,800 --> 00:56:54,860
+a vida. Entre elas, as empresas de tecnologia da informação mais sofisticadas do nosso
+
+474
+00:56:54,860 --> 00:56:58,860
+termo. A gente conhece mais do termo, mas tem mais, eu não tenho como ver a dúvida
+
+475
+00:56:58,860 --> 00:57:04,579
+dos latos indígenas, mas não tem que conhecer mais do término. É a meta, a meta controla
+
+476
+00:57:04,579 --> 00:57:13,610
+Facebook, Instagram e WhatsApp. Nós nos comuniquemos no Brasil e me serviremos
+
+477
+00:57:13,610 --> 00:57:25,039
+O Instituto Estrangeiro, os seus algoritmos, o seu programa de inteligência artificial,
+
+478
+00:57:25,039 --> 00:57:33,809
+ela é uma empresa deles que captura as nossas informações, que capturam os nossos sentimentos,
+
+479
+00:57:33,809 --> 00:57:39,809
+os nossos desejos, que são capturados todo dia por essas empresas.
+
+480
+00:57:39,809 --> 00:57:44,070
+Para que elas vindam o seu produto e a sua marca para nós.
+
+481
+00:57:44,070 --> 00:57:51,960
+queriam só vender uma dúvida mágica. Eles queriam e desejam que o defeito, a sorrelta,
+
+482
+00:57:51,960 --> 00:57:59,940
+interviria diretamente na eleição de cada país. Então, para ter soberania, meu Deus,
+
+483
+00:57:59,940 --> 00:58:08,320
+eu tenho que enfrentá-los, enfrentámos. Mas nós devemos desenvolver da nossa tecnologia.
+
+484
+00:58:08,320 --> 00:58:14,719
+Nós devemos resolver a nossa tecnologia, nós devem desenvolver as nossas empresas,
+
+485
+00:58:14,719 --> 00:58:22,219
+Sejam privadas, sejam estatais, nós temos que produzir o microchip, nós
+
+486
+00:58:22,219 --> 00:58:28,170
+temos que produzi e agrega valor aos minerais críticos aqui no nosso país.
+
+487
+00:58:28,170 --> 00:58:32,739
+Nós só fazemos isso por domínio da tecnologia.
+
+488
+00:58:32,739 --> 00:58:40,139
+Para ter uma empresa, que às vezes brinco, porque com o PIX a gente manda dinheiro pra
+
+489
+00:58:40,139 --> 00:58:45,079
+lá e não quer dar um outro, você é de mandar um dinheiro só pra lá, na verdade?
+
+490
+00:58:45,079 --> 00:58:52,619
+Se eu posso fazer isso, por que que esse PIX já não foi de tomar, não foi porque os cadastros
+
+491
+00:58:52,619 --> 00:59:00,230
+vão te centrar, mas ele não se senta principalmente pra ele, e o PIX fica de consciência.
+
+492
+00:59:00,230 --> 00:59:09,349
+Eu sei lá, o índio, não tem que ter pra ter o ímbio, tem que ser o ídio.
+
+493
+00:59:09,349 --> 00:59:12,539
+Nós contratamos três cadastras do índium, perigado.
+
+494
+00:59:44,429 --> 00:59:48,519
+de facilidade, de desenvolver as nossas.
+
+495
+00:59:48,519 --> 00:59:56,920
+Quem sabe, antes do mundo preparado daqui, para ter os bobs de capacidades diferentes.
+
+496
+00:59:56,920 --> 01:00:04,119
+A gente vai ter que saber, vai tendo de bobs e produtos capazes de transformar em uma empresa
+
+497
+01:00:04,119 --> 01:00:12,940
+que responda a esses desafios nossos e não nos deixe nas mãos de companhias alienígenas
+
+498
+01:00:12,940 --> 01:00:20,969
+porque elas submetem os nossos interesses de vermelha ordem, criam narrativas, elas criam
+
+499
+01:00:20,969 --> 01:00:27,659
+nijás para o país, tudo que você imaginar, eles são capazes de fazer hoje com a velocidade
+
+500
+01:00:27,659 --> 01:00:38,090
+de formação e com as condições de produção de meio de comunicação, que mudam, que
+
+501
+01:00:38,090 --> 01:00:45,119
+Verem direto na nossa cabeça e que cheguem ao ponto da gente considerar que eles mandem
+
+502
+01:00:45,119 --> 01:00:51,119
+a gente colocar o país na pera de um aviso e mandem que a gente menos empurra o nosso
+
+503
+01:00:51,119 --> 01:00:52,670
+país.
+
+504
+01:00:52,670 --> 01:01:03,639
+E a gente entra comecindo que o melhor é empurrar o país para o aviso.
+
+505
+01:01:03,639 --> 01:01:13,659
+Estou com programas mandando pouso de solicitar e de nos preparar.
+
+506
+01:01:13,659 --> 01:01:17,659
+que é essa a grande preparação que nós estamos fazendo.
+
+507
+01:01:17,659 --> 01:01:23,659
+Nessa parceria, essa parcerie aqui já envolve o Ministério da Sesta Ecologia,
+
+508
+01:01:23,659 --> 01:01:26,659
+a software que se vai no Ministério de Ecológica,
+
+509
+01:01:26,659 --> 01:01:31,760
+a brisa que vai estar comprograma e executa o programa na conta com o do Lab,
+
+510
+01:01:31,760 --> 01:01:35,760
+a que é muito importante fazer a presença de Cebrae,
+
+511
+01:01:35,760 --> 01:01:40,400
+porque é uma relação com empresas e pequenas empresas,
+
+512
+01:01:40,400 --> 01:01:43,400
+Eu vou criar um livro sério de empreendedorismo.
+
+513
+01:01:43,400 --> 01:01:45,400
+Dá uma hospedada, já tem.
+
+514
+01:01:45,400 --> 01:01:47,639
+A gente sebrae.
+
+515
+01:01:47,639 --> 01:01:51,320
+Já tem o Ministério da Amigo de Limpeza.
+
+516
+01:01:51,320 --> 01:01:52,320
+Isso já existe.
+
+517
+01:01:52,320 --> 01:01:54,800
+A gente tem que ligar.
+
+518
+01:01:54,800 --> 01:01:59,590
+Se a gente pega aqui do perdeiro,
+
+519
+01:01:59,590 --> 01:02:00,590
+mesmo se não é uma nossa,
+
+520
+01:02:00,590 --> 01:02:01,590
+então é ótimo.
+
+521
+01:02:01,590 --> 01:02:04,940
+Se a a gente pegar como de professores,
+
+522
+01:02:04,940 --> 01:02:05,940
+que vão estar,
+
+523
+01:02:05,940 --> 01:02:08,869
+até ser o comandante genetístico.
+
+524
+01:02:08,869 --> 01:02:10,869
+Complicamente está no programa.
+
+525
+01:02:10,869 --> 01:02:11,869
+Mas deve ser a nossa correla,
+
+526
+01:02:11,869 --> 01:02:12,869
+se a gente não é o Ministro,
+
+527
+01:02:12,869 --> 01:02:13,869
+então vai ser a nosso comandantes,
+
+528
+01:02:13,869 --> 01:02:14,869
+que tem esse programa.
+
+529
+01:02:14,869 --> 01:02:24,090
+O que a gente pega todo isso e reúne os estudantes, os professores, a gente pode transformar
+
+530
+01:02:24,090 --> 01:02:25,090
+no que o público.
+
+531
+01:02:25,090 --> 01:02:34,500
+Quando a gente fala o seguinte, age 90, por exemplo, da pesquisa de nosso país, realiza
+
+532
+01:02:34,500 --> 01:02:40,380
+dentro das universidades, e especialmente da universidade pública.
+
+533
+01:02:40,380 --> 01:02:47,690
+Então a pesquiza está sendo feita na universidade, a tecnologia está sendo desenvolvida dentro
+
+534
+01:02:47,690 --> 01:02:48,690
+da universidades.
+
+535
+01:02:48,690 --> 01:02:51,190
+Onde é que a gente vai fazer a inovação?
+
+536
+01:02:51,190 --> 01:02:53,000
+Fora, professor!
+
+537
+01:02:53,000 --> 01:02:58,489
+Onde a gente irá empreender para fazer na cena as empresas de base até que ela já é lançada?
+
+538
+01:02:58,489 --> 01:03:00,090
+Fora professor?
+
+539
+01:03:00,090 --> 01:03:02,280
+Não é possível.
+
+540
+01:03:02,280 --> 01:03:08,230
+As grandes empresas, elas vão surgir de dentro do professor.
+
+541
+01:03:08,230 --> 01:03:09,650
+E nós não plantamos.
+
+542
+01:03:09,650 --> 01:03:12,050
+Assim, o Brasil está acostumado a responder esse problema.
+
+543
+01:03:12,050 --> 01:03:16,690
+Esse método que eu desafio, nós estamos acostumados a responder.
+
+544
+01:03:16,690 --> 01:03:19,289
+Sempre que o problema é colocar na nossa frente.
+
+545
+01:03:19,289 --> 01:03:21,289
+E ele está sendo colocado agora.
+
+546
+01:03:21,289 --> 01:03:23,360
+Eu não quero expulsar o veículo.
+
+547
+01:03:23,360 --> 01:03:31,360
+Eu não quero desfistar o Estado, eu não quero disfistá-lo, eu quero a equipeza, que vai permitir presos que vai ser igual na empresa.
+
+548
+01:03:31,360 --> 01:03:37,360
+Quando teve a questão do Petróleo do Brasil, que a gente fez, criamos uma empresa melhor do que a deles.
+
+549
+01:03:37,360 --> 01:03:42,610
+E essa empresa tem o maior centro de pesquisa também do mundo, ou também da América Latina.
+
+550
+01:03:42,610 --> 01:03:51,250
+Do México e da Patagonia, a maior, maior e pra indivíduo empresa é o Centres de Perdense.
+
+551
+01:03:51,250 --> 01:04:04,289
+Na área do grato colocar no desafio, nessa área de telecomunicações nós também respondemos a esses desafios.
+
+552
+01:04:04,289 --> 01:04:07,579
+Então por favor, colocar da nossas mãos.
+
+553
+01:04:07,579 --> 01:04:14,579
+Vamos produzir com a Brisa e com o Lab, um programa lançado de tecnologia.
+
+554
+01:04:14,579 --> 01:04:21,579
+Quem sabe, daqui vão nas cenas empresas e vão competir com essas prime techs e superá-las
+
+555
+01:04:21,579 --> 01:04:28,079
+para que a gente possa fortalecer a nossa soberania e contribuir com as soberaninhas
+
+556
+01:04:28,079 --> 01:04:33,019
+dos nossos países, parceiros não de lábios, quanto a uma, um jeito de ouvir a egressa,
+
+557
+01:04:33,019 --> 01:04:38,699
+vai no anda aqui na nossa universidade, um capo verde, Cognitive Salt, lá em São
+
+558
+01:04:38,699 --> 01:04:43,519
+Tomé e Príncipe, e nós fazemos um projeto aqui do MCTI junto com o São Tomé Príncipe
+
+559
+01:04:43,519 --> 01:04:48,719
+e Cognive Salt, por exemplo, para passar o bom de área estratégica que é a
+
+560
+01:04:48,719 --> 01:04:53,440
+de transferência mental e profissional. Como eu sou bico, com a grande parceria já
+
+561
+01:04:53,440 --> 01:04:58,699
+do outro lado da África, o importante para nós, eu acho que é muito significativo esse
+
+562
+01:04:58,699 --> 01:05:02,800
+momento que nós estamos vivendo aqui, não do lado. Eu espero que a gente tenha esta
+
+563
+01:05:02,800 --> 01:05:08,320
+primeira turma e que a próxima turma seja maior, vai ter 50 lembranças, a gente tem
+
+564
+01:05:08,320 --> 01:05:12,880
+talvez a gente sem lembrança, porque não é só o Brasil, são vários parceiros
+
+565
+01:05:12,880 --> 01:05:17,079
+internacionais, são um vários países. A gente vai contar com muitos ímpiros
+
+566
+01:05:17,079 --> 01:05:22,079
+passeiras, às vezes a primeira porta não dá certo, mas na segunda, você vai em todo um
+
+567
+01:05:22,079 --> 01:05:28,110
+regresso desse programa que vai dizer para a empresa que vai ser positiva para a
+
+568
+01:05:28,110 --> 01:05:33,110
+empresa, mas que tem assim um espaço grandioso para uma grande vitória em
+
+569
+01:05:33,110 --> 01:05:39,110
+da ULAB e dos países para ser da ULLAB, e para ser do Brasil nesse programa
+
+570
+01:05:39,110 --> 01:05:44,110
+de desenvolvimento de tecnologia avançada na área competitiva. Então para
+
+571
+01:05:44,110 --> 01:05:52,909
+Apesar de abraço sucesso aos alunos, a equipe de professores, sucesso vermelhado e para o projeto que abrindo está desenvolvendo com todos vocês.
+
+572
+01:05:52,909 --> 01:05:54,909
+Um abraço ao Peleus e ao Pardinho.
+
+573
+01:07:23,840 --> 01:07:29,969
+Então, vamos continuar a nossa programação, seguiremos com a apresentação dos próximos
+
+574
+01:07:29,969 --> 01:07:36,099
+convés em deixar o inaugural Programa de Residência em 2016 em parceria com a Brisa Milano.
+
+575
+01:07:36,099 --> 01:07:42,599
+Combinamos agora o senhor Paulo Rojeira Coinha, coordenador catagógico da Brisa Sociedade
+
+576
+01:07:42,599 --> 01:07:52,000
+para o desenvolvimento da tecnologia da informação.
+
+577
+01:07:52,000 --> 01:08:09,599
+Eu tenho uma vida mais tecnológica, sofísica do que a dação, graças a gente, que é perfeita, né?
+
+578
+01:08:09,599 --> 01:08:15,599
+No começo da computação de Brasil, aí alguém vai visitar, na década de 70,
+
+579
+01:08:15,599 --> 01:08:21,970
+No tempo dos tempos, pensamos estar no tempo dos computações,
+
+580
+01:08:21,970 --> 01:08:25,050
+mas pensamos que a área de computação ia ir
+
+581
+01:08:25,050 --> 01:08:32,619
+entre a área e o tempo da graduação difícil para dentro,
+
+582
+01:08:32,619 --> 01:08:35,380
+foi a disputação do administrado, a vitra,
+
+583
+01:08:35,380 --> 01:08:39,220
+foi o trabalhador da Rússia, foi o realizador do naquilo-quilo.
+
+584
+01:08:39,220 --> 01:08:42,739
+Só tem aí uma vila, que é a vila de computação,
+
+585
+01:08:42,739 --> 01:08:47,520
+que o professor, que os outros trabalhadores começaram a cantar,
+
+586
+01:08:47,520 --> 01:08:51,560
+no Brasil, e a gente, vamos,
+
+587
+01:08:51,560 --> 01:08:53,560
+soltado em uma guiazada,
+
+588
+01:08:53,560 --> 01:08:55,560
+que não tem nada a ver com isso,
+
+589
+01:08:55,560 --> 01:08:57,560
+que é um egoretado.
+
+590
+01:08:57,560 --> 01:08:59,560
+Então, são empresários,
+
+591
+01:08:59,560 --> 01:09:01,560
+que não são policiales,
+
+592
+01:09:01,560 --> 01:09:03,560
+que abram informática, programadora,
+
+593
+01:09:03,560 --> 01:09:05,560
+analista de computadora.
+
+594
+01:09:05,560 --> 01:09:07,560
+É, se você tem os tecnologias,
+
+595
+01:09:07,560 --> 01:09:09,560
+vai de córpia no seu rosto
+
+596
+01:09:09,560 --> 01:09:11,560
+para a gente ver.
+
+597
+01:09:11,560 --> 01:09:13,560
+A gente vai coer todo o alasado,
+
+598
+01:09:13,560 --> 01:09:15,880
+e aí você vai cober.
+
+599
+01:09:15,880 --> 01:09:17,880
+Temos bastante coisa para contar com vocês
+
+600
+01:09:17,880 --> 01:09:20,880
+que a construção desses programas
+
+601
+01:09:20,880 --> 01:09:23,880
+e o conjunto de diversas ideologias
+
+602
+01:09:23,880 --> 01:09:27,880
+foi bem interessante que ele foi colocado dentro de um gelatino
+
+603
+01:09:27,880 --> 01:09:29,880
+de maneira muito intensa
+
+604
+01:09:29,880 --> 01:09:31,880
+e ressuscitado por um propósito de gente.
+
+605
+01:09:31,880 --> 01:09:33,880
+Foi um propóvito de orgulho
+
+606
+01:09:33,880 --> 01:09:35,880
+para o que você tem que fazer
+
+607
+01:09:35,880 --> 01:09:36,880
+desse programa.
+
+608
+01:09:36,880 --> 01:09:38,880
+A gente pode ter um projeto
+
+609
+01:09:38,880 --> 01:09:41,880
+e ter atenção no que a gente vai te expressar hoje
+
+610
+01:09:41,880 --> 01:09:44,880
+Hoje, o que vai ser o problema do dia a dia de hoje?
+
+611
+01:09:44,880 --> 01:09:47,880
+A sua fase do dia-a-dia, a fase do delamento,
+
+612
+01:09:47,880 --> 01:09:49,880
+é a fase de que o melhor.
+
+613
+01:09:49,880 --> 01:09:51,880
+O que lhe diz o nivelamento da primeira fase?
+
+614
+01:09:51,880 --> 01:09:54,880
+O que lembra que no ano de hoje,
+
+615
+01:09:54,880 --> 01:09:57,880
+percebeu uma especificidade que vai fazer mais de gente,
+
+616
+01:09:57,880 --> 01:09:58,880
+mais de tempo.
+
+617
+01:09:58,880 --> 01:10:01,880
+Só para a universidade, só para estar sendo especifica de tudo.
+
+618
+01:10:01,880 --> 01:10:03,880
+Então, nesse programa, você explica as inscrições,
+
+619
+01:10:03,880 --> 01:10:05,880
+então, mais pouco do que vai ter,
+
+620
+01:10:05,880 --> 01:10:06,880
+mais tempo.
+
+621
+01:10:06,880 --> 01:10:08,880
+Então, mais um pouco de engenheira,
+
+622
+01:10:08,880 --> 01:10:12,279
+5 pontos de pessoa de ter ganhado o sofrimento.
+
+623
+01:10:12,279 --> 01:10:16,000
+Ele só tem que ver pra isso, pra fazer a gente ir embora, pra esta área,
+
+624
+01:10:16,000 --> 01:10:19,720
+comentar o nosso sujo de gente e profissionais, o que é isso?
+
+625
+01:10:19,720 --> 01:10:22,479
+Tá? O que eu acho que o Alonso está em dúvida?
+
+626
+01:10:22,479 --> 01:10:26,319
+Você não é de um vetado, do abeixo, da icôneros.
+
+627
+01:10:26,319 --> 01:10:28,880
+Tem uma série de coisas que a gente não sabe.
+
+628
+01:10:28,880 --> 01:10:33,609
+Vocês tem que ter a oportunidade de resolver problemas concretos com ele.
+
+629
+01:10:33,609 --> 01:10:38,489
+De repente, esse problema que você resolve, resolve aquele problema àquela empresa,
+
+630
+01:10:38,489 --> 01:10:41,810
+Mas ele foi uma parcela, teve o problema ontem e fez os quarentena também.
+
+631
+01:10:41,810 --> 01:10:45,109
+E aqui ele faleceu com o começo de uma grande empresa,
+
+632
+01:10:45,109 --> 01:10:47,109
+quando criou até uma militéria.
+
+633
+01:10:47,109 --> 01:10:49,109
+Se você não conheceu, você sabe,
+
+634
+01:10:49,109 --> 01:10:51,109
+mas quando fez o que foi criado,
+
+635
+01:10:51,109 --> 01:10:53,609
+porque o começo do que foi ligado na universidade,
+
+636
+01:10:53,609 --> 01:10:56,109
+era o que fez, por causa de um problema sério,
+
+637
+01:10:56,109 --> 01:10:57,609
+como é que ocorra aquelas domingueiras,
+
+638
+01:10:57,609 --> 01:10:59,899
+por causa do que fez RAC?
+
+639
+01:10:59,899 --> 01:11:02,529
+Conheço todo o seu time e não fez nenhum problema.
+
+640
+01:11:02,529 --> 01:11:04,529
+Não sabia fazer regras com as minhas.
+
+641
+01:11:04,529 --> 01:11:06,029
+Então, que não fez em muito.
+
+642
+01:11:06,029 --> 01:11:08,829
+E o sucesso dele, que fez em pouco, era brasileiro.
+
+643
+01:11:08,829 --> 01:11:11,310
+e hoje é o Brasil e a Bahia, a situação.
+
+644
+01:11:11,310 --> 01:11:12,829
+Nosso é o nosso Facebook,
+
+645
+01:11:12,829 --> 01:11:14,829
+o que você sabe aí.
+
+646
+01:11:14,829 --> 01:11:18,109
+Além disso, o que ele também criou, o Instagram,
+
+647
+01:11:18,109 --> 01:11:19,470
+foi o brasileiro,
+
+648
+01:11:19,470 --> 01:11:20,810
+e fez o Instagram do senhor,
+
+649
+01:11:20,810 --> 01:11:22,310
+estava com o brasileirão,
+
+650
+01:11:22,310 --> 01:11:24,109
+porque foi medido, ele pilotou,
+
+651
+01:11:24,109 --> 01:11:25,210
+ele pilotava,
+
+652
+01:11:25,210 --> 01:11:26,909
+ele pilotaria de outra tecnologia,
+
+653
+01:11:26,909 --> 01:11:27,710
+na vossa praquete,
+
+654
+01:11:27,710 --> 01:11:29,010
+e hoje ele é coreano,
+
+655
+01:11:29,010 --> 01:11:30,810
+é um dos dois únicos,
+
+656
+01:11:30,810 --> 01:11:32,609
+é a Isola, mais no Brasil,
+
+657
+01:11:32,609 --> 01:11:35,310
+e ele pilota um negócio que ninguém imaginava,
+
+658
+01:11:35,310 --> 01:11:37,310
+na época que ia valer esse tamanho.
+
+659
+01:11:37,310 --> 01:11:42,989
+Então você é de oportunidade de criar uma coisa que pode se faturar e não refletir com isso.
+
+660
+01:11:42,989 --> 01:11:43,949
+Mas qual é o direito?
+
+661
+01:11:43,949 --> 01:11:46,109
+Você pode estar para trás da MUNO.
+
+662
+01:11:46,109 --> 01:11:47,630
+Vai estar para atrás da você.
+
+663
+01:11:47,630 --> 01:11:49,630
+Você fica aí, fica aí na base.
+
+664
+01:11:49,630 --> 01:11:52,829
+Você tem um pouco de oportunidades de cair.
+
+665
+01:11:52,829 --> 01:11:58,520
+Você nasce aqui, você casa com o Guerrero ou com o homem do seu mercado.
+
+666
+01:11:58,520 --> 01:12:02,119
+Ou você ataca com o bebê.
+
+667
+01:12:02,119 --> 01:12:03,079
+E aí você naquilo?
+
+668
+01:12:03,079 --> 01:12:15,439
+Você pode ter que ficar rindo e não nascer o índio, porque está todo com um óbvio ou com um treino.
+
+669
+01:12:15,439 --> 01:12:16,439
+Que nem um emprego.
+
+670
+01:12:16,439 --> 01:12:18,439
+Aí é a chance que você tem que ficar indo.
+
+671
+01:12:18,439 --> 01:12:21,439
+Não é emprego que ele ficar indo, mas outra é presa.
+
+672
+01:12:21,439 --> 01:12:23,439
+Você trabalha com o treino e o treinho cair.
+
+673
+01:12:23,439 --> 01:12:26,439
+Então, pode trabalhar com o seu emprego e com o que você cair?
+
+674
+01:12:26,439 --> 01:12:29,439
+Se você conseguir achar qualquer emprego, não é?
+
+675
+01:12:29,439 --> 01:12:31,439
+Vamos passar por aqui?
+
+676
+01:12:31,439 --> 01:12:37,810
+Ah, a representação, abre aí todo mundo aí.
+
+677
+01:12:37,810 --> 01:12:40,840
+Estou grávula, está lá aí.
+
+678
+01:12:40,840 --> 01:12:47,800
+Lá com sua presença, com a conta.
+
+679
+01:12:47,800 --> 01:12:49,800
+Deixe-me falar enquanto você está com a presença
+
+680
+01:12:49,800 --> 01:12:52,800
+porque eu estava com uma curiosidade que vocês devem saber.
+
+681
+01:12:52,800 --> 01:12:55,800
+A gente tem no Brasil um histórico de mudelação e invenção
+
+682
+01:12:55,800 --> 01:12:58,800
+porque a gente conhece, conhece o santo Fumão,
+
+683
+01:12:58,800 --> 01:13:01,840
+o de Pedro Fondo Amião.
+
+684
+01:13:01,840 --> 01:13:03,840
+Até para a disputação também,
+
+685
+01:13:03,840 --> 01:13:05,840
+e a gente sabe que o Brasil é um único povo,
+
+686
+01:13:05,840 --> 01:13:09,090
+a gente tem que ter que ter uma chance de avisar,
+
+687
+01:13:09,090 --> 01:13:12,090
+e isso é um ecologo,
+
+688
+01:13:12,090 --> 01:13:14,090
+e o Brasil tem que ver como é de avó.
+
+689
+01:13:14,090 --> 01:13:20,289
+O abenço do rádio foi inventado por um brasileiro,
+
+690
+01:13:20,289 --> 01:13:21,289
+e foi marcôni.
+
+691
+01:13:21,289 --> 01:13:23,479
+Antes de marcônio, o Estado de Brasileira
+
+692
+01:13:23,479 --> 01:13:26,479
+podia transformir a transformação no mundo.
+
+693
+01:13:26,479 --> 01:13:29,479
+Sabendo que o marco de inscrição era um abençoe
+
+694
+01:13:29,479 --> 01:13:30,479
+brasileiro?
+
+695
+01:13:30,479 --> 01:13:34,050
+Um abenencheiro que colocou as bestas
+
+696
+01:13:34,050 --> 01:13:36,050
+naquela hora da maluca que tinha ficado.
+
+697
+01:13:36,050 --> 01:13:39,189
+mas ele venceu na raquita e escolheu para ver sobre as ideias
+
+698
+01:13:39,189 --> 01:13:44,090
+A identificação de chamar na telefone, porque é que como você recebe no telefone
+
+699
+01:13:44,090 --> 01:13:48,590
+é uma respeita ligada para você, e o pessoal nas ideias
+
+700
+01:13:48,590 --> 01:13:56,420
+para dar síndio, para maquina, coisas para estudar
+
+701
+01:13:56,420 --> 01:14:01,100
+por uma série de ideias, coisas interessantísticas que foram inventadas por as ideais
+
+702
+01:14:01,100 --> 01:14:06,310
+ele tem sabe o que é que eu vou voltar e coisar, apresenta
+
+703
+01:14:06,310 --> 01:14:09,590
+e eu não vou avançar a boca
+
+704
+01:14:09,590 --> 01:14:13,800
+Bem, como já falaram, os objetivos desse curso
+
+705
+01:14:13,800 --> 01:14:15,800
+é a formagem profissional,
+
+706
+01:14:15,800 --> 01:14:18,020
+implementar a formação de você
+
+707
+01:14:18,020 --> 01:14:20,020
+para formar uma metade dele.
+
+708
+01:14:20,020 --> 01:14:22,020
+Por que implementar formação?
+
+709
+01:14:22,020 --> 01:14:24,020
+Vocês aprendem na universidade
+
+710
+01:14:24,020 --> 01:14:26,020
+uma grande importância de teorias
+
+711
+01:14:26,020 --> 01:14:28,020
+importantes, como as do científico,
+
+712
+01:14:28,020 --> 01:14:29,020
+certo?
+
+713
+01:14:29,020 --> 01:14:31,659
+Então vocês fazem para trabalhar com ele.
+
+714
+01:14:31,659 --> 01:14:33,659
+Trabalhar em uma empresa implica o que você sabe.
+
+715
+01:14:33,659 --> 01:14:34,659
+Trabalha em grupo.
+
+716
+01:14:34,659 --> 01:14:36,659
+Em grupos que você pode concordar
+
+717
+01:14:36,659 --> 01:14:37,659
+que fica no seu lado.
+
+718
+01:14:37,659 --> 01:14:38,659
+Já tem que trabalhar com isso.
+
+719
+01:14:38,659 --> 01:14:41,520
+Como você concorda os inimigos.
+
+720
+01:14:41,520 --> 01:14:44,840
+Vai ter a aprender a
+
+721
+01:14:44,840 --> 01:14:50,340
+não tem parado, uma coletionária DE é complicado.
+
+722
+01:14:50,340 --> 01:14:52,640
+Se você prometeu que vai entregar daqui a 30 dias,
+
+723
+01:14:52,640 --> 01:14:54,340
+você tem que entregar 30 dias.
+
+724
+01:14:54,340 --> 01:14:57,140
+Bom, isso não.
+
+725
+01:14:57,140 --> 01:14:58,140
+O que eles chamam?
+
+726
+01:14:58,140 --> 01:15:00,140
+Saber se comunicar.
+
+727
+01:15:00,140 --> 01:15:02,140
+Você pode ser excedente profissional,
+
+728
+01:15:02,140 --> 01:15:04,140
+mas se você não tiver falado com o projeto,
+
+729
+01:15:04,140 --> 01:15:08,699
+você não vai saber que você excede profissão.
+
+730
+01:15:08,699 --> 01:15:10,699
+Uma coisa que você tem, que não aprende muito.
+
+731
+01:15:10,699 --> 01:15:12,890
+Isso vai chamar de soft skills.
+
+732
+01:15:12,890 --> 01:15:15,890
+No princípio que pareça as rehas nas habilidades,
+
+733
+01:15:15,890 --> 01:15:18,890
+as soft skills, são as mais levantadas do emprego,
+
+734
+01:15:18,890 --> 01:15:20,890
+menos que a tecnologia
+
+735
+01:15:20,890 --> 01:15:22,890
+que é a tecnologia você vai ter que aprender
+
+736
+01:15:22,890 --> 01:15:24,890
+para que você aprendeu
+
+737
+01:15:24,890 --> 01:15:26,890
+de tecnologia na escola
+
+738
+01:15:26,890 --> 01:15:28,890
+a capacidade, aprendeu hábito
+
+739
+01:15:28,890 --> 01:15:30,890
+aprendeu vantos dados fósfios
+
+740
+01:15:30,890 --> 01:15:32,890
+etc... se eu achar que é uma empresa
+
+741
+01:15:32,890 --> 01:15:34,890
+eu já tinha até aperto
+
+742
+01:15:34,890 --> 01:15:36,890
+agora você vai ver que isso é que eu aprendeu
+
+743
+01:15:36,890 --> 01:15:40,239
+a falar com essas tecnologias
+
+744
+01:15:40,239 --> 01:15:42,489
+agora só que os fios
+
+745
+01:15:42,489 --> 01:15:44,489
+que eu vou falar com ele
+
+746
+01:15:44,489 --> 01:15:46,489
+ele mesmo não acha isso
+
+747
+01:15:46,489 --> 01:15:48,590
+e você não aprende na capacidade
+
+748
+01:15:48,590 --> 01:15:52,590
+Agora, como se envolver com vocês mais do que a conhecimento aglórico,
+
+749
+01:15:52,590 --> 01:15:54,590
+a habilidade é trabalhar com empresas.
+
+750
+01:15:54,590 --> 01:15:56,590
+Por isso, como eu vou fazer o projeto,
+
+751
+01:15:56,590 --> 01:15:58,590
+eu preciso que vocês pudessem ter tudo o mesmo.
+
+752
+01:15:58,590 --> 01:16:00,590
+Por todo o nível que você tem dentro de vocês.
+
+753
+01:16:00,590 --> 01:16:02,590
+Tem que ser responsável,
+
+754
+01:16:02,590 --> 01:16:03,590
+tem que publicar,
+
+755
+01:16:03,590 --> 01:16:05,590
+tem que saber negociar,
+
+756
+01:16:05,590 --> 01:16:06,590
+tem que sabermos como unitar,
+
+757
+01:16:06,590 --> 01:16:09,590
+tem que trabalhar em tudo o que você não vai conseguir.
+
+758
+01:16:09,590 --> 01:16:11,590
+Então, eu tenho que trabalhar
+
+759
+01:16:11,590 --> 01:16:12,590
+em qualquer projeto,
+
+760
+01:16:12,590 --> 01:16:14,590
+eu tenho de trabalhar em projetos que nós vamos definir para vocês
+
+761
+01:16:14,590 --> 01:16:22,390
+se você é contratado na empresa, se você não é contratada na empresa que você quer,
+
+762
+01:16:22,390 --> 01:16:29,449
+é contratar, é contratá-la, no grupo você vai trabalhar com ele, e ela tem um esporte,
+
+763
+01:16:29,449 --> 01:16:35,960
+um esporto pra válido, então você vai fazer tal coisa, você vai ver, então nós
+
+764
+01:16:35,960 --> 01:16:42,010
+vamos trabalhar muito só com isso, mais com a tecnologia, mas eu não vou aprender
+
+765
+01:16:42,010 --> 01:16:52,109
+É uma forma extremamente derrossada, porque a gente é uma mantra, mas a mantra é se vira.
+
+766
+01:16:52,109 --> 01:16:58,489
+Se eu pedir pra você agora, vai ter uma asiata com a oposidade, vou fazer um computador monológico,
+
+767
+01:16:58,489 --> 01:17:03,350
+em 30 segundos você vai ter que fazer um comportador monógico.
+
+768
+01:17:03,350 --> 01:17:08,149
+Então cara, às vezes eu vou ter 30 segundos um comportamento de tecnologia, se viram!
+
+769
+01:17:08,149 --> 01:17:11,789
+Mas eu não sou um comportado monológica, se viram!
+
+770
+01:17:11,789 --> 01:17:15,850
+E os detalhes são uma coisa que eu não acredito nisso.
+
+771
+01:17:15,850 --> 01:17:17,489
+É difícil.
+
+772
+01:17:17,489 --> 01:17:20,909
+Para aprender a se comunicar direito,
+
+773
+01:17:20,909 --> 01:17:22,909
+aprender a fazer uma retação de um texto,
+
+774
+01:17:22,909 --> 01:17:24,909
+se não se lembrando muito de um objetivo,
+
+775
+01:17:24,909 --> 01:17:29,050
+de um determinado objetivo.
+
+776
+01:17:29,050 --> 01:17:30,210
+Legal?
+
+777
+01:17:30,210 --> 01:17:31,210
+Esses são os objetivos.
+
+778
+01:17:31,210 --> 01:17:33,210
+Eles conversam as tecnologias de outras pessoas
+
+779
+01:17:33,210 --> 01:17:36,210
+como isso aí, conversam aqui rapidamente
+
+780
+01:17:36,210 --> 01:17:38,210
+e vão apresentar como é agora
+
+781
+01:17:38,210 --> 01:17:40,210
+essa parte de IADI é
+
+782
+01:17:40,210 --> 01:17:42,210
+só uma coisa nesse sentido complexo.
+
+783
+01:17:42,210 --> 01:17:43,210
+Não sai?
+
+784
+01:17:43,210 --> 01:17:58,529
+O que é o que é uma delas de programação, o que que é um sistema de delas entre nojuros?
+
+785
+01:17:58,529 --> 01:18:03,529
+O que a gente teve quatro anos de interpretação, três anos de emladação de tempo?
+
+786
+01:18:03,529 --> 01:18:05,529
+O que faz aí?
+
+787
+01:18:05,529 --> 01:18:16,350
+Esse programa já rozou, como você já contou, de várias cidades, já que temos 15 cidades
+
+788
+01:18:16,350 --> 01:18:19,039
+em jaduíteiro, desde o 20 de julho.
+
+789
+01:18:19,039 --> 01:18:25,020
+Quando desde o artista da Joré, até o Rio Grande, os trechos juntos da Jurgane,
+
+790
+01:18:25,020 --> 01:18:27,020
+os trecho tudo no Rio Grande do Sul, entendeu?
+
+791
+01:18:27,020 --> 01:18:29,750
+O Rio Grande dos Sul, Rio Grande no Sul, é muito grande.
+
+792
+01:18:29,750 --> 01:18:33,750
+Passando com várias parcerias aí, para as diversidades,
+
+793
+01:18:33,750 --> 01:18:36,750
+como as instituições que tiveram.
+
+794
+01:18:36,750 --> 01:18:43,100
+Então, cada cidade dessa, nós fizemos duas turmas.
+
+795
+01:18:43,100 --> 01:18:48,100
+Cada turma formou 50 alunos, 50 alunes, 100 colheres.
+
+796
+01:18:48,100 --> 01:18:50,100
+500 alunas, por exemplo.
+
+797
+01:18:50,100 --> 01:18:53,100
+Você não curta aí uma comédia no ar, não é?
+
+798
+01:18:53,100 --> 01:18:57,100
+Uma parte dele, a parte do projeto que hoje tem,
+
+799
+01:18:57,100 --> 01:19:00,100
+que é uma oportunidade, um negócio, um exemplo,
+
+800
+01:19:00,100 --> 01:19:05,420
+uma parte nos desenvolveu produtos para as empresas parceiras e as empresas contratarem
+
+801
+01:19:05,420 --> 01:19:10,920
+parte daqui para trabalhar nossas empresas, que é o produto que é melhor para nós de
+
+802
+01:19:10,920 --> 01:19:18,239
+um produto que feita e contratar, como você vê, nós estamos trabalhando aqui na sua
+
+803
+01:19:18,239 --> 01:19:24,239
+etapa agora, nós somos trabalhando com vocês, o Ema, a Universidade de Norocanilí,
+
+804
+01:19:55,260 --> 01:20:03,279
+Então, as nossas merdas, aqui, o tomate dos centros de alunos, sempre, você merda, na gente tem tomate que faz mais mais.
+
+805
+01:20:03,279 --> 01:20:07,479
+Em cada fruto, uma primeira com uma centro, uma segunda com a centro de aluna tem 200,
+
+806
+01:20:07,479 --> 01:20:13,479
+para o seu tomate tem 40, 250, 250 e 600 alunros no morro.
+
+807
+01:20:13,479 --> 01:20:16,699
+Então, porque quando é que o aluno for, o que é que é o aluno?
+
+808
+01:20:16,699 --> 01:20:20,699
+Não se tem a ver, tem isso, não é? Porque eu tenho que fazer um aluno, eu não se tenho a ver.
+
+809
+01:20:20,699 --> 01:20:28,699
+Então, ao começo a gente é legal ficar pedido, mas pelo menos os centros de ferro, os centro de ferros chegam ao local.
+
+810
+01:20:28,699 --> 01:20:37,470
+Os centros da presença ao mundo. Essas são as fibras básicas e as patrobras das fibras típicas são fundamentais.
+
+811
+01:20:37,470 --> 01:20:43,760
+Mas em uma fase que é fase de projeto, estão 50 alunos, 20 alunas.
+
+812
+01:20:43,760 --> 01:20:46,760
+A gente espera que faça um reforme pelo menos 45,
+
+813
+01:20:46,760 --> 01:20:49,760
+eu sou chegado em 49, 48,
+
+814
+01:20:49,760 --> 01:20:51,760
+um uso dos sequenos,
+
+815
+01:20:51,760 --> 01:20:55,140
+então a nossa parte dos sucessos é de simbólico.
+
+816
+01:20:55,140 --> 01:20:57,430
+Começamos agora.
+
+817
+01:20:57,430 --> 01:20:58,430
+Projeto de piragólicos.
+
+818
+01:20:58,430 --> 01:21:00,430
+O que é esse custo?
+
+819
+01:21:00,430 --> 01:21:03,430
+Primeiro custo que tem a dois vezes de liberdade
+
+820
+01:21:03,430 --> 01:21:05,430
+para terminar a terminologia.
+
+821
+01:21:05,430 --> 01:21:07,430
+Ele não sabe o que é que eu estou conversando.
+
+822
+01:21:07,430 --> 01:21:10,720
+A nossa mãe vem bem com esse custos.
+
+823
+01:21:10,720 --> 01:21:12,720
+Essa quase de AD.
+
+824
+01:21:12,720 --> 01:21:19,720
+São quatro cifrinas acínculas, que vocês fazem no ritmo que vocês quiserem, na ordem que quiser.
+
+825
+01:21:19,720 --> 01:21:22,720
+Não tem condesoura, tem alma.
+
+826
+01:21:22,720 --> 01:21:24,819
+Não tem não material froso?
+
+827
+01:21:24,819 --> 01:21:27,979
+Vocês estão estudando o ritmo de vocês no ritmos que vocês.
+
+828
+01:21:27,979 --> 01:21:33,329
+Ah, mas eu estou bem estudado na faculdade, eu estou nem em rádio.
+
+829
+01:21:33,329 --> 01:21:36,329
+Se vira, cara, se quiser fazer, se vira.
+
+830
+01:21:36,329 --> 01:21:39,479
+Então, mano, tá?
+
+831
+01:21:39,479 --> 01:21:42,479
+Então, são quatro ciprinas, é pesado.
+
+832
+01:21:42,479 --> 01:21:45,800
+que tem que ser mais de 1 ou 3 horas por dia para executar.
+
+833
+01:21:45,800 --> 01:21:48,260
+Quem é de computação, não olhar aquele rei,
+
+834
+01:21:48,260 --> 01:21:50,920
+porque você tem que passar uma semana. Ótimo?
+
+835
+01:21:50,920 --> 01:21:53,250
+Fácil.
+
+836
+01:21:53,250 --> 01:21:56,130
+Tem gente que vai fazer logo um primeiro...
+
+837
+01:21:56,130 --> 01:22:00,909
+2, 0, 0 na vez, porque o outro não deixa para o último, não tem problema.
+
+838
+01:22:00,909 --> 01:22:03,250
+Fáfico do jeito que você achar é menor.
+
+839
+01:22:03,250 --> 01:22:07,729
+Lembra? Não é? Você tem que envolver uma habilidade responsável de idade.
+
+840
+01:22:07,729 --> 01:22:09,149
+Não tenta só um tempo.
+
+841
+01:22:09,149 --> 01:22:10,949
+Os primeiros vão para o mesmo tempo.
+
+842
+01:22:10,949 --> 01:22:28,100
+Vão? Vão se vir, já foi simples, seis primeiras são obrigatórias, não esqueçam de fazer essa, faço primeiro essa, não porque estão desiguando, tem que ser obrigatório, isso é isso, se voltar uma você não passa para o vetar, você vai ter que ter isso, já fica pronto,
+
+843
+01:22:28,100 --> 01:22:31,100
+e contou uma obrigatória que não passa a ser uma participação.
+
+844
+01:22:32,100 --> 01:22:34,100
+Os nossos obrigatórios passam logo.
+
+845
+01:22:34,100 --> 01:22:36,100
+Não esqueceram de se acessar e se esquecer.
+
+846
+01:22:36,100 --> 01:22:38,100
+Chegando e dizendo, ah!
+
+847
+01:22:38,100 --> 01:22:40,300
+Meu Deus do céu!
+
+848
+01:22:40,300 --> 01:22:43,380
+Tá?
+
+849
+01:22:43,380 --> 01:22:45,380
+E depois dessa fase intervina
+
+850
+01:22:45,380 --> 01:22:47,380
+como um processo de evaliação.
+
+851
+01:22:47,380 --> 01:22:49,380
+Primeiro deles é uma prova online.
+
+852
+01:22:51,930 --> 01:22:53,930
+Para todos os que terem até que o ano fez
+
+853
+01:22:53,930 --> 01:22:55,930
+quando as vezes se inclinam,
+
+854
+01:22:55,930 --> 01:22:57,930
+seja obrigatório,
+
+855
+01:22:57,930 --> 01:23:04,899
+E aí é muito bem executar, derrota o sucesso, porque ele não chega até aqui.
+
+856
+01:23:04,899 --> 01:23:08,970
+E quem tem a fusão de ser uma pessoa?
+
+857
+01:23:08,970 --> 01:23:15,260
+Aí ele selejona a ser melhor na resposta do chefe da TV.
+
+858
+01:23:15,260 --> 01:23:17,260
+E chama para fazer uma prova presencial.
+
+859
+01:23:17,260 --> 01:23:19,260
+Aí é para dar pé.
+
+860
+01:23:19,260 --> 01:23:23,020
+A prova mais, o pareto é a questão de fazer em 1 hora.
+
+861
+01:23:23,020 --> 01:23:29,250
+É quando a chefe de dificultado tem mais tempo do sucesso que a gente tem que escolher na feita.
+
+862
+01:23:29,250 --> 01:23:35,250
+E por fazer muita conjunta no dedo de 3 metros, vai lembrar como fazer a prova.
+
+863
+01:23:35,250 --> 01:23:38,250
+Não precisa fazer as 40, mas você precisa ter a prova mesma.
+
+864
+01:23:38,250 --> 01:23:41,250
+Que isso é mais bom que o que vai ser chamado para estar com a prevenção.
+
+865
+01:23:41,250 --> 01:23:45,250
+Aí está para prevenciar, já é 15 questões.
+
+866
+01:23:45,250 --> 01:23:48,250
+Em uma hora, para dar aí a coisa perto.
+
+867
+01:23:48,250 --> 01:23:50,250
+Aí você tem que conseguir fazer nada.
+
+868
+01:23:50,250 --> 01:23:53,250
+Para ser prevencial, aqui na hora de funcionar.
+
+869
+01:23:53,250 --> 01:23:57,250
+Para ter uns 400 melhores partículas.
+
+870
+01:23:57,250 --> 01:24:04,310
+Se esse tem a prova presencial, a gente recebe esse problema, aí vai estar com o projeto.
+
+871
+01:24:04,310 --> 01:24:10,310
+Se foi você convidado para participar, tem que confirmar a participação,
+
+872
+01:24:10,310 --> 01:24:12,539
+alguns não vão ter respeito.
+
+873
+01:24:12,539 --> 01:24:16,539
+Se você tem a luz, você acha que tem mais que esse Espírito da vida.
+
+874
+01:24:16,539 --> 01:24:18,630
+Esse nada é só falta.
+
+875
+01:24:18,630 --> 01:24:20,729
+Tem que ter a luz tudo em Espíritos.
+
+876
+01:24:20,729 --> 01:24:23,729
+Será que ele vai me fazer a prova universal aqui?
+
+877
+01:24:23,729 --> 01:24:26,729
+Então tem alguns que fazem a prova, faz tudo,
+
+878
+01:24:26,729 --> 01:24:31,729
+e coisa assim, se você não está comprando um pouco, pode beneficar o projeto para ficar em plato a gente
+
+879
+01:24:31,729 --> 01:24:35,729
+e o projeto a gente vai chamando a gente de cliente tera, ok?
+
+880
+01:24:35,729 --> 01:24:41,729
+Então vejo que eu não passe na primeira, chamar tera e ver que tem chance de ser chamado para conhecer o projeto
+
+881
+01:24:41,729 --> 01:24:47,560
+Bem, aí é a parte de diversão, projeto, o projeto é o seguinte
+
+882
+01:24:47,560 --> 01:24:52,850
+nós já estamos começando no empresa local, nós trazemos clientes no projeto
+
+883
+01:24:52,850 --> 01:24:57,850
+O problema que a empresa tem é que o problema real não trabalha ao cadeio, não trabalhe aqui
+
+884
+01:24:57,850 --> 01:25:03,850
+É o óleo, é o problema realmente, o problema dela, o produto novo que a gente vai dar pra lançar
+
+885
+01:25:03,850 --> 01:25:05,850
+Ou o negócio novo que ela tá fazendo
+
+886
+01:25:05,850 --> 01:25:11,010
+Porque a gente conhece ao fundo que ela está fazendo o problema bem legal pra gente desenvolver
+
+887
+01:25:11,010 --> 01:25:16,010
+E nós vamos organizar os 50 alunos em grupos de 5 alunros cada
+
+888
+01:25:16,010 --> 01:25:18,140
+E é de modo novo, novo
+
+889
+01:25:18,140 --> 01:25:23,479
+Então, ele já dá a ver o que é justo, não é o que você pode ver, o que a gente é justificado com você,
+
+890
+01:25:23,479 --> 01:25:28,340
+o que ele já fez, o conhecimento, o reconhecimento informar, que essa é a área de atuação,
+
+891
+01:25:28,340 --> 01:25:32,739
+que a unidade de contas, a grupos, tem, os grupos têm o mesmo poder de produzir, o mesmo
+
+892
+01:25:32,739 --> 01:25:37,840
+poder de resolver o seu problema, mas está tendendo um forte suprato, um suprado.
+
+893
+01:25:37,840 --> 01:25:39,970
+E isso é o enteiro jeito.
+
+894
+01:25:39,970 --> 01:25:44,970
+Então tem jeito, a gente não deixa todo o nome der sozinho em cada grupo, você tem duas ou três,
+
+895
+01:25:44,970 --> 01:25:50,970
+na vez do PCD, no mais com PCD do grupo, mas sempre tem gente diferente do grupo.
+
+896
+01:25:50,970 --> 01:25:56,130
+Me fala sobre as retocas, qual engenharia, que é maravilhosa a mágica,
+
+897
+01:25:56,130 --> 01:26:00,130
+tem dificuldade, tem universidade.
+
+898
+01:26:00,130 --> 01:26:05,800
+Esse grupo é sempre um tema de projeto, nós vamos nos dar os nossos temas para cada grupo.
+
+899
+01:26:05,800 --> 01:26:10,930
+E aí, na segunda vez, a primeira unitividade de vocês,
+
+900
+01:26:10,930 --> 01:26:16,930
+Você viu que a semana de um bordo, a semana da preparação, é uma semana inteira com a agenda,
+
+901
+01:26:16,930 --> 01:26:20,930
+um edital acolhado na data, é obrigatório a fazer isso.
+
+902
+01:26:20,930 --> 01:26:26,060
+Nessa semana, você só conheceu o grupo, você já conheceu um projeto,
+
+903
+01:26:26,060 --> 01:26:30,060
+você tem a hora de ir para o conhecimento, você tem o horário de escudo,
+
+904
+01:26:30,060 --> 01:26:34,060
+ele tem o registro de engenharia de projeto de inventorismo.
+
+905
+01:26:34,060 --> 01:26:38,500
+É uma semana de integratividade, quatro horas, um dia, semana inteiro.
+
+906
+01:26:38,500 --> 01:26:46,659
+e na sexta-feira vocês vão produzir as únicas empresas que produzeram o seu projeto para especificar melhor o seu
+
+907
+01:26:46,659 --> 01:26:49,260
+projeto. E aí o qual o projeto?
+
+908
+01:26:49,260 --> 01:26:52,600
+O promisso de você é para fazer imersão e é um concluiço sério.
+
+909
+01:26:52,600 --> 01:26:57,630
+Tem uma reunião por semana, de uma hora, com um orientador.
+
+910
+01:26:57,630 --> 01:26:59,189
+Preciso obrigatório.
+
+911
+01:26:59,189 --> 01:27:02,949
+É tão obrigatória que para a gente provar o que eles estão fazendo aqui,
+
+912
+01:27:02,949 --> 01:27:08,449
+Vim na porta, vim vim, vinte e sete, vinha na porta e manda tudo no pé.
+
+913
+01:27:08,449 --> 01:27:11,449
+O que é isso? O que que é que passa para a etapa de versão?
+
+914
+01:27:11,449 --> 01:27:13,949
+Recebe uma bolsa de 1.000 reais.
+
+915
+01:27:13,949 --> 01:27:17,189
+50% do que você pode.
+
+916
+01:27:17,189 --> 01:27:19,539
+E vão ganhar um notebook.
+
+917
+01:27:19,539 --> 01:27:22,729
+No princípio de computar, o que que passa?
+
+918
+01:27:22,729 --> 01:27:27,229
+Então eu inseri que eu vou precisar da doação do computamento para que eu faça o projeto.
+
+919
+01:27:27,229 --> 01:27:32,229
+Então para que, né? Eu investi mesmo para Tranny, mesmo para a Cana, para vocês.
+
+920
+01:27:32,229 --> 01:27:36,229
+Mas tem que participar, tem que fazer isso, tem de participar de vocês, tem
+
+921
+01:27:36,229 --> 01:27:39,229
+de participar, têm de fazer isso.
+
+922
+01:27:39,229 --> 01:27:44,409
+Já porque eu pego, pego e pego.
+
+923
+01:27:44,409 --> 01:27:46,409
+Eu pego mais de uma vez.
+
+924
+01:27:46,409 --> 01:27:52,949
+Eu não tinha, Zéinho entrou, o ICF foi perdido, tudo mas tinha
+
+925
+01:27:52,949 --> 01:27:59,130
+100 graus. Então, o que você vai fazer é isso.
+
+926
+01:27:59,130 --> 01:28:03,609
+Esse compromisso que você não tem duas plancas, começou o
+
+927
+01:28:03,609 --> 01:28:06,609
+O primeiro é o projeto do segundo mês para uma banca.
+
+928
+01:28:06,609 --> 01:28:09,609
+A primeira parte do projeto é a parte de...
+
+929
+01:28:09,609 --> 01:28:12,609
+O que a gente chama de projeto de trepelital grídeo,
+
+930
+01:28:12,609 --> 01:28:17,609
+que é o de idealizar a solução que vocês vão fazer com o cliente.
+
+931
+01:28:17,609 --> 01:28:20,609
+Então, no final do segundo meio, o que você pode ter uma banqueta variável.
+
+932
+01:28:20,609 --> 01:28:23,609
+Então, você dá o protótipo, navegar na solução,
+
+933
+01:28:23,609 --> 01:28:27,609
+o modelo de dados, um tal entendimento que vocês entendem
+
+934
+01:28:27,609 --> 01:28:30,609
+sobre o problema que eu tomo na próxima vez que vocês conversam.
+
+935
+01:28:30,609 --> 01:28:34,770
+A banca dá um novo e um óptico para melhorar o momento de descoberto da hora de desenvolver
+
+936
+01:28:34,770 --> 01:28:35,770
+o nosso projeto.
+
+937
+01:28:35,770 --> 01:28:39,649
+E tudo que a gente pode, não fica verdade, o governo, o doutor fica navegado.
+
+938
+01:28:39,649 --> 01:28:44,369
+As telas aprovadas por clientes, desde o que tem de ver, desde que o que quer, não
+
+939
+01:28:44,369 --> 01:28:45,560
+tem como.
+
+940
+01:28:45,560 --> 01:28:46,560
+Não tem que ter as telas na aprovada.
+
+941
+01:28:46,560 --> 01:28:51,180
+Aí vocês têm quatro meses para repetir, naquele nível a gente tem que repetir.
+
+942
+01:28:51,180 --> 01:28:52,180
+A gente se promificar.
+
+943
+01:28:52,180 --> 01:28:57,279
+Então aí você tem quatro meses pra codificar com o sinal de a banca, que não pode
+
+944
+01:28:57,279 --> 01:29:04,310
+E aí o orienta como vocês vão brincar, minhaquilo, se guarda pelo meu espirito, claro, etc.
+
+945
+01:29:04,310 --> 01:29:09,310
+E se percebe como parede com o que você não tem pensado, que você tem que seguir com o ritmo,
+
+946
+01:29:09,310 --> 01:29:12,310
+e ali você tomando o ritmos, certo?
+
+947
+01:29:12,310 --> 01:29:16,310
+Mas que outro fosse contratado pelo espiritoso, certo.
+
+948
+01:29:16,310 --> 01:29:19,310
+Então a oportunidade é muito boa para os seus atletas.
+
+949
+01:29:19,310 --> 01:29:23,460
+Bem, então, resolvido o nosso inseto até agora, né?
+
+950
+01:29:23,460 --> 01:29:29,880
+E agora, com o Enfim de Tego Espírito, vocês são os centros de dinheiro na capacidade da etapa de estabilamento.
+
+951
+01:29:29,880 --> 01:29:39,039
+Entram a cova, o 100% da cova online, saem os 50% da etapas de projéto, de missão.
+
+952
+01:29:39,039 --> 01:29:45,970
+E aí, se você tem tanto na etapa do estabilimento, tem a etapa da missão, você serve certificar.
+
+953
+01:29:45,970 --> 01:29:47,970
+É que é passável, tá?
+
+954
+01:29:47,970 --> 01:29:56,649
+Eu não tinha falado que as nossas diferenciais, a colação e a sua distrito,
+
+955
+01:29:56,649 --> 01:29:58,649
+teve que vocês vão entrar em projetos.
+
+956
+01:29:58,649 --> 01:30:02,439
+Todo o curso que se fizeram agora na parte de desenvolvimento,
+
+957
+01:30:02,439 --> 01:30:07,939
+a gente trabalha com o pai, com a memória de programação, com o espaço, com essa tranquila de trabalhar,
+
+958
+01:30:07,939 --> 01:30:12,939
+e mais de comenta para quem não é informático investindo agora.
+
+959
+01:30:12,939 --> 01:30:17,920
+Só que na hora em que você vai trabalhar na empresa, na empresa de empresa,
+
+960
+01:30:17,920 --> 01:30:20,920
+você vai trabalhando na tecnologia, está em medo.
+
+961
+01:30:20,920 --> 01:30:22,920
+ela usa C mais mais, C é chá,
+
+962
+01:30:23,920 --> 01:30:24,920
+C é a cabeça,
+
+963
+01:30:24,920 --> 01:30:26,920
+chá é o espirito,
+
+964
+01:30:26,920 --> 01:30:28,920
+a problema se fica,
+
+965
+01:30:28,920 --> 01:30:29,920
+chá.
+
+966
+01:30:29,920 --> 01:30:31,920
+Não, mas eu não sei, se pira, cara!
+
+967
+01:30:34,229 --> 01:30:35,229
+Eu mantra,
+
+968
+01:30:35,229 --> 01:30:36,229
+se piras.
+
+969
+01:30:38,060 --> 01:30:40,060
+Então, vai ter que ensinhar para aprender.
+
+970
+01:30:40,060 --> 01:30:41,060
+Esses dois beiros, na verdade,
+
+971
+01:30:41,060 --> 01:30:43,060
+vão prevenir então o crime,
+
+972
+01:30:43,060 --> 01:30:44,060
+e a problema vai entender,
+
+973
+01:30:44,060 --> 01:30:45,060
+vai poder entender mesmo.
+
+974
+01:30:45,060 --> 01:30:47,060
+Ainda vai dar coisa, tá?
+
+975
+01:30:48,060 --> 01:30:50,060
+Ah, mas, eu posso pedir as minhas professores?
+
+976
+01:30:50,060 --> 01:30:51,060
+Pode.
+
+977
+01:30:51,060 --> 01:30:55,119
+E por isso que eu venho, eu não vou conseguir ajudar, mas você pode.
+
+978
+01:30:55,119 --> 01:30:57,119
+O que está fazendo, o saco?
+
+979
+01:30:57,119 --> 01:30:59,640
+Vídeo!
+
+980
+01:30:59,640 --> 01:31:01,640
+Não, cara, é para o primeiro. Vem cá para cá, meu!
+
+981
+01:31:01,640 --> 01:31:03,640
+Eu estou só aqui para fazer isso aqui para que eu faça.
+
+982
+01:31:03,640 --> 01:31:05,640
+Ele vai ter que ajudar.
+
+983
+01:31:05,640 --> 01:31:07,960
+Se vira...
+
+984
+01:31:07,960 --> 01:31:12,960
+Bem, o mercado, não só a gente usa problemas das empresas locais,
+
+985
+01:31:12,960 --> 01:31:15,960
+mas a gente está fazendo professores de vocais,
+
+986
+01:31:15,960 --> 01:31:17,960
+de prajearas locales,
+
+987
+01:31:17,960 --> 01:31:21,159
+nós vamos lá aqui, não sei, nós vamos falar com pessoas a mesma língua,
+
+988
+01:31:21,159 --> 01:31:23,159
+se é de rir e fortes, tá?
+
+989
+01:31:23,159 --> 01:31:31,689
+Não tem um, a cultura do local acham que os países, os alunos, os países projeitos e internacionais,
+
+990
+01:31:31,689 --> 01:31:36,189
+aproveitam essa propriedade, se pode crer em frente, eu vou tentar montar um grupo
+
+991
+01:31:36,189 --> 01:31:39,850
+com alunas internacionares de mesmo país,
+
+992
+01:31:39,850 --> 01:31:43,859
+e de repente vocês podem voltar pra lá, levando um negócio.
+
+993
+01:31:43,859 --> 01:31:48,649
+Lembra? O resultado desse trabalho é de vocês,
+
+994
+01:31:48,649 --> 01:32:00,649
+Me lembro da hora em vocês, vocês podem fazer, reproduzirem a oportunidade, vocês são todos, são vocês, a Brisa, a Universidade e a empresa que a gente conhece agora, o que eu digo?
+
+995
+01:32:00,649 --> 01:32:05,649
+Então, se você pode sair daqui para um negócio, a ter uma empresa no país de vocês,
+
+996
+01:32:05,649 --> 01:32:10,649
+de vez em que você passeia com o brasileiro, porque ele já amava tudo, mas ele já estava intervastilado.
+
+997
+01:32:10,649 --> 01:32:17,369
+Então, aproveita essa oportunidade.
+
+998
+01:32:17,369 --> 01:32:22,170
+Bem, no ponto de ordenação da Igona para vocês, a gente daqui a pouco vai ser divulgado o horário,
+
+999
+01:32:22,170 --> 01:32:26,050
+já foi, né, por causa do apedimento, porque isso não é por favor.
+
+1000
+01:32:26,050 --> 01:32:34,090
+Então, é, dedico o período de tempo, sempre assiste a lá, qual é a direção pessoal.
+
+1001
+01:32:34,090 --> 01:32:39,329
+Eu não gosto de correr isso, então é o motivo das coisas que acontecem, é isso, é dirigido.
+
+1002
+01:32:39,329 --> 01:32:43,500
+Você sai de um horário que eu digo, tá, pega ele e eu cá.
+
+1003
+01:32:43,500 --> 01:32:46,220
+e as quatro maiores mortes de vítimas.
+
+1004
+01:32:46,220 --> 01:32:48,220
+E o que é que é trapar a minha jornada?
+
+1005
+01:32:48,220 --> 01:32:50,520
+Então, é que o horário do dia é exército,
+
+1006
+01:32:50,520 --> 01:32:52,020
+é esse que é o horario que eu tenho que estudar.
+
+1007
+01:32:52,020 --> 01:32:53,319
+É que eu estou a estudar mais.
+
+1008
+01:32:53,319 --> 01:32:54,720
+O que é estudar?
+
+1009
+01:32:54,720 --> 01:32:56,020
+O que tem que estudá-lo?
+
+1010
+01:32:56,020 --> 01:32:57,920
+Cada disciplina que tem lá, cada matéria,
+
+1011
+01:32:57,920 --> 01:33:00,520
+tem um texto, um texto.
+
+1012
+01:33:00,520 --> 01:33:02,319
+Está bem escrito, já passou tudo.
+
+1013
+01:33:02,319 --> 01:33:03,520
+O que eu pode usar, já?
+
+1014
+01:33:03,520 --> 01:33:05,520
+Desculpe também, já visto, tem que correr.
+
+1015
+01:33:05,520 --> 01:33:07,520
+Mas, é...
+
+1016
+01:33:07,520 --> 01:33:09,520
+que eu vou falar um pouco para os grupos,
+
+1017
+01:33:09,520 --> 01:33:10,720
+tem um vídeo,
+
+1018
+01:33:10,720 --> 01:33:12,720
+e tem exercício de identificação.
+
+1019
+01:33:12,720 --> 01:33:14,720
+faz com que esse prozeiro vai responder.
+
+1020
+01:33:14,720 --> 01:33:16,720
+Porque esse é fácil, isso tem que assistir,
+
+1021
+01:33:16,720 --> 01:33:18,720
+esse tem que acertar o dia da ouvir,
+
+1022
+01:33:18,720 --> 01:33:21,850
+tem que escutar o dia, tem que responder as questões.
+
+1023
+01:33:21,850 --> 01:33:23,850
+Tem que acercar 50% das questões,
+
+1024
+01:33:23,850 --> 01:33:25,850
+é uma acertada.
+
+1025
+01:33:25,850 --> 01:33:27,850
+Mas de novo, o que você pode fazer é ônibus,
+
+1026
+01:33:27,850 --> 01:33:29,850
+se você fizer 5 vezes a 100% em prática,
+
+1027
+01:33:29,850 --> 01:33:32,850
+o que vai ter que é total.
+
+1028
+01:33:32,850 --> 01:33:35,850
+Mas de nuevo, se você usar muito a prioridade do material,
+
+1029
+01:33:35,850 --> 01:33:40,100
+de novo de 5 vezes é o que pode fazer.
+
+1030
+01:33:40,100 --> 01:33:43,100
+Então, intera 200% dele.
+
+1031
+01:33:43,100 --> 01:33:50,329
+É só assim que é considerado terminado a disciplina, presta atenção mesmo, é necessário
+
+1032
+01:33:50,329 --> 01:33:56,329
+fazer questão, não esquecer do meu rio e a disciplinar a disciplinada, isso é comum.
+
+1033
+01:33:56,329 --> 01:34:00,329
+Mas obrigatório é obrigatória, não é o que eu falei, não sei, não sou.
+
+1034
+01:34:00,329 --> 01:34:06,810
+As outras, oito, como um ponto, e é uma taxa que é ação para entrar no final,
+
+1035
+01:34:06,810 --> 01:34:13,880
+é a nota da prova, para evitar fome, a número de disciplinas que você usou,
+
+1036
+01:34:13,880 --> 01:34:17,500
+20 pontos, que seria 8 subindo para 20 pontos.
+
+1037
+01:34:17,500 --> 01:34:20,000
+Tem ainda 10 pontos que tem aí na região,
+
+1038
+01:34:20,000 --> 01:34:26,000
+então, no ideal, tem a cidade que está subindo,
+
+1039
+01:34:26,000 --> 01:34:27,000
+no mesmo programa.
+
+1040
+01:34:27,000 --> 01:34:28,000
+Por isso, porquê?
+
+1041
+01:34:28,000 --> 01:34:29,000
+Tem 40 pontos que a gente mora.
+
+1042
+01:34:29,000 --> 01:34:30,500
+Aí, essa catagem, então,
+
+1043
+01:34:30,500 --> 01:34:32,000
+que está vaga de um lugar de fone,
+
+1044
+01:34:32,000 --> 01:34:33,500
+então, que vai estar todo total.
+
+1045
+01:34:33,500 --> 01:34:35,500
+Então, tem que verigir o que a pessoa tem.
+
+1046
+01:34:35,500 --> 01:34:37,000
+Então, a presidência é o mesmo.
+
+1047
+01:34:37,000 --> 01:34:38,500
+Faça o dinheiro no sentido.
+
+1048
+01:34:38,500 --> 01:34:39,500
+Olhe, dá uma marido,
+
+1049
+01:34:39,500 --> 01:34:40,500
+não confusão,
+
+1050
+01:34:40,500 --> 01:34:43,000
+se a comida foi terminada.
+
+1051
+01:34:43,000 --> 01:34:50,800
+Mas eu quero estudar para fundo essa disciplina, não perca tempo para fora, você tem que fazer
+
+1052
+01:34:50,800 --> 01:34:57,000
+quatro disciplina já, vai logo, deixa eu vou estudar na fase de projeto, para que você
+
+1053
+01:34:57,000 --> 01:34:59,600
+possa estudar a próxima disciplina hoje, tá?
+
+1054
+01:34:59,600 --> 01:35:03,039
+Então, o que ele está fazendo, não é estudando, né?
+
+1055
+01:35:03,039 --> 01:35:08,520
+A futura, é a partida, que você pode esquecer, pra que você vende na mão e esquece
+
+1056
+01:35:08,520 --> 01:35:11,159
+nada.
+
+1057
+01:35:11,159 --> 01:35:15,560
+ele vai trabalhar aqui no Brasil, ele vai exercer a programação, você vê
+
+1058
+01:35:15,560 --> 01:35:19,409
+quem aqui já programa para ele?
+
+1059
+01:35:19,409 --> 01:35:21,409
+Bem, para quem não programa?
+
+1060
+01:35:21,409 --> 01:35:24,609
+Para que programa vai poder comprovar com ele?
+
+1061
+01:35:24,609 --> 01:35:25,609
+Para quem não programa assim?
+
+1062
+01:35:25,609 --> 01:35:26,609
+Para fazer programação?
+
+1063
+01:35:26,609 --> 01:35:30,810
+Provação, é que ele é acadêmico, ele é para acadêmica
+
+1064
+01:35:30,810 --> 01:35:32,310
+O mesmo que ele programa?
+
+1065
+01:35:32,310 --> 01:35:33,310
+O mesmo?
+
+1066
+01:35:40,680 --> 01:35:42,979
+Quem está aqui e vai para a academia, você não sabe assim
+
+1067
+01:35:42,979 --> 01:35:48,260
+Você vai fazer a academia, você se inscreve, mas aí conversa, você vai se incluir na força.
+
+1068
+01:35:48,260 --> 01:35:54,439
+Eu só vou fazer a porra, porque eu paguei três meses dessa tarde, porque a gente fica aqui, no ano de academia.
+
+1069
+01:35:54,439 --> 01:36:01,119
+O primeiro mês você vai sobre repórter, o segundo mês você tem que ir pro outro, mas você vai ir lá e vai.
+
+1070
+01:36:01,119 --> 01:36:06,319
+O terceiro mês aí, quando aquela porra da academia fecha no tatalho, como que pode?
+
+1071
+01:36:06,319 --> 01:36:09,050
+O que você vai fazer?
+
+1072
+01:36:09,050 --> 01:36:12,090
+Bicinha, programar a mesma porra.
+
+1073
+01:36:12,090 --> 01:36:14,090
+Quando é o primeiro programa de você?
+
+1074
+01:36:14,090 --> 01:36:15,590
+Renow World
+
+1075
+01:36:15,590 --> 01:36:19,060
+Já tem um ano e um mês pra sair lá
+
+1076
+01:36:19,060 --> 01:36:21,560
+Você já acha que não sabe, tem competir pra quê?
+
+1077
+01:36:21,560 --> 01:36:23,560
+Aí o segundo é Renow world people
+
+1078
+01:36:23,560 --> 01:36:25,560
+Aí não tem nada
+
+1079
+01:36:27,060 --> 01:36:29,560
+Então, você não vê que procuração é isso
+
+1080
+01:36:29,560 --> 01:36:31,060
+Não desista
+
+1081
+01:36:31,060 --> 01:36:33,060
+Na hora que você se pegar e estar a ter repito
+
+1082
+01:36:33,060 --> 01:36:36,060
+Sabe um clipe na cabeça e passa a programar
+
+1083
+01:36:36,060 --> 01:36:38,060
+Vai sair com a namorada, com a Namorada
+
+1084
+01:36:38,060 --> 01:36:39,560
+Só pode ser cheio de um pouco de tal roupa
+
+1085
+01:36:39,560 --> 01:36:41,560
+Mas se não for ver, eu vou gostar de um silêncio
+
+1086
+01:36:41,560 --> 01:36:46,199
+e o restante é 200 gramas, mas não problema a sua vida.
+
+1087
+01:36:47,520 --> 01:36:49,520
+Então, pera aí, não param.
+
+1088
+01:36:53,220 --> 01:36:56,220
+Bem, quem, a cor, que perde a aprovação significa?
+
+1089
+01:36:56,220 --> 01:36:58,220
+Ele passa na prova, entendeu?
+
+1090
+01:36:58,220 --> 01:37:00,260
+Não tem um nótulo de corte difícil,
+
+1091
+01:37:00,260 --> 01:37:02,260
+você passa assim para 5, para 100,
+
+1092
+01:37:02,260 --> 01:37:05,260
+a nota de cortes é tudo ano.
+
+1093
+01:37:05,260 --> 01:37:07,260
+Na fase, a etapa dele, pela meta,
+
+1094
+01:37:07,260 --> 01:37:09,260
+é 50% da maior moda.
+
+1095
+01:37:09,260 --> 01:37:11,260
+Se você pega a maior modação,
+
+1096
+01:37:11,260 --> 01:37:16,260
+Tem que ir no 50% mais alto do que o 50% da nova opção, tá?
+
+1097
+01:37:16,260 --> 01:37:21,260
+Acima de 50% na nova opação, tá igual a mais alto, ok?
+
+1098
+01:37:21,260 --> 01:37:24,260
+Então descobri que é o que era o mais alto que eu já pensava.
+
+1099
+01:37:24,260 --> 01:37:26,260
+Ele já levou mais alto.
+
+1100
+01:37:26,260 --> 01:37:29,260
+Não, o rio que eu fiz todo mundo.
+
+1101
+01:37:29,260 --> 01:37:34,260
+Na fase de pressão, a regra mais alta, 75% tá?
+
+1102
+01:37:34,260 --> 01:37:39,579
+O mesmo jeito a gente conseguiu trovar o 50, 49, 48.
+
+1103
+01:37:39,579 --> 01:37:48,020
+de quem foi reclamação na avaliação, principalmente os colegas que ele também foi reclamando.
+
+1104
+01:37:48,020 --> 01:37:56,800
+E aí não os custos, nesses custos souberam fazer o predital.
+
+1105
+01:37:56,800 --> 01:38:02,829
+Portes de confirmação dos nossos pais, dos nossos computadores, da quantidade em que ele é livre.
+
+1106
+01:38:02,829 --> 01:38:05,829
+Isso aí são obrigatórias, né? É só fazer e fazer o óbvio.
+
+1107
+01:38:05,829 --> 01:38:08,829
+Esse é de computação, isso não existe em meio óbio.
+
+1108
+01:38:08,829 --> 01:38:12,829
+Ele não é a facação que é, a facção do óbrio, de esquerdo.
+
+1109
+01:38:12,829 --> 01:38:20,430
+Depois do somão, no respondeiro de cada um, se for ver a aplicação do raio, o fundamento
+
+1110
+01:38:20,430 --> 01:38:25,430
+que já é o momento de usar, o que é que dá, está aí, que é o sintético, a aplicação
+
+1111
+01:38:25,430 --> 01:38:31,250
+que está com a aplicações com o IA, a introdução de prensações, o IOT, está
+
+1112
+01:38:31,250 --> 01:38:37,439
+em direção a internet de spreia. A introdução do IOT é visita a gente de IA que é
+
+1113
+01:39:12,430 --> 01:39:15,840
+O que você está fazendo aqui?
+
+1114
+01:39:15,840 --> 01:39:17,840
+Só se tu não tem o melhorinho de portas?
+
+1115
+01:39:17,840 --> 01:39:21,060
+O que eu estou fazendo?
+
+1116
+01:39:21,060 --> 01:39:25,699
+Eu tenho que fazer o que eu quero fazer aqui.
+
+1117
+01:39:25,699 --> 01:39:27,699
+Quer fazer o quê?
+
+1118
+01:39:27,699 --> 01:39:29,699
+Eu tenho de fazer o qual?
+
+1119
+01:39:29,699 --> 01:39:31,789
+Ah, então estou.
+
+1120
+01:39:31,789 --> 01:39:33,789
+O que é o que você quer fazer aqui?
+
+1121
+01:39:33,789 --> 01:39:37,359
+É, eu estou falando com você.
+
+1122
+01:39:37,359 --> 01:39:39,359
+Você vai lutar com a gente, certo?
+
+1123
+01:39:39,359 --> 01:39:41,359
+Você vai ter que lutar, sabe?
+
+1124
+01:39:41,359 --> 01:39:43,359
+Não, eu vou lutar para a gente não.
+
+1125
+01:39:43,359 --> 01:39:45,359
+Eu vou lhe lutar pra a gente.
+
+1126
+01:39:45,359 --> 01:39:47,680
+É...
+
+1127
+01:39:47,680 --> 01:39:49,180
+No nosso tempo,
+
+1128
+01:39:49,180 --> 01:39:50,680
+estar tendo na coca,
+
+1129
+01:39:50,680 --> 01:39:52,180
+tanto na prova,
+
+1130
+01:39:52,180 --> 01:39:53,680
+na fase de vendamento,
+
+1131
+01:39:53,680 --> 01:39:55,680
+mas na diversão a gente quer ver de coca.
+
+1132
+01:39:55,680 --> 01:39:56,680
+Tá?
+
+1133
+01:39:56,680 --> 01:39:58,680
+No tempo aí, 20% para o 10%,
+
+1134
+01:39:58,680 --> 01:40:00,180
+20% pra dedos,
+
+1135
+01:40:00,180 --> 01:40:02,680
+20% a artes de dedos no bolo,
+
+1136
+01:40:02,680 --> 01:40:05,850
+10% pra olhúrgica
+
+1137
+01:40:05,850 --> 01:40:07,350
+dos países que não conseguem,
+
+1138
+01:40:07,350 --> 01:40:09,350
+5% pra precedência,
+
+1139
+01:40:09,350 --> 01:40:11,850
+5% para mais de 45 anos,
+
+1140
+01:40:11,850 --> 01:40:14,350
+ou 10% para dedos do corpo.
+
+1141
+01:40:14,350 --> 01:40:20,039
+Tá bom.
+
+1142
+01:40:20,039 --> 01:40:24,460
+Cada aluno vai ser meu parede, uma moça, um ensaio e um ato-cubo
+
+1143
+01:40:24,460 --> 01:40:27,739
+e, compromisso de vocês, velho,
+
+1144
+01:40:27,739 --> 01:40:33,140
+participar de uma reunião presencial por uma vez por semana de coreano todo.
+
+1145
+01:40:33,140 --> 01:40:39,949
+Solta o ovo, coloque o risco, que vocês não falem.
+
+1146
+01:40:39,949 --> 01:40:42,369
+Ah, mas, é, o colímpio,
+
+1147
+01:40:42,369 --> 01:40:50,130
+nós vamos testar que óbvio tem que ter isso, mas não falo.
+
+1148
+01:40:50,130 --> 01:40:52,189
+O ruído, o tolês, tudo bem,
+
+1149
+01:40:52,189 --> 01:40:54,689
+vai com a testada, o mesmo, o sério,
+
+1150
+01:40:54,689 --> 01:40:55,989
+a gente é mais linducado,
+
+1151
+01:40:55,989 --> 01:40:58,989
+quer dizer quando vai acertar o local do local
+
+1152
+01:40:58,989 --> 01:41:03,949
+e fazer se eles estão recebendo uma bolsa para fazer isso
+
+1153
+01:41:03,949 --> 01:41:04,949
+com todos os salários do empresa.
+
+1154
+01:41:04,949 --> 01:41:06,949
+Na empresa que se salvou,
+
+1155
+01:41:06,949 --> 01:41:08,949
+de uma banda que você façava na porca mesmo,
+
+1156
+01:41:08,949 --> 01:41:11,949
+vai agar para pegar essa aqueira.
+
+1157
+01:41:11,949 --> 01:41:15,100
+Tem a primeira semana que o doutor,
+
+1158
+01:41:15,100 --> 01:41:18,100
+quer dizer, ele precisa de um reserva de urinamento,
+
+1159
+01:41:18,100 --> 01:41:20,100
+de urino profundo, para pegar a porca também.
+
+1160
+01:41:20,100 --> 01:41:23,100
+Então, já veja lá a data na tradicional,
+
+1161
+01:41:23,100 --> 01:41:25,100
+já exerga a geração do conselho,
+
+1162
+01:41:25,100 --> 01:41:27,100
+para acertá-la e ver se está com o convívio.
+
+1163
+01:41:27,100 --> 01:41:33,100
+Aí eu olho no escuto, conversa com os conversores, o risco da pescava, o presença, tudo mais, tá?
+
+1164
+01:41:33,100 --> 01:41:40,100
+É, do trabalho, o negocia, a certeza, o deponho, o horário, a fotografia, o filmecer, o negócio.
+
+1165
+01:41:40,100 --> 01:41:43,930
+É o próximo tempo.
+
+1166
+01:41:43,930 --> 01:41:45,930
+Ah, que tomasse isso.
+
+1167
+01:41:49,789 --> 01:41:54,050
+Se vocês não se afadeavam, eu que...
+
+1168
+01:41:54,050 --> 01:41:58,909
+As duas afadeações, a afadeção, em três mesões.
+
+1169
+01:41:58,909 --> 01:42:01,069
+O que é esse projeto?
+
+1170
+01:42:01,069 --> 01:42:03,069
+Quando a gente trabalha com o projeto de uma banda,
+
+1171
+01:42:03,069 --> 01:42:05,069
+que é o prêmio que a gente fez hoje com a banda,
+
+1172
+01:42:05,069 --> 01:42:07,069
+que amaria um projeto para vocês,
+
+1173
+01:42:07,069 --> 01:42:09,779
+mas esse quarto, que é a ideia de quebrar a ideia.
+
+1174
+01:42:09,779 --> 01:42:11,779
+O que não varia sempre, porque a gente já perdia a banda
+
+1175
+01:42:11,779 --> 01:42:13,779
+a nota da banda, que ela é a nota para todo o grupo.
+
+1176
+01:42:15,779 --> 01:42:17,779
+Aí tem a nota do orientador,
+
+1177
+01:42:17,779 --> 01:42:19,779
+o orientador para a variável,
+
+1178
+01:42:19,779 --> 01:42:22,159
+só que escute.
+
+1179
+01:42:22,159 --> 01:42:24,159
+Então, mesmo se vocês sabem,
+
+1180
+01:42:24,159 --> 01:42:26,159
+de toda essa reunião,
+
+1181
+01:42:26,159 --> 01:42:28,159
+e como que se fez com vocês,
+
+1182
+01:42:28,159 --> 01:42:31,600
+se você está analisando o que é que você tem de ideia, o que você é lento ou não,
+
+1183
+01:42:31,600 --> 01:42:37,100
+se você comece a se comunicar, se você cumpre o que eu cometi de fazer naquela semana,
+
+1184
+01:42:37,100 --> 01:42:44,510
+se você respeita os seus colegas, se tem opinião, dá a chance de outro prazer o que ele tem de discutir,
+
+1185
+01:42:44,510 --> 01:42:49,409
+você quer que eu lavo com ele de chachar ele pra frente, é na boca, entende?
+
+1186
+01:42:49,409 --> 01:42:55,229
+Então, o teu orientador vai acabar adiante de você e tu mantes o suporte, é uma nota.
+
+1187
+01:42:55,229 --> 01:42:59,390
+A outra é ser a nota, é que os seus comlegas alagem em você.
+
+1188
+01:42:59,390 --> 01:43:03,390
+Então, cada um de nós, uma pessoa de grupo, trabalha só nos outros quartos anteriores.
+
+1189
+01:43:03,390 --> 01:43:06,840
+O trabalho é um corpo que, quando é que ajudou o grupo a crescer,
+
+1190
+01:43:06,840 --> 01:43:08,840
+ajudou a resolver o problema.
+
+1191
+01:43:08,840 --> 01:43:13,640
+Ajuda você a crescerem com o problema de grupo.
+
+1192
+01:43:13,640 --> 01:43:16,949
+Então, essas três novas.
+
+1193
+01:43:16,949 --> 01:43:19,949
+Eu passo um poderado para chegar no final,
+
+1194
+01:43:19,949 --> 01:43:22,949
+e aí eu quero dar uma conta de uma proteção.
+
+1195
+01:43:22,949 --> 01:43:26,949
+Eu vou fazer até hoje, porque eu fiquei renovado por todos os projetos.
+
+1196
+01:43:26,949 --> 01:43:30,050
+Eu souber renovado com toda uma proteja nova,
+
+1197
+01:43:30,050 --> 01:43:35,050
+Então, no momento da sua normalidade, o que é barco é o barco na blusa.
+
+1198
+01:43:35,050 --> 01:43:37,590
+É barco, é ele.
+
+1199
+01:43:37,590 --> 01:43:41,590
+Se qual é o problema da primeira hora de ação, da segunda vez?
+
+1200
+01:43:41,590 --> 01:43:43,979
+A gente se sentiu.
+
+1201
+01:43:43,979 --> 01:43:45,979
+Se for, a gente não se permitiu.
+
+1202
+01:43:45,979 --> 01:43:49,170
+Mas quem é aprovado, não ganha a prova de cura.
+
+1203
+01:43:49,170 --> 01:43:50,170
+E Deus recebe o caso.
+
+1204
+01:43:50,170 --> 01:43:51,170
+Bom?
+
+1205
+01:43:51,170 --> 01:43:52,489
+No leito?
+
+1206
+01:43:52,489 --> 01:43:54,739
+E qual é a humanidade?
+
+1207
+01:43:54,739 --> 01:43:55,739
+Civil?
+
+1208
+01:43:55,739 --> 01:43:57,699
+Legal?
+
+1209
+01:43:57,699 --> 01:43:58,699
+Doble?
+
+1210
+01:43:58,699 --> 01:44:06,010
+Que é acordado?
+
+1211
+01:44:06,010 --> 01:44:11,199
+O objeto.
+
+1212
+01:44:11,199 --> 01:44:13,460
+O que é isso?
+
+1213
+01:44:13,460 --> 01:44:15,649
+O senhor já já entendeu o que a gente poderia dizer.
+
+1214
+01:44:15,649 --> 01:44:19,500
+O senhor não sabe o que isso é.
+
+1215
+01:44:19,500 --> 01:44:31,630
+O senhor tem que dar a ver se é a outra raça da polícia.
+
+1216
+01:44:31,630 --> 01:44:33,819
+O senhor sabe que a polícia é a única.
+
+1217
+01:44:33,819 --> 01:44:37,819
+A segunda é que a senhora tem que fazer isso.
+
+1218
+01:44:37,819 --> 01:44:43,710
+E o senhor tem a ver o que é o senhor.
+
+1219
+01:44:43,710 --> 01:44:45,710
+Bem, o senhor sabe o quão de lutas.
+
+1220
+01:44:45,710 --> 01:44:47,710
+O senhor vai ter que marcar as lutas que está ajudada.
+
+1221
+01:44:47,710 --> 01:44:49,710
+O senhor que não é.
+
+1222
+01:44:49,710 --> 01:44:51,710
+O senhor deve marcar a luta assim lá.
+
+1223
+01:44:51,710 --> 01:44:53,710
+Você sabe o que é uma idade, né?
+
+1224
+01:44:53,710 --> 01:44:55,710
+Aí você já tem essa técnica de fureco.
+
+1225
+01:44:55,710 --> 01:44:59,710
+Agora é justo a expulsão da minha fureca.
+
+1226
+01:44:59,710 --> 01:45:01,739
+É...
+
+1227
+01:45:01,739 --> 01:45:05,739
+Você pergunta se eu vou envolver com esse método, todas as 14?
+
+1228
+01:45:05,739 --> 01:45:08,159
+E...
+
+1229
+01:45:08,159 --> 01:45:10,579
+Pessoas que vão...
+
+1230
+01:45:10,579 --> 01:45:12,579
+Que não vão mais dessas coisas juntos.
+
+1231
+01:45:12,579 --> 01:45:15,060
+Como que não vai?
+
+1232
+01:45:15,060 --> 01:45:17,060
+Ou se você chama o gano de dados
+
+1233
+01:45:17,060 --> 01:45:19,060
+pra tal...
+
+1234
+01:45:19,060 --> 01:45:21,060
+Você tem que saber um pouco esse método.
+
+1235
+01:45:21,060 --> 01:45:24,060
+Então, isso não é tão fácil, não é?
+
+1236
+01:45:24,060 --> 01:45:25,060
+Não é?
+
+1237
+01:45:25,060 --> 01:45:26,060
+Tá bem.
+
+1238
+01:45:26,060 --> 01:45:29,060
+E assim por exemplo, a gente não está respondendo nem a mim.
+
+1239
+01:45:29,060 --> 01:45:32,630
+Mas a gente se preocupa com as minhas coisas do maluco.
+
+1240
+01:45:32,630 --> 01:45:35,630
+As minhas áreas mecânicas, as minha colônicas,
+
+1241
+01:45:35,630 --> 01:45:38,630
+as minas fórticas, as fórtuas da universidade,
+
+1242
+01:45:38,630 --> 01:45:41,630
+os homens, as operativas, esses carros,
+
+1243
+01:45:41,630 --> 01:45:46,920
+tem que ter um projeto, um projeto da região.
+
+1244
+01:45:46,920 --> 01:45:48,920
+A região que eu faço é de fortaleza para cá,
+
+1245
+01:45:48,920 --> 01:45:50,750
+E o que é isso?
+
+1246
+01:45:50,750 --> 01:46:00,630
+Mas, pergunte-me, o que isso era para a gente fazer?
+
+1247
+01:46:00,630 --> 01:46:03,630
+Quer saber como é que é a gente ver o que você sabe?
+
+1248
+01:46:03,630 --> 01:46:11,770
+É, vocês não vão para o artigo, antes de a gente marcar, o quê que foi selecionado?
+
+1249
+01:46:11,770 --> 01:46:14,770
+Vamos mandar um selecionador, um peixezinho.
+
+1250
+01:46:14,770 --> 01:46:17,770
+Um selecionário que é derragado e um piscino.
+
+1251
+01:46:17,770 --> 01:46:21,770
+Um seleçonário que está no estado da Fábio.
+
+1252
+01:46:21,770 --> 01:46:26,189
+Ele tem que fazer escupir e escupitar a pessoa.
+
+1253
+01:46:26,189 --> 01:46:34,189
+E é ele que monta o último que tem, é um índio, é o novo, mas não quer dizer que tem a ser um ídio,
+
+1254
+01:46:34,189 --> 01:46:36,189
+mas não tem o que ter feito um írdio.
+
+1255
+01:46:36,189 --> 01:46:40,149
+O outro índico foi o novo.
+
+1256
+01:46:40,149 --> 01:46:43,149
+Então, ali, isso aí foi um adoramento, pelo menos.
+
+1257
+01:46:43,149 --> 01:46:47,149
+Então, a gente não coloca uma mulher só sem índios no novo.
+
+1258
+01:46:47,149 --> 01:46:49,149
+Ou seja, no novo marco.
+
+1259
+01:46:49,149 --> 01:46:52,149
+A gente não vai ter que existir muito conhecimento.
+
+1260
+01:46:52,149 --> 01:46:57,149
+A gente tem um grupo que trabalha até quarenta e um, já é um grupo de escorta de engenharia,
+
+1261
+01:46:57,149 --> 01:47:02,149
+que distribui a estrutura de funções interogêneas, de construção,
+
+1262
+01:47:02,149 --> 01:47:07,149
+e que tem uma capacidade de remoção do projeto.
+
+1263
+01:47:07,149 --> 01:47:10,210
+No ano de que o projeto, por exemplo, porque tem um projeto,
+
+1264
+01:47:10,210 --> 01:47:14,470
+que a gente distribui o ano de um projeto para o teléfono,
+
+1265
+01:47:14,470 --> 01:47:18,470
+que tem um ponto de voltaio, que volve com esse teléfone,
+
+1266
+01:47:18,470 --> 01:47:23,380
+Você está voltando a esse projeto como tudo que tem ocultado é telefone, tá?
+
+1267
+01:47:23,380 --> 01:47:26,500
+Mas é, é essa a formação, já foi um caso de tudo que é completo.
+
+1268
+01:47:26,500 --> 01:47:35,220
+Mas é para dar mais utilidade, um beijo?
+
+1269
+01:47:35,220 --> 01:47:36,539
+Um beijo.
+
+1270
+01:47:36,539 --> 01:47:37,539
+É uma muita vida, não é?
+
+1271
+01:47:37,539 --> 01:47:38,539
+Sim.
+
+1272
+01:47:38,539 --> 01:47:43,420
+Então, gente, obrigada, desculpe as brincadeiras e obrigada e boa tarde por você.
+
+1273
+01:47:43,420 --> 01:47:44,420
+Tchau.
+
+1274
+01:47:44,420 --> 01:47:48,340
+Obrigada.
+
+1275
+01:47:48,340 --> 01:47:58,939
+Obrigado.
+
+1276
+01:48:00,939 --> 01:48:02,439
+Gente, é rápido, gente.
+
+1277
+01:48:02,439 --> 01:48:08,739
+Não chegando ao final da sua unidade de aventura, da aula inaugural do Programa Mídio Descentivo,
+
+1278
+01:48:08,739 --> 01:48:15,239
+quero agradecer as autoridades presentes, aos representantes das instituições parceiras,
+
+1279
+01:48:15,239 --> 01:48:22,159
+a equipe organizadora e a crôs que contribuíam para a realização deixa aos alunos
+
+1280
+01:48:22,159 --> 01:48:27,399
+desejamos um ancrajante de muita pensado, crescimento e realização.
+
+1281
+01:48:27,399 --> 01:48:32,739
+E vocês encontrem esta experiência, oportunidades para desenvolver suas habilidades
+
+1282
+01:48:32,739 --> 01:48:38,939
+ou partilhar conhecimentos e contribuir com soluções tecnológicas relevantes para a sociedade.
+
+1283
+01:48:38,939 --> 01:48:41,220
+E só para finalizar, qual é o mantra?
+
+1284
+01:48:41,220 --> 01:48:47,340
+Similir!
+
+1285
+01:48:47,340 --> 01:48:49,840
+E deseja uma boa-feira a todos os excelentes...
+

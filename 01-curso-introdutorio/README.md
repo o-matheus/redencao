@@ -4,8 +4,11 @@
 - **Status:** `[x] Concluído`
 
 ## Estrutura desta Pasta
-- [`anotacoes/`](./anotacoes/) — Resumos e informações importantes sobre o funcionamento da plataforma.
+- [`anotacoes/`](./anotacoes/) — Resumos e informações importantes sobre o funcionamento da plataforma e aula inaugural.
   - [`01-resumo-introducao.md`](./anotacoes/01-resumo-introducao.md) — Regras do Nivelamento, Imersão, faltas e avaliação tríplice.
+  - [`02-resumo-aula-inaugural.md`](./anotacoes/02-resumo-aula-inaugural.md) — Resumo executivo dos direcionamentos da coordenação e mesa solene.
+  - [`transcricao-aula-inaugural.txt`](./anotacoes/transcricao-aula-inaugural.txt) — Transcrição integral da aula inaugural (1h48min).
+  - [`transcricao-aula-inaugural.srt`](./anotacoes/transcricao-aula-inaugural.srt) — Legendas com timestamps da gravação.
 - [`exercicios/`](./exercicios/) — Questões de fixação e avaliações.
 
 ## Tópicos / Verbetes Estudados
